@@ -1,6 +1,7 @@
 import {STORAGE_KEY,loadLibrary} from './model.js';
 import {LOCAL_KEY,BACKUP_LIMIT,emptyLocal,loadLocal,saveLocal,mergeCatalog,validateCatalog,makeBackup,parseBackup,restoreBackup,restoreCounts,migrateLegacy,setStudy,selectCards,shuffle,useLatestCatalog} from './library.js';
 import {createSpeech} from './speech.js';
+import {sourceLink,deckSources,resolveDeck,deckUrl,renderDeckLibrary} from './deck-view.js';
 const $=id=>document.getElementById(id), stateButton=s=>$(s==='review'?'reviewState':s);
 let local=emptyLocal(), baseline=null, rows=[], index=0, back=false, ready=false, blocked=false, pending=null, legacy=null, sequence=0, catalog=null;
 function message(text,error=false){$('message').textContent=text;$('message').classList.toggle('error',error);}
@@ -10,14 +11,19 @@ const speech=createSpeech($('voice'),$('speechStatus'),()=>local.settings.speech
 function paragraph(parent,text,lang){if(!text)return;const p=document.createElement('p');p.textContent=text;if(lang)p.lang=lang;parent.append(p);}
 function list(id,items){$(id).replaceChildren();for(const text of items){const li=document.createElement('li');li.textContent=text;$(id).append(li);}}
 function option(select,value,text){const o=document.createElement('option');o.value=value;o.textContent=text;select.append(o);}
-function refreshDecks(){const selected=$('deckSelect').value;$('deckSelect').replaceChildren();option($('deckSelect'),'','すべての単語');for(const d of local.library.decks)option($('deckSelect'),d.id,d.meta.title);if(local.library.decks.some(d=>d.id===selected))$('deckSelect').value=selected;refreshRows();}
+function refreshDecks(){const selected=$('deckSelect').value;$('deckSelect').replaceChildren();option($('deckSelect'),'','すべての単語');for(const d of local.library.decks)option($('deckSelect'),d.id,d.meta.title);if(local.library.decks.some(d=>d.id===selected))$('deckSelect').value=selected;renderDeckLibrary($('deckCards'),local.library,id=>chooseDeck(id,true),location.href);refreshRows();}
+function chooseDeck(id,focus=false){$('deckSelect').value=id;$('search').value='';$('filter').value='';history.replaceState(null,'',deckUrl(location.href,id));refreshRows();if(focus){$('studyHeading').focus();$('studyHeading').scrollIntoView({block:'start'});}}
+function readDeckRoute(){const route=resolveDeck(location.search,local.library.decks);$('deckSelect').value=route.id;refreshRows();if(route.missing)message('指定された単語帳が見つかりません。「すべての単語」を表示しています。単語帳一覧から選んでください。',true);}
 function refreshRows(){speech.cancel();rows=selectCards(local.library,{deckId:$('deckSelect').value,query:$('search').value,status:$('filter').value});if($('shuffle').checked)rows=shuffle(rows);index=0;back=false;$('aids').open=false;render();}
 function render(){
  const card=rows[index],c=card?.content,deckId=$('deckSelect').value;
  $('empty').hidden=!!c;$('studyContent').hidden=!c;$('count').textContent=`${rows.length}枚 / 全${local.library.cards.length}枚`;
  const d=local.library.decks.find(d=>d.id===deckId);
+ $('studyHeading').textContent=d?d.meta.title:'すべての単語';$('selectedSource').replaceChildren();
+ if(d){paragraph($('selectedSource'),d.meta.source_title);const link=sourceLink(document,d.meta);if(link)$('selectedSource').append(link);}
  list('warnings',d?d.warnings:local.library.decks.flatMap(d=>d.warnings.map(w=>d.meta.title+'：'+w)));$('warningsBox').hidden=!$('warnings').childElementCount;
- if(!c)return;
+ $('cardSources').replaceChildren();if(!c)return;
+ for(const origin of deckSources(local.library,card.id,deckId)){const item=document.createElement('div');paragraph(item,'このカードの由来：'+origin.meta.title);const link=sourceLink(document,origin.meta);if(link)item.append(link);$('cardSources').append(item);}
  $('source').textContent=d?.meta.source_title||'すべての単語：同じカードは1枚にまとめて表示';
  $('side').textContent=back?'MEANING · 裏':'KOREAN · 表';$('primary').textContent=back?c.meaning_ja:c.korean;$('primary').lang=back?'ja':'ko';
  $('secondary').textContent=back?c.meaning_en:(local.settings.show_kana?(c.reading_kana||'読み未確認'):'');$('secondary').lang=back?'en':'ja';
@@ -39,7 +45,7 @@ function render(){
  $('position').textContent=`${index+1} / ${rows.length}`;$('prev').disabled=index===0;$('next').disabled=index>=rows.length-1;
 }
 function settingsUI(){for(const [id,key]of [['kana','show_kana'],['romanization','show_romanization'],['ipa','show_ipa']])$(id).checked=local.settings[key];$('rate').value=local.settings.speech_rate;$('rateValue').textContent=local.settings.speech_rate;}
-for(const id of ['deckSelect','filter','shuffle'])$(id).onchange=refreshRows;$('search').oninput=refreshRows;
+$('deckSelect').onchange=()=>chooseDeck($('deckSelect').value);for(const id of ['filter','shuffle'])$(id).onchange=refreshRows;$('search').oninput=refreshRows;
 function move(delta){speech.cancel();index+=delta;back=false;$('aids').open=false;render();}
 $('prev').onclick=()=>move(-1);$('next').onclick=()=>move(1);$('card').onclick=()=>{back=!back;render();};$('speak').onclick=()=>{if(rows[index])speech.speak(rows[index].content.korean);};
 for(const status of ['unseen','review','known'])stateButton(status).onclick=()=>{const card=rows[index];if(!card)return;try{commit(setStudy(local,card.id,status));rows[index]=local.library.cards.find(c=>c.id===card.id);if($('filter').value&&$('filter').value!==status){rows.splice(index,1);index=Math.max(0,Math.min(index,rows.length-1));back=false;speech.cancel();}render();message('学習状態をこの端末に保存しました。');}catch(e){message('保存できませんでした：'+e.message,true);}};
@@ -60,10 +66,11 @@ function checkLegacy(){
 $('migrate').onclick=()=>{if(!legacy||!$('legacyAck').checked){message('移行内容の確認にチェックしてください。',true);return;}try{commit(migrateLegacy(local,legacy,local.settings));ready=true;$('export').disabled=false;refreshDecks();checkLegacy();message('旧データをID・学習状態ごと移行しました。元のPhase 0保存領域も残しています。');}catch(e){message('移行できませんでした：'+e.message,true);}};
 $('latest').onclick=()=>{if(!$('latestAck').checked){message('配信教材への切替内容を確認してください。',true);return;}try{if(!catalog)throw new Error('有効なカタログを読み込めていません');commit(useLatestCatalog(local,catalog));$('latestAck').checked=false;refreshDecks();message('カタログにあるIDの教材を配信版へ戻しました。学習状態とカタログにない教材は保持しました。');}catch(e){message('切替できませんでした：'+e.message,true);}};
 addEventListener('pagehide',()=>speech.cancel());
+addEventListener('popstate',()=>{if(ready){$('search').value='';$('filter').value='';readDeckRoute();}});
 async function start(){
  try{local=loadLocal(localStorage);baseline=localStorage.getItem(LOCAL_KEY);}catch(e){blocked=true;message('既存の保存データを読み込めません。元データを保護し書込を停止しました：'+e.message,true);$('catalogStatus').textContent='要確認：保存データ読込失敗';return;}
  try{const r=await fetch('./data/catalog.json',{cache:'no-store'});if(!r.ok)throw new Error('HTTP '+r.status);const incoming=validateCatalog(await r.json()),next=mergeCatalog(local,incoming);commit(next);catalog=incoming;$('catalogStatus').textContent='静的教材を読み込みました · 学習状態は端末内のみ';ready=true;}
  catch(e){ready=local.library.cards.length>0;$('catalogStatus').textContent='要確認：教材を更新できません。保存済み教材があれば表示します。';message('教材読込・保存失敗：'+e.message,true);}
- settingsUI();refreshDecks();checkLegacy();$('export').disabled=!ready;$('previewRestore').disabled=false;$('latest').disabled=!catalog;
+ settingsUI();refreshDecks();readDeckRoute();checkLegacy();$('export').disabled=!ready;$('previewRestore').disabled=false;$('latest').disabled=!catalog;
 }
 start();
