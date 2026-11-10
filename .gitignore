@@ -1,0 +1,13 @@
+.private/
+private/
+backups/
+archive/
+work/
+.env
+.env.*
+*.private.json
+*.local.json
+kohaku-private-backup-*.json
+node_modules/
+__pycache__/
+PROGRESS.md

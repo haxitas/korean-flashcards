@@ -1,0 +1,63 @@
+{
+  "format": "kohaku-korean-deck",
+  "schema_version": 1,
+  "deck": {
+    "title": "サンプルB：既存カードの再利用",
+    "source_title": "動作確認用の架空教材（実在動画ではありません）",
+    "source_url": null,
+    "description_ja": "공부と梨の배をAの既存カードへまとめ、안녕하세요だけを新規にします。"
+  },
+  "cards": [
+    {
+      "kind": "word",
+      "korean": "공부",
+      "reading_kana": "コンブ",
+      "meaning_ja": "学習・勉強",
+      "meaning_en": "studying; study",
+      "surface_form": "공부",
+      "pronunciation_hangul": null,
+      "romanization": "gongbu",
+      "ipa": null,
+      "pronunciation_note_ja": null,
+      "note_ja": null,
+      "needs_review": false,
+      "review_note_ja": null,
+      "example": null
+    },
+    {
+      "kind": "word",
+      "korean": "배",
+      "reading_kana": "ペ",
+      "meaning_ja": "ナシ（果物）",
+      "meaning_en": "a pear",
+      "surface_form": "배",
+      "pronunciation_hangul": null,
+      "romanization": "bae",
+      "ipa": null,
+      "pronunciation_note_ja": null,
+      "note_ja": null,
+      "needs_review": false,
+      "review_note_ja": null,
+      "example": null
+    },
+    {
+      "kind": "phrase",
+      "korean": "안녕하세요",
+      "reading_kana": "アンニョンハセヨ",
+      "meaning_ja": "こんにちは",
+      "meaning_en": "Hello.",
+      "surface_form": "안녕하세요",
+      "pronunciation_hangul": null,
+      "romanization": "annyeonghaseyo",
+      "ipa": null,
+      "pronunciation_note_ja": null,
+      "note_ja": null,
+      "needs_review": false,
+      "review_note_ja": null,
+      "example": null
+    }
+  ],
+  "warnings": [
+    "Aと訳文が違っても同じ語義として再利用する動作を確認するためのサンプルです。"
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "format": "kohaku-korean-catalog",
+  "schema_version": 1,
+  "cards": [
+    {
+      "id": "21121f53-5966-4e17-bdf5-d841fcdb49fd",
+      "content": {
+        "kind": "word",
+        "korean": "공부",
+        "reading_kana": "コンブ",
+        "meaning_ja": "勉強",
+        "meaning_en": "study; studying",
+        "surface_form": "공부",
+        "pronunciation_hangul": null,
+        "romanization": "gongbu",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "한국어 공부를 해 보세요.",
+          "ja": "韓国語の勉強をしてみてください。",
+          "en": "Try studying Korean.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "7f9c9905-5d8c-4623-b475-9c697d89628f",
+      "content": {
+        "kind": "word",
+        "korean": "배",
+        "reading_kana": "ペ",
+        "meaning_ja": "梨",
+        "meaning_en": "pear",
+        "surface_form": "배",
+        "pronunciation_hangul": null,
+        "romanization": "bae",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "このカードでは果物の意味。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d707044b-77e4-432e-bcc0-89dc999039a2",
+      "content": {
+        "kind": "word",
+        "korean": "배",
+        "reading_kana": "ペ",
+        "meaning_ja": "船",
+        "meaning_en": "boat; ship",
+        "surface_form": "배",
+        "pronunciation_hangul": null,
+        "romanization": "bae",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "このカードでは乗り物の意味。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "7e0c6961-8a40-4ecd-aa5a-f00127338915",
+      "content": {
+        "kind": "word",
+        "korean": "배",
+        "reading_kana": "ペ",
+        "meaning_ja": "お腹・腹",
+        "meaning_en": "belly; abdomen",
+        "surface_form": "배",
+        "pronunciation_hangul": null,
+        "romanization": "bae",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "このカードでは体の部位の意味。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "49c6c9fb-4a99-4919-a09e-0decd55e7576",
+      "content": {
+        "kind": "phrase",
+        "korean": "사랑해요",
+        "reading_kana": "サランヘヨ",
+        "meaning_ja": "愛しています",
+        "meaning_en": "I love you.",
+        "surface_form": "사랑해요",
+        "pronunciation_hangul": null,
+        "romanization": "saranghaeyo",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "460c9a9a-9499-4ae0-8a98-4fc214f50323",
+      "content": {
+        "kind": "phrase",
+        "korean": "안녕하세요",
+        "reading_kana": "アンニョンハセヨ",
+        "meaning_ja": "こんにちは",
+        "meaning_en": "Hello.",
+        "surface_form": "안녕하세요",
+        "pronunciation_hangul": null,
+        "romanization": "annyeonghaseyo",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    }
+  ],
+  "decks": [
+    {
+      "id": "0c88caa6-f488-401f-a3dc-04d98eeebad2",
+      "meta": {
+        "title": "サンプルA：基本語と同じ綴りの別語義",
+        "source_title": "動作確認用の架空教材（実在動画ではありません）",
+        "source_url": null,
+        "description_ja": "공부と배の3語義、フレーズを確認します。読み・訳はデータ形式の説明用です。"
+      },
+      "warnings": [
+        "すべて動作確認用です。実在動画の字幕から抽出したものではありません。"
+      ]
+    },
+    {
+      "id": "00dc7cfa-9ba6-4af7-92ce-10c1e0123361",
+      "meta": {
+        "title": "サンプルB：既存カードの再利用",
+        "source_title": "動作確認用の架空教材（実在動画ではありません）",
+        "source_url": null,
+        "description_ja": "공부と梨の배をAの既存カードへまとめ、안녕하세요だけを新規にします。"
+      },
+      "warnings": [
+        "Aと訳文が違っても同じ語義として再利用する動作を確認するためのサンプルです。"
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "0c88caa6-f488-401f-a3dc-04d98eeebad2__21121f53-5966-4e17-bdf5-d841fcdb49fd",
+      "deck_id": "0c88caa6-f488-401f-a3dc-04d98eeebad2",
+      "card_id": "21121f53-5966-4e17-bdf5-d841fcdb49fd",
+      "source_card": {
+        "kind": "word",
+        "korean": "공부",
+        "reading_kana": "コンブ",
+        "meaning_ja": "勉強",
+        "meaning_en": "study; studying",
+        "surface_form": "공부",
+        "pronunciation_hangul": null,
+        "romanization": "gongbu",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "한국어 공부를 해 보세요.",
+          "ja": "韓国語の勉強をしてみてください。",
+          "en": "Try studying Korean.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "0c88caa6-f488-401f-a3dc-04d98eeebad2__7f9c9905-5d8c-4623-b475-9c697d89628f",
+      "deck_id": "0c88caa6-f488-401f-a3dc-04d98eeebad2",
+      "card_id": "7f9c9905-5d8c-4623-b475-9c697d89628f",
+      "source_card": {
+        "kind": "word",
+        "korean": "배",
+        "reading_kana": "ペ",
+        "meaning_ja": "梨",
+        "meaning_en": "pear",
+        "surface_form": "배",
+        "pronunciation_hangul": null,
+        "romanization": "bae",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "このカードでは果物の意味。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "0c88caa6-f488-401f-a3dc-04d98eeebad2__d707044b-77e4-432e-bcc0-89dc999039a2",
+      "deck_id": "0c88caa6-f488-401f-a3dc-04d98eeebad2",
+      "card_id": "d707044b-77e4-432e-bcc0-89dc999039a2",
+      "source_card": {
+        "kind": "word",
+        "korean": "배",
+        "reading_kana": "ペ",
+        "meaning_ja": "船",
+        "meaning_en": "boat; ship",
+        "surface_form": "배",
+        "pronunciation_hangul": null,
+        "romanization": "bae",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "このカードでは乗り物の意味。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "0c88caa6-f488-401f-a3dc-04d98eeebad2__7e0c6961-8a40-4ecd-aa5a-f00127338915",
+      "deck_id": "0c88caa6-f488-401f-a3dc-04d98eeebad2",
+      "card_id": "7e0c6961-8a40-4ecd-aa5a-f00127338915",
+      "source_card": {
+        "kind": "word",
+        "korean": "배",
+        "reading_kana": "ペ",
+        "meaning_ja": "お腹・腹",
+        "meaning_en": "belly; abdomen",
+        "surface_form": "배",
+        "pronunciation_hangul": null,
+        "romanization": "bae",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "このカードでは体の部位の意味。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "0c88caa6-f488-401f-a3dc-04d98eeebad2__49c6c9fb-4a99-4919-a09e-0decd55e7576",
+      "deck_id": "0c88caa6-f488-401f-a3dc-04d98eeebad2",
+      "card_id": "49c6c9fb-4a99-4919-a09e-0decd55e7576",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "사랑해요",
+        "reading_kana": "サランヘヨ",
+        "meaning_ja": "愛しています",
+        "meaning_en": "I love you.",
+        "surface_form": "사랑해요",
+        "pronunciation_hangul": null,
+        "romanization": "saranghaeyo",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "00dc7cfa-9ba6-4af7-92ce-10c1e0123361__21121f53-5966-4e17-bdf5-d841fcdb49fd",
+      "deck_id": "00dc7cfa-9ba6-4af7-92ce-10c1e0123361",
+      "card_id": "21121f53-5966-4e17-bdf5-d841fcdb49fd",
+      "source_card": {
+        "kind": "word",
+        "korean": "공부",
+        "reading_kana": "コンブ",
+        "meaning_ja": "学習・勉強",
+        "meaning_en": "studying; study",
+        "surface_form": "공부",
+        "pronunciation_hangul": null,
+        "romanization": "gongbu",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "00dc7cfa-9ba6-4af7-92ce-10c1e0123361__7f9c9905-5d8c-4623-b475-9c697d89628f",
+      "deck_id": "00dc7cfa-9ba6-4af7-92ce-10c1e0123361",
+      "card_id": "7f9c9905-5d8c-4623-b475-9c697d89628f",
+      "source_card": {
+        "kind": "word",
+        "korean": "배",
+        "reading_kana": "ペ",
+        "meaning_ja": "ナシ（果物）",
+        "meaning_en": "a pear",
+        "surface_form": "배",
+        "pronunciation_hangul": null,
+        "romanization": "bae",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "00dc7cfa-9ba6-4af7-92ce-10c1e0123361__460c9a9a-9499-4ae0-8a98-4fc214f50323",
+      "deck_id": "00dc7cfa-9ba6-4af7-92ce-10c1e0123361",
+      "card_id": "460c9a9a-9499-4ae0-8a98-4fc214f50323",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "안녕하세요",
+        "reading_kana": "アンニョンハセヨ",
+        "meaning_ja": "こんにちは",
+        "meaning_en": "Hello.",
+        "surface_form": "안녕하세요",
+        "pronunciation_hangul": null,
+        "romanization": "annyeonghaseyo",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Kohaku Korean Full Backup v1",
+  "description": "全ライブラリ用。20 MiBまで。ID一意性・所属参照・Entry ID一致は追加の意味検証が必要。教材500枚制限は適用しない。",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "format",
+    "schema_version",
+    "exported_at",
+    "cards",
+    "decks",
+    "entries",
+    "settings"
+  ],
+  "properties": {
+    "format": {
+      "const": "kohaku-korean-backup"
+    },
+    "schema_version": {
+      "const": 1
+    },
+    "exported_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "cards": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/storedCard"
+      }
+    },
+    "decks": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/storedDeck"
+      }
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/entry"
+      }
+    },
+    "settings": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "show_kana",
+        "show_romanization",
+        "show_ipa",
+        "speech_rate"
+      ],
+      "properties": {
+        "show_kana": {
+          "type": "boolean"
+        },
+        "show_romanization": {
+          "type": "boolean"
+        },
+        "show_ipa": {
+          "type": "boolean"
+        },
+        "speech_rate": {
+          "type": "number",
+          "minimum": 0.5,
+          "maximum": 1.5
+        }
+      }
+    }
+  },
+  "$defs": {
+    "card": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind",
+        "korean",
+        "reading_kana",
+        "meaning_ja",
+        "meaning_en"
+      ],
+      "properties": {
+        "kind": {
+          "enum": [
+            "word",
+            "phrase",
+            "sentence"
+          ]
+        },
+        "korean": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500,
+          "pattern": "\\S"
+        },
+        "reading_kana": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1,
+          "maxLength": 1000,
+          "pattern": "\\S"
+        },
+        "meaning_ja": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000,
+          "pattern": "\\S"
+        },
+        "meaning_en": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000,
+          "pattern": "\\S"
+        },
+        "surface_form": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 500
+        },
+        "pronunciation_hangul": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 500
+        },
+        "ipa": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 1000
+        },
+        "pronunciation_note_ja": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 2000
+        },
+        "note_ja": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 3000
+        },
+        "needs_review": {
+          "type": "boolean"
+        },
+        "review_note_ja": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 2000
+        },
+        "example": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "ko",
+                "ja",
+                "en",
+                "origin"
+              ],
+              "properties": {
+                "ko": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 2000,
+                  "pattern": "\\S"
+                },
+                "ja": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 2000,
+                  "pattern": "\\S"
+                },
+                "en": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 2000,
+                  "pattern": "\\S"
+                },
+                "origin": {
+                  "enum": [
+                    "source",
+                    "generated"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "romanization": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 1000,
+          "description": "任意のRR式補助表記。IPAとは区別する。"
+        }
+      }
+    },
+    "deck": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title"
+      ],
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200,
+          "pattern": "\\S"
+        },
+        "source_title": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 500
+        },
+        "source_url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 2000
+        },
+        "description_ja": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 2000
+        }
+      }
+    },
+    "storedCard": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "content",
+        "study"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uuid",
+          "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+        },
+        "content": {
+          "$ref": "#/$defs/card"
+        },
+        "study": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "status"
+          ],
+          "properties": {
+            "status": {
+              "enum": [
+                "unseen",
+                "review",
+                "known"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "storedDeck": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "meta",
+        "warnings"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uuid",
+          "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+        },
+        "meta": {
+          "$ref": "#/$defs/deck"
+        },
+        "warnings": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "maxLength": 2000
+          }
+        }
+      }
+    },
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "deck_id",
+        "card_id",
+        "source_card"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[0-9a-fA-F-]{36}__[0-9a-fA-F-]{36}$"
+        },
+        "deck_id": {
+          "type": "string",
+          "format": "uuid",
+          "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+        },
+        "card_id": {
+          "type": "string",
+          "format": "uuid",
+          "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+        },
+        "source_card": {
+          "$ref": "#/$defs/card"
+        }
+      }
+    }
+  }
+}
