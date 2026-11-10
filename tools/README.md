@@ -2,6 +2,8 @@
 
 学習画面へ教材追加UIは置かない。教材生成はCARD_GENERATION_PROMPT.txtを使い、生成物を.private/などGit対象外へ保存する。追加候補は1回5 MiB/500枚まで。Node v24で確認済み、追加パッケージ不要。
 
+動画URL＋提供文字起こしから、公開を許可された抽出語彙と短い例だけを教材にする。deck.source_title/source_urlに確認できたタイトルと元URLを付け、字幕全文はGitへ入れない。音声未確認や価格・誤認識の不一致はwarnings、修正した見出しは元のsurface_formと要確認を残す。再構成した例文はorigin=generated。公開後の動画専用リンクは `?deck=UUID`。
+
 1. `node tools/catalog.mjs validate --catalog docs/data/catalog.json` で現在の教材を確認。
 2. `node tools/catalog.mjs plan --catalog docs/data/catalog.json --input .private/incoming.json` で0始まりの行番号、既存UUID候補、先行入力候補、元入力一致を確認。
 3. 対応表 `.private/choices.json` を作成。候補のない行は新規、候補ありは明示必須。例：`{"0":{"reuse":"実際の候補UUID"},"1":"new","2":"exclude","3":{"reuse_index":0}}`。reuse_indexはこの入力内の先行行に解決済みのカードを参照する。単語の綴りだけで語義を判断しない。

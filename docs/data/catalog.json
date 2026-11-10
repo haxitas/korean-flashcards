@@ -120,6 +120,1329 @@
         "review_note_ja": null,
         "example": null
       }
+    },
+    {
+      "id": "1d410dbc-550e-44f1-83f2-fbd34261db89",
+      "content": {
+        "kind": "word",
+        "korean": "지금",
+        "reading_kana": "チグム",
+        "meaning_ja": "今",
+        "meaning_en": "now",
+        "surface_form": "지금",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "fbd4a30e-acdd-4647-aae9-e8be2b094ed2",
+      "content": {
+        "kind": "word",
+        "korean": "저녁",
+        "reading_kana": "チョニョク",
+        "meaning_ja": "夕方・夜",
+        "meaning_en": "evening",
+        "surface_form": "저녁",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "57c4ed7b-86b7-4af9-96f0-9a611b042c34",
+      "content": {
+        "kind": "word",
+        "korean": "배고프다",
+        "reading_kana": "ペゴプダ",
+        "meaning_ja": "お腹がすいている",
+        "meaning_en": "to be hungry",
+        "surface_form": "배고파요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "a3bc6b6c-5542-424a-bdde-c3acf2db191a",
+      "content": {
+        "kind": "word",
+        "korean": "편의점",
+        "reading_kana": "ピョニジョム",
+        "meaning_ja": "コンビニ",
+        "meaning_en": "convenience store",
+        "surface_form": "편의점",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "의には発音の揺れがあります。カタカナは「ピョニジョム」に近い読みの補助です。",
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "편의점에 갈 거예요.",
+          "ja": "コンビニに行くつもりです。",
+          "en": "I am going to the convenience store.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "cfa220c5-3875-4df4-a85e-9483989fdf29",
+      "content": {
+        "kind": "word",
+        "korean": "가다",
+        "reading_kana": "カダ",
+        "meaning_ja": "行く",
+        "meaning_en": "to go",
+        "surface_form": "갈 거예요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "42eedd02-d90d-4e9f-bb8d-f70e73418374",
+      "content": {
+        "kind": "word",
+        "korean": "같이",
+        "reading_kana": "カチ",
+        "meaning_ja": "一緒に",
+        "meaning_en": "together",
+        "surface_form": "같이",
+        "pronunciation_hangul": "가치",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "같이は「カチ」に近い発音。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "3a693d9b-018b-4b8a-ac25-b8fe6dabf996",
+      "content": {
+        "kind": "phrase",
+        "korean": "같이 갈까요?",
+        "reading_kana": "カチ カルッカヨ",
+        "meaning_ja": "一緒に行きましょうか",
+        "meaning_en": "Shall we go together?",
+        "surface_form": "같이 갈까요?",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "500f30c8-6e1c-4f65-9a61-8bc293140185",
+      "content": {
+        "kind": "word",
+        "korean": "깜깜하다",
+        "reading_kana": "ッカムッカマダ",
+        "meaning_ja": "真っ暗だ",
+        "meaning_en": "to be very dark",
+        "surface_form": "깜깜해요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "7294d688-b442-4648-a1ac-7de32a561303",
+      "content": {
+        "kind": "word",
+        "korean": "여기",
+        "reading_kana": "ヨギ",
+        "meaning_ja": "ここ",
+        "meaning_en": "here",
+        "surface_form": "여기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "88248872-a89e-4635-a3ba-04d94059fd80",
+      "content": {
+        "kind": "word",
+        "korean": "들어가다",
+        "reading_kana": "トゥロガダ",
+        "meaning_ja": "中に入る",
+        "meaning_en": "to go in; to enter",
+        "surface_form": "들어가요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "a92cc546-c209-4ab8-99da-781a96d5cb08",
+      "content": {
+        "kind": "word",
+        "korean": "라면",
+        "reading_kana": "ラミョン",
+        "meaning_ja": "ラーメン・インスタント麺",
+        "meaning_en": "ramyeon; instant noodles",
+        "surface_form": "라면",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "299cac23-24d6-4cf9-936f-d5e47b289af1",
+      "content": {
+        "kind": "word",
+        "korean": "많다",
+        "reading_kana": "マンタ",
+        "meaning_ja": "多い・たくさんある",
+        "meaning_en": "to be many; to be plentiful",
+        "surface_form": "많아요",
+        "pronunciation_hangul": "만타",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅎの影響でㄷが激音化します。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "7a6f9a0d-074a-49f4-84cd-67c32f32798f",
+      "content": {
+        "kind": "word",
+        "korean": "컵라면",
+        "reading_kana": "コムナミョン",
+        "meaning_ja": "カップ麺",
+        "meaning_en": "cup noodles",
+        "surface_form": "컵라면",
+        "pronunciation_hangul": "컴나면",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "받침ㅂと後続のㄹにより、鼻音化した「コムナミョン」に近くなります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "56ed919f-f1ad-4a1b-8bc6-e98216bba887",
+      "content": {
+        "kind": "word",
+        "korean": "고르다",
+        "reading_kana": "コルダ",
+        "meaning_ja": "選ぶ",
+        "meaning_en": "to choose; to pick",
+        "surface_form": "골랐어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "컵라면을 골라요.",
+          "ja": "カップ麺を選びます。",
+          "en": "I choose cup noodles.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "d01fce41-5cb5-4427-bba0-14774e902f8b",
+      "content": {
+        "kind": "word",
+        "korean": "맵다",
+        "reading_kana": "メプタ",
+        "meaning_ja": "辛い",
+        "meaning_en": "to be spicy",
+        "surface_form": "매워요",
+        "pronunciation_hangul": "맵따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "終声ㅂのあとでㄷが濃音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d164735a-cf6d-47b1-911e-8cbce5a22ed5",
+      "content": {
+        "kind": "word",
+        "korean": "맛",
+        "reading_kana": "マッ",
+        "meaning_ja": "味",
+        "meaning_en": "taste; flavor",
+        "surface_form": "맛",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d6106886-2286-4745-ae0b-e471a34a56e0",
+      "content": {
+        "kind": "word",
+        "korean": "진짜",
+        "reading_kana": "チンッチャ",
+        "meaning_ja": "本当に",
+        "meaning_en": "really",
+        "surface_form": "진짜",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26b81c7c-781b-48d6-ac7b-d22485b10bc8",
+      "content": {
+        "kind": "phrase",
+        "korean": "안 맵다",
+        "reading_kana": "アン メプタ",
+        "meaning_ja": "辛くない",
+        "meaning_en": "not to be spicy",
+        "surface_form": "안 매워요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "497efa34-a034-4a6d-bfa8-4ae811f35416",
+      "content": {
+        "kind": "word",
+        "korean": "좋아하다",
+        "reading_kana": "チョアハダ",
+        "meaning_ja": "好きだ",
+        "meaning_en": "to like",
+        "surface_form": "좋아해요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "저는 매운 라면 좋아해요.",
+          "ja": "私は辛いラーメンが好きです。",
+          "en": "I like spicy ramyeon.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "5acf7b5a-cab6-47eb-ab15-b767703fc5f0",
+      "content": {
+        "kind": "word",
+        "korean": "가격",
+        "reading_kana": "カギョク",
+        "meaning_ja": "価格・値段",
+        "meaning_en": "price",
+        "surface_form": "가격",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "a68f136c-f38c-4a65-b8e1-2c75e5179ced",
+      "content": {
+        "kind": "word",
+        "korean": "삼각김밥",
+        "reading_kana": "サムガクッキムッパプ",
+        "meaning_ja": "三角おにぎり",
+        "meaning_en": "triangular gimbap; a triangle-shaped rice snack",
+        "surface_form": "삼각김밥",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "김밥のㄱ・ㅂを濃く発音する読みを示しています。語末のㅂは唇を閉じて止めます。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "44e85406-9b51-4769-829a-22e38b5f3c47",
+      "content": {
+        "kind": "word",
+        "korean": "참치",
+        "reading_kana": "チャムチ",
+        "meaning_ja": "マグロ・ツナ",
+        "meaning_en": "tuna",
+        "surface_form": "참치",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "7781879a-4045-47ad-abda-068de942d2e2",
+      "content": {
+        "kind": "word",
+        "korean": "음료수",
+        "reading_kana": "ウムニョス",
+        "meaning_ja": "飲み物・清涼飲料",
+        "meaning_en": "a drink; a beverage",
+        "surface_form": "음료수",
+        "pronunciation_hangul": "음뇨수",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅁのあとでㄹがㄴの音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "2191a99b-46b5-471c-a07c-1ccbfdb3b370",
+      "content": {
+        "kind": "word",
+        "korean": "복숭아",
+        "reading_kana": "ポクッスンア",
+        "meaning_ja": "桃",
+        "meaning_en": "peach",
+        "surface_form": "복숭아",
+        "pronunciation_hangul": "복쑹아",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅅが濃音になる発音を読みで示しています。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "5b9be50c-8558-43ab-981f-5ead372a822e",
+      "content": {
+        "kind": "word",
+        "korean": "아이스티",
+        "reading_kana": "アイスティ",
+        "meaning_ja": "アイスティー",
+        "meaning_en": "iced tea",
+        "surface_form": "아이스티",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "b1c0d056-b4b8-4fad-958a-33738d1283a5",
+      "content": {
+        "kind": "word",
+        "korean": "얼음",
+        "reading_kana": "オルム",
+        "meaning_ja": "氷",
+        "meaning_en": "ice",
+        "surface_form": "얼음",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d565962b-be4d-43d8-858d-90a244c86659",
+      "content": {
+        "kind": "word",
+        "korean": "컵",
+        "reading_kana": "コプ",
+        "meaning_ja": "コップ・カップ",
+        "meaning_en": "cup",
+        "surface_form": "컵",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "415c58e5-59c5-4a15-b004-0b48a5fa479f",
+      "content": {
+        "kind": "word",
+        "korean": "꺼내다",
+        "reading_kana": "ッコネダ",
+        "meaning_ja": "取り出す",
+        "meaning_en": "to take out",
+        "surface_form": "꺼내요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "589b2ae3-0b25-4704-a916-5b31d2789e97",
+      "content": {
+        "kind": "word",
+        "korean": "계산하다",
+        "reading_kana": "ケサナダ",
+        "meaning_ja": "会計する・代金を払う",
+        "meaning_en": "to pay at the checkout",
+        "surface_form": "계산해요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "이제 계산해요.",
+          "ja": "これから会計します。",
+          "en": "Now I pay at the checkout.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "53bcafa9-1b0d-4d01-988b-6373f27de9cd",
+      "content": {
+        "kind": "word",
+        "korean": "빨대",
+        "reading_kana": "ッパルッテ",
+        "meaning_ja": "ストロー",
+        "meaning_en": "drinking straw",
+        "surface_form": "빨데",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": true,
+        "review_note_ja": "3:53の字幕は빨데。後続3:57に빨대もあるため標準見出し빨대で収録。音声未確認。",
+        "example": null
+      }
+    },
+    {
+      "id": "fa755859-86d2-44f1-a919-78bb660ee16c",
+      "content": {
+        "kind": "word",
+        "korean": "필요하다",
+        "reading_kana": "ピリョハダ",
+        "meaning_ja": "必要だ",
+        "meaning_en": "to be needed; to be necessary",
+        "surface_form": "필요하세요?",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "fb317758-3bf3-4d1e-9011-7076582f9829",
+      "content": {
+        "kind": "word",
+        "korean": "젓가락",
+        "reading_kana": "チョッカラク",
+        "meaning_ja": "箸",
+        "meaning_en": "chopsticks",
+        "surface_form": "젓가락",
+        "pronunciation_hangul": "젇까락",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "終声ㅅはㄷの音、後続のㄱは濃音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "ba69ee13-16cd-4064-a8ed-fc109c8be3f7",
+      "content": {
+        "kind": "phrase",
+        "korean": "감사합니다",
+        "reading_kana": "カムサハムニダ",
+        "meaning_ja": "ありがとうございます",
+        "meaning_en": "Thank you.",
+        "surface_form": "감사합니다",
+        "pronunciation_hangul": "감사함니다",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "합니다は「ハムニダ」に近い発音です。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "9059f4b2-f5aa-4939-b02a-e3e931ebbb57",
+      "content": {
+        "kind": "word",
+        "korean": "테이블",
+        "reading_kana": "テイブル",
+        "meaning_ja": "テーブル",
+        "meaning_en": "table",
+        "surface_form": "테이블",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "622561a3-4f13-4569-b737-bbdf176a3fb3",
+      "content": {
+        "kind": "word",
+        "korean": "있다",
+        "reading_kana": "イッタ",
+        "meaning_ja": "ある・いる",
+        "meaning_en": "to exist; to be there",
+        "surface_form": "있어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "27eb1ff0-2d6d-4442-a2c5-ae77dddc88c0",
+      "content": {
+        "kind": "word",
+        "korean": "의자",
+        "reading_kana": "ウィジャ",
+        "meaning_ja": "椅子",
+        "meaning_en": "chair",
+        "surface_form": "의자",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "e45a8716-ac7c-4947-b9fc-fbad9d3c4c8b",
+      "content": {
+        "kind": "word",
+        "korean": "먹다",
+        "reading_kana": "モクッタ",
+        "meaning_ja": "食べる",
+        "meaning_en": "to eat",
+        "surface_form": "먹어요",
+        "pronunciation_hangul": "먹따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "終声ㄱのあとでㄷが濃音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "e02b82b3-d0fd-44a3-9ee2-764fe734abea",
+      "content": {
+        "kind": "phrase",
+        "korean": "먹을 수 있다",
+        "reading_kana": "モグル ス イッタ",
+        "meaning_ja": "食べることができる",
+        "meaning_en": "can eat; to be able to eat",
+        "surface_form": "먹을 수 있어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "여기에서 먹을 수 있어요.",
+          "ja": "ここで食べることができます。",
+          "en": "You can eat here.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "23f380b3-7cea-4a72-b150-8a7f70f361d0",
+      "content": {
+        "kind": "word",
+        "korean": "비닐",
+        "reading_kana": "ピニル",
+        "meaning_ja": "ビニール・プラスチック包装",
+        "meaning_en": "plastic wrapping",
+        "surface_form": "비닐를",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": true,
+        "review_note_ja": "字幕の비닐를は助詞が崩れています。見出しは비닐、元表記はsurface_formに保存。",
+        "example": null
+      }
+    },
+    {
+      "id": "d6a26fa7-081a-4552-bcb3-964fa5bcb65a",
+      "content": {
+        "kind": "word",
+        "korean": "뜯다",
+        "reading_kana": "ットゥッタ",
+        "meaning_ja": "破って開ける・はがす",
+        "meaning_en": "to tear open; to peel off",
+        "surface_form": "뜯어요",
+        "pronunciation_hangul": "뜯따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "最初のㄸと後続のㄷが濃音になります。",
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "컵라면 비닐을 뜯어요.",
+          "ja": "カップ麺の包装を破って開けます。",
+          "en": "I tear open the plastic wrapping on the cup noodles.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "908a98c0-1e47-4b66-9516-2c027a7a6176",
+      "content": {
+        "kind": "word",
+        "korean": "뚜껑",
+        "reading_kana": "ットゥッコン",
+        "meaning_ja": "ふた",
+        "meaning_en": "lid",
+        "surface_form": "뚜껑",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "06a1f47e-e819-439d-86c0-872c803f012e",
+      "content": {
+        "kind": "word",
+        "korean": "열다",
+        "reading_kana": "ヨルダ",
+        "meaning_ja": "開ける・開く",
+        "meaning_en": "to open",
+        "surface_form": "열어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "ふたを開ける場面と、店が営業しているという話の両方に登場します。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "7e35b9e9-ffb5-4e0a-9d82-bfab63e56eac",
+      "content": {
+        "kind": "word",
+        "korean": "수프",
+        "reading_kana": "スプ",
+        "meaning_ja": "スープの素・粉末調味料",
+        "meaning_en": "soup seasoning powder (for the noodles)",
+        "surface_form": "스프",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": true,
+        "review_note_ja": "字幕は스프。標準表記の수프で収録。この文脈では麺のスープの素。音声・包装表示は未確認。",
+        "example": null
+      }
+    },
+    {
+      "id": "3418f5d3-e5ea-4b1c-bb37-83a2854a6fcb",
+      "content": {
+        "kind": "word",
+        "korean": "넣다",
+        "reading_kana": "ノタ",
+        "meaning_ja": "入れる",
+        "meaning_en": "to put in",
+        "surface_form": "넣어요",
+        "pronunciation_hangul": "너타",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅎの影響でㄷが激音化します。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "b752775c-5a6b-49ca-baf9-d53e47eaf0fc",
+      "content": {
+        "kind": "word",
+        "korean": "물",
+        "reading_kana": "ムル",
+        "meaning_ja": "水・お湯",
+        "meaning_en": "water",
+        "surface_form": "물",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "물は水全般。動画のカップ麺の場面では뜨거운 물（熱いお湯）を指します。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "f3c80b87-e707-4257-baf6-f30c1ff7b5b9",
+      "content": {
+        "kind": "word",
+        "korean": "붓다",
+        "reading_kana": "プッタ",
+        "meaning_ja": "注ぐ",
+        "meaning_en": "to pour",
+        "surface_form": "부어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "このカードは液体を注ぐ意味。部位が腫れる意味の붓다とは区別します。 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "물을 부어요.",
+          "ja": "お湯を注ぎます。",
+          "en": "I pour in the water.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "e0cee110-68f5-4f28-bdc3-89dfa8cd53ce",
+      "content": {
+        "kind": "word",
+        "korean": "뜨겁다",
+        "reading_kana": "ットゥゴプタ",
+        "meaning_ja": "熱い",
+        "meaning_en": "to be hot (to the touch)",
+        "surface_form": "뜨거워요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "0a8bd620-845b-469f-8ddf-eaf948a56266",
+      "content": {
+        "kind": "word",
+        "korean": "기다리다",
+        "reading_kana": "キダリダ",
+        "meaning_ja": "待つ",
+        "meaning_en": "to wait",
+        "surface_form": "기다려요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "fb5d40e7-7a14-4ed3-9109-89cebd824592",
+      "content": {
+        "kind": "word",
+        "korean": "맛있다",
+        "reading_kana": "マシッタ",
+        "meaning_ja": "おいしい",
+        "meaning_en": "to be delicious",
+        "surface_form": "맛있어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ここでは一般的な「マシッタ」に近い読みを示しています。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "11ef8dab-b40e-4b92-a4f5-440673a59210",
+      "content": {
+        "kind": "word",
+        "korean": "국물",
+        "reading_kana": "クンムル",
+        "meaning_ja": "汁・スープ",
+        "meaning_en": "broth; soup liquid",
+        "surface_form": "국물",
+        "pronunciation_hangul": "궁물",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄱがㅁの前で鼻音化します。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "94065c56-5e94-410c-8daa-dd9660291e46",
+      "content": {
+        "kind": "word",
+        "korean": "마시다",
+        "reading_kana": "マシダ",
+        "meaning_ja": "飲む",
+        "meaning_en": "to drink",
+        "surface_form": "마셔요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "a71f6a5c-15c6-415c-aa10-d9b523032349",
+      "content": {
+        "kind": "phrase",
+        "korean": "다 먹다",
+        "reading_kana": "タ モクッタ",
+        "meaning_ja": "全部食べる・食べ終える",
+        "meaning_en": "to eat everything; to finish eating",
+        "surface_form": "다 먹었어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "e47d922e-56a0-4834-9cdc-c93ff07d9298",
+      "content": {
+        "kind": "word",
+        "korean": "쓰레기",
+        "reading_kana": "ッスレギ",
+        "meaning_ja": "ごみ",
+        "meaning_en": "trash; rubbish",
+        "surface_form": "쓰레기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "67dee64a-b81a-4f6e-91f5-dc631a0e47b5",
+      "content": {
+        "kind": "word",
+        "korean": "쓰레기통",
+        "reading_kana": "ッスレギトン",
+        "meaning_ja": "ごみ箱",
+        "meaning_en": "trash can; bin",
+        "surface_form": "쓰레기통",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "701b5f56-5f60-4bc7-9102-251e2af20bf4",
+      "content": {
+        "kind": "word",
+        "korean": "버리다",
+        "reading_kana": "ポリダ",
+        "meaning_ja": "捨てる",
+        "meaning_en": "to throw away",
+        "surface_form": "버려요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "쓰레기를 쓰레기통에 버려요.",
+          "ja": "ごみをごみ箱に捨てます。",
+          "en": "I throw the trash into the bin.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "b754c043-9f41-4799-9710-3e83052b195c",
+      "content": {
+        "kind": "word",
+        "korean": "맥주",
+        "reading_kana": "メクッチュ",
+        "meaning_ja": "ビール",
+        "meaning_en": "beer",
+        "surface_form": "맥주",
+        "pronunciation_hangul": "맥쭈",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅈが濃音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "e7bd4a27-a784-432b-8e66-93d8fe73970d",
+      "content": {
+        "kind": "word",
+        "korean": "사다",
+        "reading_kana": "サダ",
+        "meaning_ja": "買う",
+        "meaning_en": "to buy",
+        "surface_form": "사요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "dae06b0a-8729-44a0-b200-1c55be49da3e",
+      "content": {
+        "kind": "word",
+        "korean": "과자",
+        "reading_kana": "クァジャ",
+        "meaning_ja": "お菓子・スナック",
+        "meaning_en": "snacks; crackers",
+        "surface_form": "과자",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "41a669db-4bbb-4804-9272-d541f3119705",
+      "content": {
+        "kind": "word",
+        "korean": "다녀오다",
+        "reading_kana": "タニョオダ",
+        "meaning_ja": "行ってくる・行って帰る",
+        "meaning_en": "to go somewhere and come back",
+        "surface_form": "다녀왔어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "저는 편의점에 다녀왔어요.",
+          "ja": "私はコンビニに行ってきました。",
+          "en": "I went to the convenience store and came back.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "286ea02b-5a00-4e72-929c-e2f25877cfb4",
+      "content": {
+        "kind": "word",
+        "korean": "배부르다",
+        "reading_kana": "ペブルダ",
+        "meaning_ja": "お腹がいっぱいだ",
+        "meaning_en": "to be full (after eating)",
+        "surface_form": "배불러요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "4f4efa83-ffd6-4c77-8036-08fe3857d966",
+      "content": {
+        "kind": "phrase",
+        "korean": "사 오다",
+        "reading_kana": "サ オダ",
+        "meaning_ja": "買ってくる",
+        "meaning_en": "to buy and bring back",
+        "surface_form": "사 왔어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "f48ef2e3-fcfe-442e-9770-a4d7dd1bf968",
+      "content": {
+        "kind": "word",
+        "korean": "항상",
+        "reading_kana": "ハンサン",
+        "meaning_ja": "いつも・常に",
+        "meaning_en": "always",
+        "surface_form": "항상",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "6d5f050b-6765-4bff-b955-2a4b5d46eb99",
+      "content": {
+        "kind": "word",
+        "korean": "가게",
+        "reading_kana": "カゲ",
+        "meaning_ja": "店",
+        "meaning_en": "shop; store",
+        "surface_form": "가게",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d48c3fc1-d84b-40e6-8d03-9141b5bbcdbb",
+      "content": {
+        "kind": "word",
+        "korean": "없다",
+        "reading_kana": "オプタ",
+        "meaning_ja": "ない・いない",
+        "meaning_en": "not to exist; not to be there",
+        "surface_form": "없어요?",
+        "pronunciation_hangul": "업따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "겹받침ㅄはこの形ではㅂの音となり、ㄷが濃音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "18272224-cf65-4d9a-9561-cd53e7380ca7",
+      "content": {
+        "kind": "word",
+        "korean": "댓글",
+        "reading_kana": "テックル",
+        "meaning_ja": "コメント欄のコメント",
+        "meaning_en": "an online comment",
+        "surface_form": "댓글로",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "525bf68a-8c43-4fb3-9b34-3cb4b628e739",
+      "content": {
+        "kind": "phrase",
+        "korean": "알려 주다",
+        "reading_kana": "アルリョ ジュダ",
+        "meaning_ja": "教えてあげる・知らせる",
+        "meaning_en": "to let someone know; to tell someone",
+        "surface_form": "알려 주세요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "댓글로 알려 주세요.",
+          "ja": "コメントで教えてください。",
+          "en": "Please let me know in the comments.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "fc1528d0-ffe8-4e3d-82d0-b9abd3d85c43",
+      "content": {
+        "kind": "phrase",
+        "korean": "다음 영상에서 만나요",
+        "reading_kana": "タウム ヨンサンエソ マンナヨ",
+        "meaning_ja": "次の動画で会いましょう",
+        "meaning_en": "See you in the next video.",
+        "surface_form": "다음 영상에서 만나요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
     }
   ],
   "decks": [
@@ -145,6 +1468,26 @@
       },
       "warnings": [
         "Aと訳文が違っても同じ語義として再利用する動作を確認するためのサンプルです。"
+      ]
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "meta": {
+        "title": "コンビニで買い物｜動画 IGEj-oDKyw8",
+        "source_title": "If You’re a BEGINNER, WATCH THIS! | Comprehensible Korean Input at a Convenience Store",
+        "source_url": "https://www.youtube.com/watch?v=IGEj-oDKyw8",
+        "description_ja": "提供された0:10頃〜9:31の文字起こしから、買い物・食事・片付けに使う語と表現を抽出。動画視聴前の予習用。音声は未確認。"
+      },
+      "warnings": [
+        "ユーザー提供の文字起こしを教材内容の資料としています。動画タイトルのみページで確認。音声・画面・正確なチャンネル名は未確認です。",
+        "カタカナは見出しkoreanの発音を近似する補助で、音声を聞き取った記録ではありません。IPA・ローマ字は確信がないため追加していません。",
+        "3:53の빨데は後続の빨대も参考に標準見出し빨대へ。4:32等の비닐를は비닐へ。元の形はsurface_formに保持し、教材要確認を付けています。",
+        "4:48頃の스프は標準表記수프で収録し、教材要確認にしています。",
+        "6:59の쓰레기 통해は文脈上쓰레기통에と考えられますが音声未確認。壊れた表現そのものはカードにせず、修正文の例はgeneratedとしています。",
+        "3:02〜3:07の100원/1200원、7:13〜7:18の세 개/네 개、7:57の1 700원など価格・数量に不一致や分割があります。価格・購入数は確定せず、数値カードは作成していません。",
+        "8:17の괜찮됐습니다は誤認識が強く、挨拶等への推測修復はせず除外しました。固有名詞재림、音楽表記、意味のない断片も除外しています。",
+        "分割字幕をつなぐ・助詞や表記を整えるなどした短い例文はすべてorigin=generatedです。逐語引用sourceとしては扱いません。",
+        "繰り返しを除き主要語と日常表現を抽出しました。全単語・全助詞・全数値を網羅したものではありません。"
       ]
     }
   ],
@@ -314,6 +1657,1484 @@
         "surface_form": "안녕하세요",
         "pronunciation_hangul": null,
         "romanization": "annyeonghaseyo",
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__460c9a9a-9499-4ae0-8a98-4fc214f50323",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "460c9a9a-9499-4ae0-8a98-4fc214f50323",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "안녕하세요",
+        "reading_kana": "アンニョンハセヨ",
+        "meaning_ja": "こんにちは",
+        "meaning_en": "Hello.",
+        "surface_form": "안녕하세요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__1d410dbc-550e-44f1-83f2-fbd34261db89",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "1d410dbc-550e-44f1-83f2-fbd34261db89",
+      "source_card": {
+        "kind": "word",
+        "korean": "지금",
+        "reading_kana": "チグム",
+        "meaning_ja": "今",
+        "meaning_en": "now",
+        "surface_form": "지금",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__fbd4a30e-acdd-4647-aae9-e8be2b094ed2",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "fbd4a30e-acdd-4647-aae9-e8be2b094ed2",
+      "source_card": {
+        "kind": "word",
+        "korean": "저녁",
+        "reading_kana": "チョニョク",
+        "meaning_ja": "夕方・夜",
+        "meaning_en": "evening",
+        "surface_form": "저녁",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__57c4ed7b-86b7-4af9-96f0-9a611b042c34",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "57c4ed7b-86b7-4af9-96f0-9a611b042c34",
+      "source_card": {
+        "kind": "word",
+        "korean": "배고프다",
+        "reading_kana": "ペゴプダ",
+        "meaning_ja": "お腹がすいている",
+        "meaning_en": "to be hungry",
+        "surface_form": "배고파요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__a3bc6b6c-5542-424a-bdde-c3acf2db191a",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "a3bc6b6c-5542-424a-bdde-c3acf2db191a",
+      "source_card": {
+        "kind": "word",
+        "korean": "편의점",
+        "reading_kana": "ピョニジョム",
+        "meaning_ja": "コンビニ",
+        "meaning_en": "convenience store",
+        "surface_form": "편의점",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "의には発音の揺れがあります。カタカナは「ピョニジョム」に近い読みの補助です。",
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "편의점에 갈 거예요.",
+          "ja": "コンビニに行くつもりです。",
+          "en": "I am going to the convenience store.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__cfa220c5-3875-4df4-a85e-9483989fdf29",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "cfa220c5-3875-4df4-a85e-9483989fdf29",
+      "source_card": {
+        "kind": "word",
+        "korean": "가다",
+        "reading_kana": "カダ",
+        "meaning_ja": "行く",
+        "meaning_en": "to go",
+        "surface_form": "갈 거예요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__42eedd02-d90d-4e9f-bb8d-f70e73418374",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "42eedd02-d90d-4e9f-bb8d-f70e73418374",
+      "source_card": {
+        "kind": "word",
+        "korean": "같이",
+        "reading_kana": "カチ",
+        "meaning_ja": "一緒に",
+        "meaning_en": "together",
+        "surface_form": "같이",
+        "pronunciation_hangul": "가치",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "같이は「カチ」に近い発音。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__3a693d9b-018b-4b8a-ac25-b8fe6dabf996",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "3a693d9b-018b-4b8a-ac25-b8fe6dabf996",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "같이 갈까요?",
+        "reading_kana": "カチ カルッカヨ",
+        "meaning_ja": "一緒に行きましょうか",
+        "meaning_en": "Shall we go together?",
+        "surface_form": "같이 갈까요?",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__500f30c8-6e1c-4f65-9a61-8bc293140185",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "500f30c8-6e1c-4f65-9a61-8bc293140185",
+      "source_card": {
+        "kind": "word",
+        "korean": "깜깜하다",
+        "reading_kana": "ッカムッカマダ",
+        "meaning_ja": "真っ暗だ",
+        "meaning_en": "to be very dark",
+        "surface_form": "깜깜해요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__7294d688-b442-4648-a1ac-7de32a561303",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "7294d688-b442-4648-a1ac-7de32a561303",
+      "source_card": {
+        "kind": "word",
+        "korean": "여기",
+        "reading_kana": "ヨギ",
+        "meaning_ja": "ここ",
+        "meaning_en": "here",
+        "surface_form": "여기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__88248872-a89e-4635-a3ba-04d94059fd80",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "88248872-a89e-4635-a3ba-04d94059fd80",
+      "source_card": {
+        "kind": "word",
+        "korean": "들어가다",
+        "reading_kana": "トゥロガダ",
+        "meaning_ja": "中に入る",
+        "meaning_en": "to go in; to enter",
+        "surface_form": "들어가요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__a92cc546-c209-4ab8-99da-781a96d5cb08",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "a92cc546-c209-4ab8-99da-781a96d5cb08",
+      "source_card": {
+        "kind": "word",
+        "korean": "라면",
+        "reading_kana": "ラミョン",
+        "meaning_ja": "ラーメン・インスタント麺",
+        "meaning_en": "ramyeon; instant noodles",
+        "surface_form": "라면",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__299cac23-24d6-4cf9-936f-d5e47b289af1",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "299cac23-24d6-4cf9-936f-d5e47b289af1",
+      "source_card": {
+        "kind": "word",
+        "korean": "많다",
+        "reading_kana": "マンタ",
+        "meaning_ja": "多い・たくさんある",
+        "meaning_en": "to be many; to be plentiful",
+        "surface_form": "많아요",
+        "pronunciation_hangul": "만타",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅎの影響でㄷが激音化します。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__7a6f9a0d-074a-49f4-84cd-67c32f32798f",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "7a6f9a0d-074a-49f4-84cd-67c32f32798f",
+      "source_card": {
+        "kind": "word",
+        "korean": "컵라면",
+        "reading_kana": "コムナミョン",
+        "meaning_ja": "カップ麺",
+        "meaning_en": "cup noodles",
+        "surface_form": "컵라면",
+        "pronunciation_hangul": "컴나면",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "받침ㅂと後続のㄹにより、鼻音化した「コムナミョン」に近くなります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__56ed919f-f1ad-4a1b-8bc6-e98216bba887",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "56ed919f-f1ad-4a1b-8bc6-e98216bba887",
+      "source_card": {
+        "kind": "word",
+        "korean": "고르다",
+        "reading_kana": "コルダ",
+        "meaning_ja": "選ぶ",
+        "meaning_en": "to choose; to pick",
+        "surface_form": "골랐어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "컵라면을 골라요.",
+          "ja": "カップ麺を選びます。",
+          "en": "I choose cup noodles.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__d01fce41-5cb5-4427-bba0-14774e902f8b",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "d01fce41-5cb5-4427-bba0-14774e902f8b",
+      "source_card": {
+        "kind": "word",
+        "korean": "맵다",
+        "reading_kana": "メプタ",
+        "meaning_ja": "辛い",
+        "meaning_en": "to be spicy",
+        "surface_form": "매워요",
+        "pronunciation_hangul": "맵따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "終声ㅂのあとでㄷが濃音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__d164735a-cf6d-47b1-911e-8cbce5a22ed5",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "d164735a-cf6d-47b1-911e-8cbce5a22ed5",
+      "source_card": {
+        "kind": "word",
+        "korean": "맛",
+        "reading_kana": "マッ",
+        "meaning_ja": "味",
+        "meaning_en": "taste; flavor",
+        "surface_form": "맛",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__d6106886-2286-4745-ae0b-e471a34a56e0",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "d6106886-2286-4745-ae0b-e471a34a56e0",
+      "source_card": {
+        "kind": "word",
+        "korean": "진짜",
+        "reading_kana": "チンッチャ",
+        "meaning_ja": "本当に",
+        "meaning_en": "really",
+        "surface_form": "진짜",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__26b81c7c-781b-48d6-ac7b-d22485b10bc8",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "26b81c7c-781b-48d6-ac7b-d22485b10bc8",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "안 맵다",
+        "reading_kana": "アン メプタ",
+        "meaning_ja": "辛くない",
+        "meaning_en": "not to be spicy",
+        "surface_form": "안 매워요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__497efa34-a034-4a6d-bfa8-4ae811f35416",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "497efa34-a034-4a6d-bfa8-4ae811f35416",
+      "source_card": {
+        "kind": "word",
+        "korean": "좋아하다",
+        "reading_kana": "チョアハダ",
+        "meaning_ja": "好きだ",
+        "meaning_en": "to like",
+        "surface_form": "좋아해요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "저는 매운 라면 좋아해요.",
+          "ja": "私は辛いラーメンが好きです。",
+          "en": "I like spicy ramyeon.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__5acf7b5a-cab6-47eb-ab15-b767703fc5f0",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "5acf7b5a-cab6-47eb-ab15-b767703fc5f0",
+      "source_card": {
+        "kind": "word",
+        "korean": "가격",
+        "reading_kana": "カギョク",
+        "meaning_ja": "価格・値段",
+        "meaning_en": "price",
+        "surface_form": "가격",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__a68f136c-f38c-4a65-b8e1-2c75e5179ced",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "a68f136c-f38c-4a65-b8e1-2c75e5179ced",
+      "source_card": {
+        "kind": "word",
+        "korean": "삼각김밥",
+        "reading_kana": "サムガクッキムッパプ",
+        "meaning_ja": "三角おにぎり",
+        "meaning_en": "triangular gimbap; a triangle-shaped rice snack",
+        "surface_form": "삼각김밥",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "김밥のㄱ・ㅂを濃く発音する読みを示しています。語末のㅂは唇を閉じて止めます。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__44e85406-9b51-4769-829a-22e38b5f3c47",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "44e85406-9b51-4769-829a-22e38b5f3c47",
+      "source_card": {
+        "kind": "word",
+        "korean": "참치",
+        "reading_kana": "チャムチ",
+        "meaning_ja": "マグロ・ツナ",
+        "meaning_en": "tuna",
+        "surface_form": "참치",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__7781879a-4045-47ad-abda-068de942d2e2",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "7781879a-4045-47ad-abda-068de942d2e2",
+      "source_card": {
+        "kind": "word",
+        "korean": "음료수",
+        "reading_kana": "ウムニョス",
+        "meaning_ja": "飲み物・清涼飲料",
+        "meaning_en": "a drink; a beverage",
+        "surface_form": "음료수",
+        "pronunciation_hangul": "음뇨수",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅁのあとでㄹがㄴの音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__2191a99b-46b5-471c-a07c-1ccbfdb3b370",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "2191a99b-46b5-471c-a07c-1ccbfdb3b370",
+      "source_card": {
+        "kind": "word",
+        "korean": "복숭아",
+        "reading_kana": "ポクッスンア",
+        "meaning_ja": "桃",
+        "meaning_en": "peach",
+        "surface_form": "복숭아",
+        "pronunciation_hangul": "복쑹아",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅅが濃音になる発音を読みで示しています。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__5b9be50c-8558-43ab-981f-5ead372a822e",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "5b9be50c-8558-43ab-981f-5ead372a822e",
+      "source_card": {
+        "kind": "word",
+        "korean": "아이스티",
+        "reading_kana": "アイスティ",
+        "meaning_ja": "アイスティー",
+        "meaning_en": "iced tea",
+        "surface_form": "아이스티",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__b1c0d056-b4b8-4fad-958a-33738d1283a5",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "b1c0d056-b4b8-4fad-958a-33738d1283a5",
+      "source_card": {
+        "kind": "word",
+        "korean": "얼음",
+        "reading_kana": "オルム",
+        "meaning_ja": "氷",
+        "meaning_en": "ice",
+        "surface_form": "얼음",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__d565962b-be4d-43d8-858d-90a244c86659",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "d565962b-be4d-43d8-858d-90a244c86659",
+      "source_card": {
+        "kind": "word",
+        "korean": "컵",
+        "reading_kana": "コプ",
+        "meaning_ja": "コップ・カップ",
+        "meaning_en": "cup",
+        "surface_form": "컵",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__415c58e5-59c5-4a15-b004-0b48a5fa479f",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "415c58e5-59c5-4a15-b004-0b48a5fa479f",
+      "source_card": {
+        "kind": "word",
+        "korean": "꺼내다",
+        "reading_kana": "ッコネダ",
+        "meaning_ja": "取り出す",
+        "meaning_en": "to take out",
+        "surface_form": "꺼내요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__589b2ae3-0b25-4704-a916-5b31d2789e97",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "589b2ae3-0b25-4704-a916-5b31d2789e97",
+      "source_card": {
+        "kind": "word",
+        "korean": "계산하다",
+        "reading_kana": "ケサナダ",
+        "meaning_ja": "会計する・代金を払う",
+        "meaning_en": "to pay at the checkout",
+        "surface_form": "계산해요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "이제 계산해요.",
+          "ja": "これから会計します。",
+          "en": "Now I pay at the checkout.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__53bcafa9-1b0d-4d01-988b-6373f27de9cd",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "53bcafa9-1b0d-4d01-988b-6373f27de9cd",
+      "source_card": {
+        "kind": "word",
+        "korean": "빨대",
+        "reading_kana": "ッパルッテ",
+        "meaning_ja": "ストロー",
+        "meaning_en": "drinking straw",
+        "surface_form": "빨데",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": true,
+        "review_note_ja": "3:53の字幕は빨데。後続3:57に빨대もあるため標準見出し빨대で収録。音声未確認。",
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__fa755859-86d2-44f1-a919-78bb660ee16c",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "fa755859-86d2-44f1-a919-78bb660ee16c",
+      "source_card": {
+        "kind": "word",
+        "korean": "필요하다",
+        "reading_kana": "ピリョハダ",
+        "meaning_ja": "必要だ",
+        "meaning_en": "to be needed; to be necessary",
+        "surface_form": "필요하세요?",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__fb317758-3bf3-4d1e-9011-7076582f9829",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "fb317758-3bf3-4d1e-9011-7076582f9829",
+      "source_card": {
+        "kind": "word",
+        "korean": "젓가락",
+        "reading_kana": "チョッカラク",
+        "meaning_ja": "箸",
+        "meaning_en": "chopsticks",
+        "surface_form": "젓가락",
+        "pronunciation_hangul": "젇까락",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "終声ㅅはㄷの音、後続のㄱは濃音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__ba69ee13-16cd-4064-a8ed-fc109c8be3f7",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "ba69ee13-16cd-4064-a8ed-fc109c8be3f7",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "감사합니다",
+        "reading_kana": "カムサハムニダ",
+        "meaning_ja": "ありがとうございます",
+        "meaning_en": "Thank you.",
+        "surface_form": "감사합니다",
+        "pronunciation_hangul": "감사함니다",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "합니다は「ハムニダ」に近い発音です。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__9059f4b2-f5aa-4939-b02a-e3e931ebbb57",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "9059f4b2-f5aa-4939-b02a-e3e931ebbb57",
+      "source_card": {
+        "kind": "word",
+        "korean": "테이블",
+        "reading_kana": "テイブル",
+        "meaning_ja": "テーブル",
+        "meaning_en": "table",
+        "surface_form": "테이블",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__622561a3-4f13-4569-b737-bbdf176a3fb3",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "622561a3-4f13-4569-b737-bbdf176a3fb3",
+      "source_card": {
+        "kind": "word",
+        "korean": "있다",
+        "reading_kana": "イッタ",
+        "meaning_ja": "ある・いる",
+        "meaning_en": "to exist; to be there",
+        "surface_form": "있어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__27eb1ff0-2d6d-4442-a2c5-ae77dddc88c0",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "27eb1ff0-2d6d-4442-a2c5-ae77dddc88c0",
+      "source_card": {
+        "kind": "word",
+        "korean": "의자",
+        "reading_kana": "ウィジャ",
+        "meaning_ja": "椅子",
+        "meaning_en": "chair",
+        "surface_form": "의자",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__e45a8716-ac7c-4947-b9fc-fbad9d3c4c8b",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "e45a8716-ac7c-4947-b9fc-fbad9d3c4c8b",
+      "source_card": {
+        "kind": "word",
+        "korean": "먹다",
+        "reading_kana": "モクッタ",
+        "meaning_ja": "食べる",
+        "meaning_en": "to eat",
+        "surface_form": "먹어요",
+        "pronunciation_hangul": "먹따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "終声ㄱのあとでㄷが濃音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__e02b82b3-d0fd-44a3-9ee2-764fe734abea",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "e02b82b3-d0fd-44a3-9ee2-764fe734abea",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "먹을 수 있다",
+        "reading_kana": "モグル ス イッタ",
+        "meaning_ja": "食べることができる",
+        "meaning_en": "can eat; to be able to eat",
+        "surface_form": "먹을 수 있어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "여기에서 먹을 수 있어요.",
+          "ja": "ここで食べることができます。",
+          "en": "You can eat here.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__23f380b3-7cea-4a72-b150-8a7f70f361d0",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "23f380b3-7cea-4a72-b150-8a7f70f361d0",
+      "source_card": {
+        "kind": "word",
+        "korean": "비닐",
+        "reading_kana": "ピニル",
+        "meaning_ja": "ビニール・プラスチック包装",
+        "meaning_en": "plastic wrapping",
+        "surface_form": "비닐를",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": true,
+        "review_note_ja": "字幕の비닐를は助詞が崩れています。見出しは비닐、元表記はsurface_formに保存。",
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__d6a26fa7-081a-4552-bcb3-964fa5bcb65a",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "d6a26fa7-081a-4552-bcb3-964fa5bcb65a",
+      "source_card": {
+        "kind": "word",
+        "korean": "뜯다",
+        "reading_kana": "ットゥッタ",
+        "meaning_ja": "破って開ける・はがす",
+        "meaning_en": "to tear open; to peel off",
+        "surface_form": "뜯어요",
+        "pronunciation_hangul": "뜯따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "最初のㄸと後続のㄷが濃音になります。",
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "컵라면 비닐을 뜯어요.",
+          "ja": "カップ麺の包装を破って開けます。",
+          "en": "I tear open the plastic wrapping on the cup noodles.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__908a98c0-1e47-4b66-9516-2c027a7a6176",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "908a98c0-1e47-4b66-9516-2c027a7a6176",
+      "source_card": {
+        "kind": "word",
+        "korean": "뚜껑",
+        "reading_kana": "ットゥッコン",
+        "meaning_ja": "ふた",
+        "meaning_en": "lid",
+        "surface_form": "뚜껑",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__06a1f47e-e819-439d-86c0-872c803f012e",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "06a1f47e-e819-439d-86c0-872c803f012e",
+      "source_card": {
+        "kind": "word",
+        "korean": "열다",
+        "reading_kana": "ヨルダ",
+        "meaning_ja": "開ける・開く",
+        "meaning_en": "to open",
+        "surface_form": "열어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "ふたを開ける場面と、店が営業しているという話の両方に登場します。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__7e35b9e9-ffb5-4e0a-9d82-bfab63e56eac",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "7e35b9e9-ffb5-4e0a-9d82-bfab63e56eac",
+      "source_card": {
+        "kind": "word",
+        "korean": "수프",
+        "reading_kana": "スプ",
+        "meaning_ja": "スープの素・粉末調味料",
+        "meaning_en": "soup seasoning powder (for the noodles)",
+        "surface_form": "스프",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": true,
+        "review_note_ja": "字幕は스프。標準表記の수프で収録。この文脈では麺のスープの素。音声・包装表示は未確認。",
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__3418f5d3-e5ea-4b1c-bb37-83a2854a6fcb",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "3418f5d3-e5ea-4b1c-bb37-83a2854a6fcb",
+      "source_card": {
+        "kind": "word",
+        "korean": "넣다",
+        "reading_kana": "ノタ",
+        "meaning_ja": "入れる",
+        "meaning_en": "to put in",
+        "surface_form": "넣어요",
+        "pronunciation_hangul": "너타",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅎの影響でㄷが激音化します。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__b752775c-5a6b-49ca-baf9-d53e47eaf0fc",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "b752775c-5a6b-49ca-baf9-d53e47eaf0fc",
+      "source_card": {
+        "kind": "word",
+        "korean": "물",
+        "reading_kana": "ムル",
+        "meaning_ja": "水・お湯",
+        "meaning_en": "water",
+        "surface_form": "물",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "물は水全般。動画のカップ麺の場面では뜨거운 물（熱いお湯）を指します。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__f3c80b87-e707-4257-baf6-f30c1ff7b5b9",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "f3c80b87-e707-4257-baf6-f30c1ff7b5b9",
+      "source_card": {
+        "kind": "word",
+        "korean": "붓다",
+        "reading_kana": "プッタ",
+        "meaning_ja": "注ぐ",
+        "meaning_en": "to pour",
+        "surface_form": "부어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "このカードは液体を注ぐ意味。部位が腫れる意味の붓다とは区別します。 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "물을 부어요.",
+          "ja": "お湯を注ぎます。",
+          "en": "I pour in the water.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__e0cee110-68f5-4f28-bdc3-89dfa8cd53ce",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "e0cee110-68f5-4f28-bdc3-89dfa8cd53ce",
+      "source_card": {
+        "kind": "word",
+        "korean": "뜨겁다",
+        "reading_kana": "ットゥゴプタ",
+        "meaning_ja": "熱い",
+        "meaning_en": "to be hot (to the touch)",
+        "surface_form": "뜨거워요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__0a8bd620-845b-469f-8ddf-eaf948a56266",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "0a8bd620-845b-469f-8ddf-eaf948a56266",
+      "source_card": {
+        "kind": "word",
+        "korean": "기다리다",
+        "reading_kana": "キダリダ",
+        "meaning_ja": "待つ",
+        "meaning_en": "to wait",
+        "surface_form": "기다려요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__fb5d40e7-7a14-4ed3-9109-89cebd824592",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "fb5d40e7-7a14-4ed3-9109-89cebd824592",
+      "source_card": {
+        "kind": "word",
+        "korean": "맛있다",
+        "reading_kana": "マシッタ",
+        "meaning_ja": "おいしい",
+        "meaning_en": "to be delicious",
+        "surface_form": "맛있어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ここでは一般的な「マシッタ」に近い読みを示しています。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__11ef8dab-b40e-4b92-a4f5-440673a59210",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "11ef8dab-b40e-4b92-a4f5-440673a59210",
+      "source_card": {
+        "kind": "word",
+        "korean": "국물",
+        "reading_kana": "クンムル",
+        "meaning_ja": "汁・スープ",
+        "meaning_en": "broth; soup liquid",
+        "surface_form": "국물",
+        "pronunciation_hangul": "궁물",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄱがㅁの前で鼻音化します。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__94065c56-5e94-410c-8daa-dd9660291e46",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "94065c56-5e94-410c-8daa-dd9660291e46",
+      "source_card": {
+        "kind": "word",
+        "korean": "마시다",
+        "reading_kana": "マシダ",
+        "meaning_ja": "飲む",
+        "meaning_en": "to drink",
+        "surface_form": "마셔요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__a71f6a5c-15c6-415c-aa10-d9b523032349",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "a71f6a5c-15c6-415c-aa10-d9b523032349",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "다 먹다",
+        "reading_kana": "タ モクッタ",
+        "meaning_ja": "全部食べる・食べ終える",
+        "meaning_en": "to eat everything; to finish eating",
+        "surface_form": "다 먹었어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__e47d922e-56a0-4834-9cdc-c93ff07d9298",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "e47d922e-56a0-4834-9cdc-c93ff07d9298",
+      "source_card": {
+        "kind": "word",
+        "korean": "쓰레기",
+        "reading_kana": "ッスレギ",
+        "meaning_ja": "ごみ",
+        "meaning_en": "trash; rubbish",
+        "surface_form": "쓰레기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__67dee64a-b81a-4f6e-91f5-dc631a0e47b5",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "67dee64a-b81a-4f6e-91f5-dc631a0e47b5",
+      "source_card": {
+        "kind": "word",
+        "korean": "쓰레기통",
+        "reading_kana": "ッスレギトン",
+        "meaning_ja": "ごみ箱",
+        "meaning_en": "trash can; bin",
+        "surface_form": "쓰레기통",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__701b5f56-5f60-4bc7-9102-251e2af20bf4",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "701b5f56-5f60-4bc7-9102-251e2af20bf4",
+      "source_card": {
+        "kind": "word",
+        "korean": "버리다",
+        "reading_kana": "ポリダ",
+        "meaning_ja": "捨てる",
+        "meaning_en": "to throw away",
+        "surface_form": "버려요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "쓰레기를 쓰레기통에 버려요.",
+          "ja": "ごみをごみ箱に捨てます。",
+          "en": "I throw the trash into the bin.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__b754c043-9f41-4799-9710-3e83052b195c",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "b754c043-9f41-4799-9710-3e83052b195c",
+      "source_card": {
+        "kind": "word",
+        "korean": "맥주",
+        "reading_kana": "メクッチュ",
+        "meaning_ja": "ビール",
+        "meaning_en": "beer",
+        "surface_form": "맥주",
+        "pronunciation_hangul": "맥쭈",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅈが濃音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__e7bd4a27-a784-432b-8e66-93d8fe73970d",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "e7bd4a27-a784-432b-8e66-93d8fe73970d",
+      "source_card": {
+        "kind": "word",
+        "korean": "사다",
+        "reading_kana": "サダ",
+        "meaning_ja": "買う",
+        "meaning_en": "to buy",
+        "surface_form": "사요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__dae06b0a-8729-44a0-b200-1c55be49da3e",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "dae06b0a-8729-44a0-b200-1c55be49da3e",
+      "source_card": {
+        "kind": "word",
+        "korean": "과자",
+        "reading_kana": "クァジャ",
+        "meaning_ja": "お菓子・スナック",
+        "meaning_en": "snacks; crackers",
+        "surface_form": "과자",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__41a669db-4bbb-4804-9272-d541f3119705",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "41a669db-4bbb-4804-9272-d541f3119705",
+      "source_card": {
+        "kind": "word",
+        "korean": "다녀오다",
+        "reading_kana": "タニョオダ",
+        "meaning_ja": "行ってくる・行って帰る",
+        "meaning_en": "to go somewhere and come back",
+        "surface_form": "다녀왔어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "저는 편의점에 다녀왔어요.",
+          "ja": "私はコンビニに行ってきました。",
+          "en": "I went to the convenience store and came back.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__286ea02b-5a00-4e72-929c-e2f25877cfb4",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "286ea02b-5a00-4e72-929c-e2f25877cfb4",
+      "source_card": {
+        "kind": "word",
+        "korean": "배부르다",
+        "reading_kana": "ペブルダ",
+        "meaning_ja": "お腹がいっぱいだ",
+        "meaning_en": "to be full (after eating)",
+        "surface_form": "배불러요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__4f4efa83-ffd6-4c77-8036-08fe3857d966",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "4f4efa83-ffd6-4c77-8036-08fe3857d966",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "사 오다",
+        "reading_kana": "サ オダ",
+        "meaning_ja": "買ってくる",
+        "meaning_en": "to buy and bring back",
+        "surface_form": "사 왔어요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__f48ef2e3-fcfe-442e-9770-a4d7dd1bf968",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "f48ef2e3-fcfe-442e-9770-a4d7dd1bf968",
+      "source_card": {
+        "kind": "word",
+        "korean": "항상",
+        "reading_kana": "ハンサン",
+        "meaning_ja": "いつも・常に",
+        "meaning_en": "always",
+        "surface_form": "항상",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__6d5f050b-6765-4bff-b955-2a4b5d46eb99",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "6d5f050b-6765-4bff-b955-2a4b5d46eb99",
+      "source_card": {
+        "kind": "word",
+        "korean": "가게",
+        "reading_kana": "カゲ",
+        "meaning_ja": "店",
+        "meaning_en": "shop; store",
+        "surface_form": "가게",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__d48c3fc1-d84b-40e6-8d03-9141b5bbcdbb",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "d48c3fc1-d84b-40e6-8d03-9141b5bbcdbb",
+      "source_card": {
+        "kind": "word",
+        "korean": "없다",
+        "reading_kana": "オプタ",
+        "meaning_ja": "ない・いない",
+        "meaning_en": "not to exist; not to be there",
+        "surface_form": "없어요?",
+        "pronunciation_hangul": "업따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "겹받침ㅄはこの形ではㅂの音となり、ㄷが濃音になります。",
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__18272224-cf65-4d9a-9561-cd53e7380ca7",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "18272224-cf65-4d9a-9561-cd53e7380ca7",
+      "source_card": {
+        "kind": "word",
+        "korean": "댓글",
+        "reading_kana": "テックル",
+        "meaning_ja": "コメント欄のコメント",
+        "meaning_en": "an online comment",
+        "surface_form": "댓글로",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": null,
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__525bf68a-8c43-4fb3-9b34-3cb4b628e739",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "525bf68a-8c43-4fb3-9b34-3cb4b628e739",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "알려 주다",
+        "reading_kana": "アルリョ ジュダ",
+        "meaning_ja": "教えてあげる・知らせる",
+        "meaning_en": "to let someone know; to tell someone",
+        "surface_form": "알려 주세요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": " 例文は字幕の分割箇所をつなぎ、必要な表記を整えた学習用文です。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": {
+          "ko": "댓글로 알려 주세요.",
+          "ja": "コメントで教えてください。",
+          "en": "Please let me know in the comments.",
+          "origin": "generated"
+        }
+      }
+    },
+    {
+      "id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9__fc1528d0-ffe8-4e3d-82d0-b9abd3d85c43",
+      "deck_id": "26d151ae-ad80-4083-9eff-fde5e0dd56e9",
+      "card_id": "fc1528d0-ffe8-4e3d-82d0-b9abd3d85c43",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "다음 영상에서 만나요",
+        "reading_kana": "タウム ヨンサンエソ マンナヨ",
+        "meaning_ja": "次の動画で会いましょう",
+        "meaning_en": "See you in the next video.",
+        "surface_form": "다음 영상에서 만나요",
+        "pronunciation_hangul": null,
+        "romanization": null,
         "ipa": null,
         "pronunciation_note_ja": null,
         "note_ja": null,

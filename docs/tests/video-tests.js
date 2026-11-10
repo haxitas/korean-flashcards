@@ -1,0 +1,26 @@
+import {canonical} from '../js/model.js';
+import {applyImport} from '../js/catalog-tools.js';
+import {emptyLocal,mergeCatalog,setStudy,selectCards,saveLocal,loadLocal} from '../js/library.js';
+import {safeSourceUrl,sourceLink,deckSources,resolveDeck,deckUrl,renderDeckLibrary} from '../js/deck-view.js';
+export const VIDEO_URL='https://www.youtube.com/watch?v=IGEj-oDKyw8';
+export function runVideoTests(catalog,baseline){
+ const result=[];let passed=0,failed=0;const assert=(v)=>{if(!v)throw new Error('assertion failed');};
+ const test=(name,fn)=>{try{fn();passed++;result.push('PASS '+name);}catch(e){failed++;result.push('FAIL '+name+': '+e.message);}};
+ const deck=catalog.decks.find(d=>d.meta.source_url===VIDEO_URL);
+ test('動画のタイトル・URL・68枚の所属',()=>{assert(!!deck);assert(deck.meta.source_title==='If You’re a BEGINNER, WATCH THIS! | Comprehensible Korean Input at a Convenience Store');assert(catalog.entries.filter(e=>e.deck_id===deck.id).length===68);});
+ test('既存6枚と2デッキ・8所属のUUID/内容不変',()=>{for(const k of ['cards','decks','entries'])for(const old of baseline[k])assert(canonical(catalog[k].find(x=>x.id===old.id))===canonical(old));assert(catalog.cards.length===73&&catalog.decks.length===3&&catalog.entries.length===76);});
+ test('안녕하세요を共有し動画の元入力を別Entryに保持',()=>{const hello=baseline.cards.find(c=>c.content.korean==='안녕하세요'),entries=catalog.entries.filter(e=>e.card_id===hello.id);assert(entries.length===2);const src=entries.find(e=>e.deck_id===deck.id).source_card;assert(src.surface_form==='안녕하세요');assert(deckSources(catalog,hello.id).length===2&&deckSources(catalog,hello.id,deck.id).length===1);});
+ test('動画だけ絞り込み・日英訳と読む補助を保持',()=>{const local=mergeCatalog(emptyLocal(),catalog);const selected=selectCards(local.library,{deckId:deck.id});assert(selected.length===68&&!selected.some(c=>c.content.korean==='배'));assert(selected.every(c=>c.content.meaning_ja&&c.content.meaning_en&&c.content.reading_kana));});
+ test('元入力再取込で追加・再利用ゼロ、全68件スキップ',()=>{const incoming={format:'kohaku-korean-deck',schema_version:1,deck:deck.meta,cards:catalog.entries.filter(e=>e.deck_id===deck.id).map(e=>e.source_card),warnings:deck.warnings};const r=applyImport(catalog,incoming,{},deck.id);assert(r.added===0&&r.reused===0&&r.skipped===68);assert(canonical(r.catalog)===canonical(catalog));});
+ test('旧knownと動画knownをカタログ更新・保存再読込で維持',()=>{let local=mergeCatalog(emptyLocal(),baseline);local=setStudy(local,baseline.cards[0].id,'known');local=mergeCatalog(local,catalog);const id=catalog.entries.find(e=>e.deck_id===deck.id).card_id;local=setStudy(local,id,'known');let saved=null;saveLocal({getItem:()=>saved,setItem:(k,v)=>saved=v},local);const loaded=loadLocal({getItem:()=>saved});assert(loaded.library.cards.find(c=>c.id===id).study.status==='known');assert(loaded.library.cards.find(c=>c.id===baseline.cards[0].id).study.status==='known');});
+ test('動画直リンク・再読込の解決・不正IDの安全な案内',()=>{const href=deckUrl('https://example.test/cards/?x=1',deck.id);assert(resolveDeck(new URL(href).search,catalog.decks).id===deck.id);assert(resolveDeck('?deck=missing',catalog.decks).missing);assert(resolveDeck('?deck=%3Cimg%3E',catalog.decks).id==='');assert(!new URL(deckUrl(href,'')).searchParams.has('deck'));});
+ test('出典URLはHTTP(S)のみ許可',()=>{for(const s of ['javascript:alert(1)','data:text/html,test','file:///x','//example.test','bad',null])assert(safeSourceUrl(s)===null);assert(safeSourceUrl(VIDEO_URL)===VIDEO_URL);assert(safeSourceUrl('http://example.test/')==='http://example.test/');});
+ test('不確かな字幕を警告、例文はgenerated、元表記を保持',()=>{assert(deck.warnings.some(w=>w.includes('100원/1200원'))&&deck.warnings.some(w=>w.includes('괜찮됐습니다')));const items=catalog.entries.filter(e=>e.deck_id===deck.id).map(e=>e.source_card);for(const c of items)if(c.example)assert(c.example.origin==='generated');assert(items.find(c=>c.korean==='빨대').surface_form==='빨데');assert(items.find(c=>c.korean==='비닐').surface_form==='비닐를');assert(!items.some(c=>c.korean==='괜찮됐습니다'));});
+ result.push(`${passed} video passed / ${failed} failed`);return result;
+}
+export function runVideoDOMTests(catalog){
+ const out=[];let passed=0,failed=0;const assert=v=>{if(!v)throw new Error('assertion failed');};const test=(name,fn)=>{try{fn();passed++;out.push('PASS '+name);}catch(e){failed++;out.push('FAIL '+name+': '+e.message);}};
+ test('出典リンクは別タブとnoopener noreferrer',()=>{const link=sourceLink(document,{source_url:VIDEO_URL,source_title:'<img src=x onerror=alert(1)>',title:'test'});assert(link.target==='_blank'&&link.rel==='noopener noreferrer');assert(!link.querySelector('img'));assert(sourceLink(document,{source_url:'javascript:alert(1)'})===null);});
+ test('単語帳入口のHTML文字列を実行せず文字表示',()=>{const copy=structuredClone(catalog);copy.decks[0].meta.title='<img src=x onerror=alert(1)>';copy.decks[0].meta.source_title='<script>alert(1)</script>';const root=document.createElement('div');renderDeckLibrary(root,copy,()=>{},'https://example.test/cards/');assert(!root.querySelector('img,script'));assert(root.textContent.includes('<img src=x onerror=alert(1)>'));assert(root.querySelectorAll('.deck-tile').length===3);assert([...root.querySelectorAll('.deck-open')].every(a=>new URL(a.href).searchParams.has('deck')));});
+ out.push(`${passed} video DOM passed / ${failed} failed`);return out;
+}
