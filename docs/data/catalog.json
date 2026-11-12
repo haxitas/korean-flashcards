@@ -4270,6 +4270,1470 @@
         "romanization": null,
         "surface_form": "만나요"
       }
+    },
+    {
+      "id": "6f7dd82f-6105-4b5e-adf3-4ba191660646",
+      "content": {
+        "example": {
+          "en": "Today I'm going on a trip.",
+          "ja": "今日は旅行に行きます。",
+          "ko": "오늘 여행 가요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "여행",
+        "meaning_en": "trip, travel",
+        "meaning_ja": "旅行",
+        "needs_review": false,
+        "note_ja": "字幕の「여행가요」は「여행 가요」の表記。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ヨヘン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "여행"
+      }
+    },
+    {
+      "id": "7451570b-5fb2-44e5-9663-caa32b84f55d",
+      "content": {
+        "example": {
+          "en": "I take the bus.",
+          "ja": "バスに乗ります。",
+          "ko": "버스를 타요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "타다",
+        "meaning_en": "to ride, to get on",
+        "meaning_ja": "乗る",
+        "needs_review": false,
+        "note_ja": "乗り物に使う。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "タダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "타요"
+      }
+    },
+    {
+      "id": "70dd58e3-8183-4040-bdd1-c688cc14001d",
+      "content": {
+        "example": {
+          "en": "There is a plane over there.",
+          "ja": "あそこに飛行機があります。",
+          "ko": "저기에 비행기가 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "비행기",
+        "meaning_en": "airplane",
+        "meaning_ja": "飛行機",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ピヘンギ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "비행기"
+      }
+    },
+    {
+      "id": "3d76fe14-55a2-4cff-90cc-4cbd1751d945",
+      "content": {
+        "example": {
+          "en": "I'm going to catch the plane now.",
+          "ja": "今、飛行機に乗りに行きます。",
+          "ko": "지금 비행기 타러 가요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "phrase",
+        "korean": "타러 가다",
+        "meaning_en": "to go to catch (a ride)",
+        "meaning_ja": "乗りに行く",
+        "needs_review": false,
+        "note_ja": "動詞の語幹＋러 가다で「〜しに行く」。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "タロ ガダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "타러 가요"
+      }
+    },
+    {
+      "id": "965099ad-7be6-473f-a7a3-d18fd63fc329",
+      "content": {
+        "example": {
+          "en": "This is the bus stop.",
+          "ja": "ここはバス停です。",
+          "ko": "여기는 버스 정류장이에요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "버스 정류장",
+        "meaning_en": "bus stop",
+        "meaning_ja": "バス停",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "정뉴장",
+        "pronunciation_note_ja": null,
+        "reading_kana": "ボス チョンニュジャン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "버스 정류장"
+      }
+    },
+    {
+      "id": "0ff131e8-e679-408c-8b0d-f62e52f75fc5",
+      "content": {
+        "example": {
+          "en": "This is my bag.",
+          "ja": "これは私のかばんです。",
+          "ko": "이건 제 가방이에요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "가방",
+        "meaning_en": "bag",
+        "meaning_ja": "かばん",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "カバン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "가방"
+      }
+    },
+    {
+      "id": "6a0bb578-6c2e-48ad-bc6d-4fb43d056cc0",
+      "content": {
+        "example": {
+          "en": "How many bags are there?",
+          "ja": "かばんはいくつありますか？",
+          "ko": "가방 몇 개 있어요?",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "phrase",
+        "korean": "몇 개",
+        "meaning_en": "how many (items)",
+        "meaning_ja": "いくつ",
+        "needs_review": false,
+        "note_ja": "物の数を尋ねる表現。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ミョッ ケ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "몇 개"
+      }
+    },
+    {
+      "id": "2c55fe49-ac8e-4587-b578-776c76a98578",
+      "content": {
+        "example": {
+          "en": "I look out the window.",
+          "ja": "窓の外を見ます。",
+          "ko": "창문 밖을 봐요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "창문",
+        "meaning_en": "window",
+        "meaning_ja": "窓",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チャンムン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "창문"
+      }
+    },
+    {
+      "id": "8a313559-1ace-4d01-b7c0-2c8258e0880e",
+      "content": {
+        "example": {
+          "en": "There is the sea outside the window.",
+          "ja": "窓の外に海があります。",
+          "ko": "창문 밖에 바다가 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "바다",
+        "meaning_en": "sea",
+        "meaning_ja": "海",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "パダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "바다"
+      }
+    },
+    {
+      "id": "3e050f7e-ac5a-4cc5-a6d4-9cef4578d2ea",
+      "content": {
+        "example": {
+          "en": "I get off the bus.",
+          "ja": "バスから降ります。",
+          "ko": "버스에서 내려요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "내리다",
+        "meaning_en": "to get off; to go down",
+        "meaning_ja": "降りる",
+        "needs_review": false,
+        "note_ja": "乗り物を降りる時と、飛行機などが下りる時の両方に登場。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ネリダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "내려요"
+      }
+    },
+    {
+      "id": "7099a295-052b-4759-ac38-f5debf37b8f6",
+      "content": {
+        "example": {
+          "en": "Now I take out my suitcase.",
+          "ja": "今、スーツケースを取り出します。",
+          "ko": "이제 캐리어를 꺼내요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "캐리어",
+        "meaning_en": "suitcase",
+        "meaning_ja": "スーツケース",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ケリオ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "캐리어"
+      }
+    },
+    {
+      "id": "00e150d2-a18e-4820-8808-3ef69266bcc3",
+      "content": {
+        "example": {
+          "en": "This is the airport.",
+          "ja": "ここは空港です。",
+          "ko": "여기는 공항이에요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "공항",
+        "meaning_en": "airport",
+        "meaning_ja": "空港",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "コンハン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "공항"
+      }
+    },
+    {
+      "id": "5d7e31ee-0afd-47c7-a4e7-1610318eaf83",
+      "content": {
+        "example": {
+          "en": "I organize my bag here.",
+          "ja": "ここでかばんを整理します。",
+          "ko": "여기서 가방을 정리해요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "정리하다",
+        "meaning_en": "to organize, to tidy",
+        "meaning_ja": "整理する",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "정니하다",
+        "pronunciation_note_ja": null,
+        "reading_kana": "チョンニハダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "정리해요"
+      }
+    },
+    {
+      "id": "49182f34-424a-4eda-8dac-de8325e88eae",
+      "content": {
+        "example": {
+          "en": "I weigh my bag.",
+          "ja": "かばんの重さを量ります。",
+          "ko": "가방 무게를 재요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "무게",
+        "meaning_en": "weight",
+        "meaning_ja": "重さ",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ムゲ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "무게"
+      }
+    },
+    {
+      "id": "2cc7bef3-e8fd-4678-b02c-ad7d3c51a3d7",
+      "content": {
+        "example": {
+          "en": "I weigh my bag.",
+          "ja": "かばんの重さを量ります。",
+          "ko": "가방 무게를 재요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "재다",
+        "meaning_en": "to measure, to weigh",
+        "meaning_ja": "量る、測る",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チェダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "재요"
+      }
+    },
+    {
+      "id": "59b2b3ef-37d2-4c56-ace9-5929575563ca",
+      "content": {
+        "example": {
+          "en": "I put the bag up.",
+          "ja": "かばんを乗せます。",
+          "ko": "가방을 올려요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "올리다",
+        "meaning_en": "to put up, to lift onto",
+        "meaning_ja": "乗せる、上げる",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "オルリダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "올려요"
+      }
+    },
+    {
+      "id": "7d137484-1fec-472d-b801-a4a911db9ab3",
+      "content": {
+        "example": {
+          "en": "I'm nervous.",
+          "ja": "私は緊張します。",
+          "ko": "저는 긴장돼요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "긴장되다",
+        "meaning_en": "to be nervous",
+        "meaning_ja": "緊張する",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "キンジャンデダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "긴장돼요"
+      }
+    },
+    {
+      "id": "e34b12c2-35d0-47f0-95b0-ca876b015f93",
+      "content": {
+        "example": {
+          "en": "The weight is just right.",
+          "ja": "重さがちょうどいいです。",
+          "ko": "무게가 딱 좋아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "딱",
+        "meaning_en": "exactly, just right",
+        "meaning_ja": "ぴったり、ちょうど",
+        "needs_review": false,
+        "note_ja": "딱 좋아요で「ちょうどいい」。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "タク",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "딱"
+      }
+    },
+    {
+      "id": "50c13a15-f0a8-4f31-83d7-d43cbb80ef37",
+      "content": {
+        "example": {
+          "en": "I check the flight time.",
+          "ja": "飛行機の時間を確認します。",
+          "ko": "비행기 시간을 확인해요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "시간",
+        "meaning_en": "time",
+        "meaning_ja": "時間",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "シガン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "시간"
+      }
+    },
+    {
+      "id": "aa013835-3faf-4318-97e8-2f7eb51b38b1",
+      "content": {
+        "example": {
+          "en": "I check the time.",
+          "ja": "時間を確認します。",
+          "ko": "시간을 확인해요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "확인하다",
+        "meaning_en": "to check, to confirm",
+        "meaning_ja": "確認する",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ファギンハダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "확인해요"
+      }
+    },
+    {
+      "id": "be344bfb-7208-4942-85ad-1c6eadc4bb2b",
+      "content": {
+        "example": {
+          "en": "I check in at the airport.",
+          "ja": "空港でチェックインします。",
+          "ko": "공항에서 체크인해요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "체크인하다",
+        "meaning_en": "to check in",
+        "meaning_ja": "チェックインする",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チェクインハダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "체크인해요"
+      }
+    },
+    {
+      "id": "6ea8568d-7532-4157-8644-f17482c0aa25",
+      "content": {
+        "example": {
+          "en": "I check my suitcase.",
+          "ja": "スーツケースを預けます。",
+          "ko": "캐리어를 부쳐요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "부치다",
+        "meaning_en": "to check (luggage)",
+        "meaning_ja": "（荷物を）預ける",
+        "needs_review": false,
+        "note_ja": "ここでは荷物を預ける意味。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "プチダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "부쳐요"
+      }
+    },
+    {
+      "id": "c403ceb7-8e8f-4504-b1f0-9f5150ca521d",
+      "content": {
+        "example": {
+          "en": "There is a king at the airport.",
+          "ja": "空港に王様がいます。",
+          "ko": "공항에 왕이 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "왕",
+        "meaning_en": "king",
+        "meaning_ja": "王様",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ワン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "왕"
+      }
+    },
+    {
+      "id": "3a581764-2bd0-4af7-aad7-58d5127fde29",
+      "content": {
+        "example": {
+          "en": "It's really wonderful.",
+          "ja": "本当に素敵です。",
+          "ko": "진짜 멋져요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "멋지다",
+        "meaning_en": "cool, wonderful",
+        "meaning_ja": "素敵だ、かっこいい",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "멋찌다",
+        "pronunciation_note_ja": null,
+        "reading_kana": "モッチダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "멋져요"
+      }
+    },
+    {
+      "id": "de0f0ccc-5336-4ae9-a8fd-58575dd8b2c8",
+      "content": {
+        "example": {
+          "en": "I greet the king.",
+          "ja": "王様に挨拶します。",
+          "ko": "왕에게 인사해요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "인사하다",
+        "meaning_en": "to greet",
+        "meaning_ja": "挨拶する",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "インサハダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "인사해요"
+      }
+    },
+    {
+      "id": "83a3f438-8c6f-46a3-8edc-c33e5c621ee2",
+      "content": {
+        "example": {
+          "en": "I make a tiger keyring.",
+          "ja": "虎のキーリングを作ります。",
+          "ko": "호랑이 키링을 만들어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "키링",
+        "meaning_en": "keyring",
+        "meaning_ja": "キーリング",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "キリン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "키링"
+      }
+    },
+    {
+      "id": "c6633135-946a-4a2c-a55c-c76c6cee5839",
+      "content": {
+        "example": {
+          "en": "I make a keyring here.",
+          "ja": "ここでキーリングを作ります。",
+          "ko": "여기서 키링을 만들어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "만들다",
+        "meaning_en": "to make",
+        "meaning_ja": "作る",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "マンドゥルダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "만들어요"
+      }
+    },
+    {
+      "id": "f6336fe4-37f4-4b52-bba7-150712b2e6be",
+      "content": {
+        "example": {
+          "en": "I make a tiger keyring.",
+          "ja": "虎のキーリングを作ります。",
+          "ko": "호랑이 키링을 만들어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "호랑이",
+        "meaning_en": "tiger",
+        "meaning_ja": "虎",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ホランイ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "호랑이"
+      }
+    },
+    {
+      "id": "9493d23c-c13d-4aa0-bc09-cdc6cca09c7c",
+      "content": {
+        "example": {
+          "en": "I make a new friend.",
+          "ja": "新しい友達を作ります。",
+          "ko": "새로운 친구를 만들어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "새롭다",
+        "meaning_en": "new",
+        "meaning_ja": "新しい",
+        "needs_review": false,
+        "note_ja": "名詞を修飾する形は새로운。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "セロプタ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "새로운"
+      }
+    },
+    {
+      "id": "ac5784fb-1b77-4807-86b0-0afeb97b552f",
+      "content": {
+        "example": {
+          "en": "I meet a friend.",
+          "ja": "友達に会います。",
+          "ko": "친구를 만나요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "친구",
+        "meaning_en": "friend",
+        "meaning_ja": "友達",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チング",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "친구"
+      }
+    },
+    {
+      "id": "f1cb7273-fc5b-4e84-93db-365a9b5a8cf1",
+      "content": {
+        "example": {
+          "en": "There is a restaurant at the airport.",
+          "ja": "空港に飲食店があります。",
+          "ko": "공항에 음식점이 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "음식점",
+        "meaning_en": "restaurant",
+        "meaning_ja": "飲食店",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "음식쩜",
+        "pronunciation_note_ja": null,
+        "reading_kana": "ウムシクチョム",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "음식점"
+      }
+    },
+    {
+      "id": "0bb961da-f313-44df-94ef-470a4c922cb8",
+      "content": {
+        "example": {
+          "en": "This is kimbap.",
+          "ja": "これはキンパです。",
+          "ko": "이건 김밥이에요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "김밥",
+        "meaning_en": "kimbap (seaweed rice roll)",
+        "meaning_ja": "キンパ",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "キムバプ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "김밥"
+      }
+    },
+    {
+      "id": "3ffdfeca-a26a-4f0d-a435-cf4ca6339c53",
+      "content": {
+        "example": {
+          "en": "First I buy water.",
+          "ja": "まず水を買います。",
+          "ko": "먼저 물을 사요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "먼저",
+        "meaning_en": "first",
+        "meaning_ja": "まず",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "モンジョ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "먼저"
+      }
+    },
+    {
+      "id": "e475dbdc-cf54-444c-86ff-f785ae33b596",
+      "content": {
+        "example": {
+          "en": "I buy banana milk.",
+          "ja": "バナナ牛乳を買います。",
+          "ko": "바나나 우유를 사요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "바나나 우유",
+        "meaning_en": "banana milk",
+        "meaning_ja": "バナナ牛乳",
+        "needs_review": false,
+        "note_ja": "韓国のコンビニの定番ドリンク。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "パナナ ウユ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "바나나 우유"
+      }
+    },
+    {
+      "id": "23376725-6551-4058-857f-e347662887ca",
+      "content": {
+        "example": {
+          "en": "There is so much banana milk.",
+          "ja": "バナナ牛乳がすごくたくさんあります。",
+          "ko": "바나나 우유가 엄청 많아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "엄청",
+        "meaning_en": "extremely, a lot",
+        "meaning_ja": "とても、すごく",
+        "needs_review": false,
+        "note_ja": "口語の強調表現。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "オムチョン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "엄청"
+      }
+    },
+    {
+      "id": "2410d478-8202-46ce-be76-f2b15afa4d1a",
+      "content": {
+        "example": {
+          "en": "There is bread at the convenience store.",
+          "ja": "コンビニにパンがあります。",
+          "ko": "편의점에 빵이 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "빵",
+        "meaning_en": "bread",
+        "meaning_ja": "パン",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "パン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "빵"
+      }
+    },
+    {
+      "id": "8ffdb946-341d-4e13-944c-478b9f9e99ed",
+      "content": {
+        "example": {
+          "en": "There is milk too.",
+          "ja": "牛乳もあります。",
+          "ko": "우유도 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "우유",
+        "meaning_en": "milk",
+        "meaning_ja": "牛乳",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ウユ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "우유"
+      }
+    },
+    {
+      "id": "9577a429-3e2e-4233-9c57-da23751e1c03",
+      "content": {
+        "example": {
+          "en": "There is a penguin.",
+          "ja": "ペンギンがいます。",
+          "ko": "펭귄이 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "펭귄",
+        "meaning_en": "penguin",
+        "meaning_ja": "ペンギン",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ペングィン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "펭귄"
+      }
+    },
+    {
+      "id": "eb569ebb-e555-488a-bc17-efdf5c7dbb5e",
+      "content": {
+        "example": {
+          "en": "Is Pororo cute?",
+          "ja": "ポロロ、可愛いですか？",
+          "ko": "뽀로로 귀여워요?",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "귀엽다",
+        "meaning_en": "cute",
+        "meaning_ja": "可愛い",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "クィヨプタ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "귀여워요"
+      }
+    },
+    {
+      "id": "a8e25728-6c9c-402d-a6e2-f9822c5ff7a7",
+      "content": {
+        "example": {
+          "en": "I like the aisle seat.",
+          "ja": "通路側の席が好きです。",
+          "ko": "복도 자리가 좋아요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "복도",
+        "meaning_en": "aisle",
+        "meaning_ja": "通路",
+        "needs_review": false,
+        "note_ja": "복도 자리で「通路側の席」。",
+        "pronunciation_hangul": "복또",
+        "pronunciation_note_ja": null,
+        "reading_kana": "ポクト",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "복도"
+      }
+    },
+    {
+      "id": "e0c2db1c-dbcd-431a-a81b-5fdea393fd74",
+      "content": {
+        "example": {
+          "en": "I sit in a window seat.",
+          "ja": "窓側の席に座ります。",
+          "ko": "창가 자리에 앉아요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "창가",
+        "meaning_en": "window side",
+        "meaning_ja": "窓側",
+        "needs_review": false,
+        "note_ja": "창가 자리で「窓側の席」。",
+        "pronunciation_hangul": "창까",
+        "pronunciation_note_ja": null,
+        "reading_kana": "チャンカ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "창가"
+      }
+    },
+    {
+      "id": "562f3d9a-82a2-4231-bb13-33915cc67143",
+      "content": {
+        "example": {
+          "en": "I like window seats better.",
+          "ja": "私は窓側の席の方が好きです。",
+          "ko": "저는 창가 자리가 더 좋아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "더",
+        "meaning_en": "more",
+        "meaning_ja": "もっと",
+        "needs_review": false,
+        "note_ja": "比較に使う。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ト",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "더"
+      }
+    },
+    {
+      "id": "c14936ee-a3fa-4fd7-a023-990c4ebd8409",
+      "content": {
+        "example": {
+          "en": "I close the window.",
+          "ja": "窓を閉めます。",
+          "ko": "창문을 닫아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "닫다",
+        "meaning_en": "to close",
+        "meaning_ja": "閉める",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "닫따",
+        "pronunciation_note_ja": null,
+        "reading_kana": "タッタ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "닫아요"
+      }
+    },
+    {
+      "id": "f4ad710a-dcab-42bd-ba81-aa91cdf9e896",
+      "content": {
+        "example": {
+          "en": "Mountains are visible from the plane.",
+          "ja": "飛行機から山が見えます。",
+          "ko": "비행기에서 산이 보여요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "산",
+        "meaning_en": "mountain",
+        "meaning_ja": "山",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "サン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "산"
+      }
+    },
+    {
+      "id": "ae05c76c-ba70-48f0-909b-37da66ce0ad1",
+      "content": {
+        "example": {
+          "en": "Mountains are visible from the plane.",
+          "ja": "飛行機から山が見えます。",
+          "ko": "비행기에서 산이 보여요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "보이다",
+        "meaning_en": "to be visible",
+        "meaning_ja": "見える",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ボイダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "보여요"
+      }
+    },
+    {
+      "id": "966516e9-af88-4f9b-90a1-c08c61732841",
+      "content": {
+        "example": {
+          "en": "The sky is visible from the plane.",
+          "ja": "飛行機から空が見えます。",
+          "ko": "비행기에서 하늘이 보여요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "하늘",
+        "meaning_en": "sky",
+        "meaning_ja": "空",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ハヌル",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "하늘"
+      }
+    },
+    {
+      "id": "54d6fbf1-f8d3-4124-8177-48d166fbfab6",
+      "content": {
+        "example": {
+          "en": "The sea and islands are visible.",
+          "ja": "海と島が見えます。",
+          "ko": "바다랑 섬이 보여요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "섬",
+        "meaning_en": "island",
+        "meaning_ja": "島",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ソム",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "섬"
+      }
+    },
+    {
+      "id": "67706351-948e-47a1-8b2f-e25dd2bd6a66",
+      "content": {
+        "example": {
+          "en": "Between mountains and the sea, which do you like better?",
+          "ja": "山と海のうち、どちらがもっと好きですか？",
+          "ko": "산, 바다 중에 뭐가 더 좋아요?",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "phrase",
+        "korean": "중에",
+        "meaning_en": "among, between",
+        "meaning_ja": "〜の中で",
+        "needs_review": false,
+        "note_ja": "〜중에で選択肢の中から比べる表現。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チュンエ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "중에"
+      }
+    },
+    {
+      "id": "4e2ab64c-d957-46f1-a983-0c12e96b73ac",
+      "content": {
+        "example": {
+          "en": "I eat popcorn.",
+          "ja": "ポップコーンを食べます。",
+          "ko": "팝콘 먹어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "팝콘",
+        "meaning_en": "popcorn",
+        "meaning_ja": "ポップコーン",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "パプコン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "팝콘"
+      }
+    },
+    {
+      "id": "21a8a58a-5463-4aa0-9c60-b2f441083429",
+      "content": {
+        "example": {
+          "en": "I read a magazine on the plane.",
+          "ja": "飛行機で雑誌を見ます。",
+          "ko": "비행기에서 잡지 봐요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "잡지",
+        "meaning_en": "magazine",
+        "meaning_ja": "雑誌",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チャプチ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "잡지"
+      }
+    },
+    {
+      "id": "fba294e8-2ab7-4d8d-8b5d-cb4f5b236e2d",
+      "content": {
+        "example": {
+          "en": "I arrived at a Japanese airport.",
+          "ja": "日本の空港に到着しました。",
+          "ko": "일본 공항에 도착했어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "도착하다",
+        "meaning_en": "to arrive",
+        "meaning_ja": "到着する",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "도차카다",
+        "pronunciation_note_ja": null,
+        "reading_kana": "トチャカダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "도착했어요"
+      }
+    },
+    {
+      "id": "914236eb-9942-4a55-88a5-8ac5eb7ebffa",
+      "content": {
+        "example": {
+          "en": "Now I take the subway.",
+          "ja": "今、地下鉄に乗ります。",
+          "ko": "이제 지하철을 타요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "지하철",
+        "meaning_en": "subway",
+        "meaning_ja": "地下鉄",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チハチョル",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "지하철"
+      }
+    },
+    {
+      "id": "e6dfff3f-86d5-4434-bac4-ef5cba685e74",
+      "content": {
+        "example": {
+          "en": "I buy a subway ticket.",
+          "ja": "地下鉄の切符を買います。",
+          "ko": "지하철 표를 사요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "표",
+        "meaning_en": "ticket",
+        "meaning_ja": "切符、チケット",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ピョ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "표"
+      }
+    },
+    {
+      "id": "9974477f-a75b-443b-abad-4b428c82b74d",
+      "content": {
+        "example": {
+          "en": "I have coins.",
+          "ja": "硬貨があります。",
+          "ko": "동전이 있어요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "동전",
+        "meaning_en": "coin",
+        "meaning_ja": "硬貨",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "トンジョン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "동전"
+      }
+    },
+    {
+      "id": "95bdb9f7-f2d2-418b-8147-8a4ce2509bbd",
+      "content": {
+        "example": {
+          "en": "Where are we now?",
+          "ja": "今どこですか？",
+          "ko": "지금 어디예요?",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "어디",
+        "meaning_en": "where",
+        "meaning_ja": "どこ",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "オディ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "어디예요"
+      }
+    },
+    {
+      "id": "68431f2a-0db4-4a0b-bcbd-60dcfd4df8a1",
+      "content": {
+        "example": {
+          "en": "I watch the sunset from the subway.",
+          "ja": "地下鉄から夕焼けを見ます。",
+          "ko": "지하철에서 노을 봐요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "노을",
+        "meaning_en": "sunset glow",
+        "meaning_ja": "夕焼け",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ノウル",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "노을"
+      }
+    },
+    {
+      "id": "c05fa8bd-37cf-47b6-b282-2de8e48c85c9",
+      "content": {
+        "example": {
+          "en": "I eat ramen.",
+          "ja": "ラーメンを食べます。",
+          "ko": "라멘을 먹어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "라멘",
+        "meaning_en": "ramen",
+        "meaning_ja": "ラーメン",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ラメン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "라멘"
+      }
+    },
+    {
+      "id": "5b042d2a-15fa-4f9a-b102-648638820693",
+      "content": {
+        "example": {
+          "en": "I receive a gift.",
+          "ja": "プレゼントをもらいます。",
+          "ko": "선물을 받아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "선물",
+        "meaning_en": "gift, present",
+        "meaning_ja": "プレゼント",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ソンムル",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "선물"
+      }
+    },
+    {
+      "id": "6ea3fd55-1acf-47ac-a989-7d147ecfc73e",
+      "content": {
+        "example": {
+          "en": "I give a gift.",
+          "ja": "プレゼントをあげます。",
+          "ko": "선물을 줘요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "주다",
+        "meaning_en": "to give",
+        "meaning_ja": "あげる",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チュダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "줘요"
+      }
+    },
+    {
+      "id": "712f1724-0a8c-4049-91ac-d5adb30e29a2",
+      "content": {
+        "example": {
+          "en": "I receive a gift.",
+          "ja": "プレゼントをもらいます。",
+          "ko": "선물을 받아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "받다",
+        "meaning_en": "to receive",
+        "meaning_ja": "もらう、受け取る",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "받따",
+        "pronunciation_note_ja": null,
+        "reading_kana": "パッタ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "받아요"
+      }
+    },
+    {
+      "id": "61720069-3690-4f66-bf7f-4c5461e10fc3",
+      "content": {
+        "example": {
+          "en": "Everyone, do you like the sea?",
+          "ja": "皆さん、海は好きですか？",
+          "ko": "여러분, 바다 좋아해요?",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "여러분",
+        "meaning_en": "everyone",
+        "meaning_ja": "皆さん",
+        "needs_review": false,
+        "note_ja": "視聴者への呼びかけに使う。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ヨロブン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "여러분"
+      }
     }
   ],
   "decks": [
@@ -4333,6 +5797,24 @@
         "1kg 5,000원などの価格・数量そのものはカード化していません（例文中に現れる場合があります）。",
         "分割字幕をつないだり、助詞や表記を整えたりした短い例文はすべてorigin=generatedです。逐語引用sourceとしては扱いません。",
         "繰り返しを除き主要語と日常表現を抽出しました。全単語・全助詞を網羅したものではありません。"
+      ]
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "meta": {
+        "title": "飛行機で旅行｜動画 vK6dBvEZOs8",
+        "source_title": "Easy Korean Comprehensible Input for Absolute Beginners✈️ Slow Korean for Travel 🎧Korean Listening",
+        "source_url": "https://www.youtube.com/watch?v=vK6dBvEZOs8",
+        "description_ja": "提供された0:08〜10:02の文字起こし（YouTubeの手動韓国語字幕）から、旅行・空港・機内で使う基本の語と表現を抽出。動画視聴前の予習用。音声は未確認。"
+      },
+      "warnings": [
+        "YouTubeの手動韓国語字幕をトランスクリプト表示で取得した文字起こしを教材内容の資料としています。動画タイトルと出典はページで確認。音声・画面は未確認です。",
+        "カタカナは見出しkoreanの発音を近似する補助で、音声を聞き取った記録ではありません。IPA・ローマ字は確信がないため追加していません。",
+        "字幕にある教育目的の繰り返しは1件に集約しました。",
+        "固有名詞리아（話者の名前）と뽀로로（キャラクター名）はカード化していません（뽀로로は귀엽다の例文にのみ登場します）。",
+        "字幕表記「여행가요」は「여행 가요（旅行に行きます）」として扱い、見出しは여행にしました。2:43の感嘆詞아싸（やった！）はカード化していません。",
+        "分割字幕をつないだり、助詞や表記を整えたりした短い例文はすべてorigin=generatedです。逐語引用sourceとしては扱いません。",
+        "主要語と日常表現を抽出しました。全単語を網羅したものではありません。"
       ]
     }
   ],
@@ -9283,6 +10765,1956 @@
         "review_note_ja": null,
         "romanization": null,
         "surface_form": "만나요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__6f7dd82f-6105-4b5e-adf3-4ba191660646",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "6f7dd82f-6105-4b5e-adf3-4ba191660646",
+      "source_card": {
+        "example": {
+          "en": "Today I'm going on a trip.",
+          "ja": "今日は旅行に行きます。",
+          "ko": "오늘 여행 가요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "여행",
+        "meaning_en": "trip, travel",
+        "meaning_ja": "旅行",
+        "needs_review": false,
+        "note_ja": "字幕の「여행가요」は「여행 가요」の表記。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ヨヘン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "여행"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__7451570b-5fb2-44e5-9663-caa32b84f55d",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "7451570b-5fb2-44e5-9663-caa32b84f55d",
+      "source_card": {
+        "example": {
+          "en": "I take the bus.",
+          "ja": "バスに乗ります。",
+          "ko": "버스를 타요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "타다",
+        "meaning_en": "to ride, to get on",
+        "meaning_ja": "乗る",
+        "needs_review": false,
+        "note_ja": "乗り物に使う。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "タダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "타요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__70dd58e3-8183-4040-bdd1-c688cc14001d",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "70dd58e3-8183-4040-bdd1-c688cc14001d",
+      "source_card": {
+        "example": {
+          "en": "There is a plane over there.",
+          "ja": "あそこに飛行機があります。",
+          "ko": "저기에 비행기가 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "비행기",
+        "meaning_en": "airplane",
+        "meaning_ja": "飛行機",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ピヘンギ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "비행기"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__3d76fe14-55a2-4cff-90cc-4cbd1751d945",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "3d76fe14-55a2-4cff-90cc-4cbd1751d945",
+      "source_card": {
+        "example": {
+          "en": "I'm going to catch the plane now.",
+          "ja": "今、飛行機に乗りに行きます。",
+          "ko": "지금 비행기 타러 가요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "phrase",
+        "korean": "타러 가다",
+        "meaning_en": "to go to catch (a ride)",
+        "meaning_ja": "乗りに行く",
+        "needs_review": false,
+        "note_ja": "動詞の語幹＋러 가다で「〜しに行く」。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "タロ ガダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "타러 가요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__965099ad-7be6-473f-a7a3-d18fd63fc329",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "965099ad-7be6-473f-a7a3-d18fd63fc329",
+      "source_card": {
+        "example": {
+          "en": "This is the bus stop.",
+          "ja": "ここはバス停です。",
+          "ko": "여기는 버스 정류장이에요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "버스 정류장",
+        "meaning_en": "bus stop",
+        "meaning_ja": "バス停",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "정뉴장",
+        "pronunciation_note_ja": null,
+        "reading_kana": "ボス チョンニュジャン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "버스 정류장"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__0ff131e8-e679-408c-8b0d-f62e52f75fc5",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "0ff131e8-e679-408c-8b0d-f62e52f75fc5",
+      "source_card": {
+        "example": {
+          "en": "This is my bag.",
+          "ja": "これは私のかばんです。",
+          "ko": "이건 제 가방이에요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "가방",
+        "meaning_en": "bag",
+        "meaning_ja": "かばん",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "カバン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "가방"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__6a0bb578-6c2e-48ad-bc6d-4fb43d056cc0",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "6a0bb578-6c2e-48ad-bc6d-4fb43d056cc0",
+      "source_card": {
+        "example": {
+          "en": "How many bags are there?",
+          "ja": "かばんはいくつありますか？",
+          "ko": "가방 몇 개 있어요?",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "phrase",
+        "korean": "몇 개",
+        "meaning_en": "how many (items)",
+        "meaning_ja": "いくつ",
+        "needs_review": false,
+        "note_ja": "物の数を尋ねる表現。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ミョッ ケ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "몇 개"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__2c55fe49-ac8e-4587-b578-776c76a98578",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "2c55fe49-ac8e-4587-b578-776c76a98578",
+      "source_card": {
+        "example": {
+          "en": "I look out the window.",
+          "ja": "窓の外を見ます。",
+          "ko": "창문 밖을 봐요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "창문",
+        "meaning_en": "window",
+        "meaning_ja": "窓",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チャンムン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "창문"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__78f6ab98-73f6-4f6d-a38f-c68d6f5a19ae",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "78f6ab98-73f6-4f6d-a38f-c68d6f5a19ae",
+      "source_card": {
+        "example": {
+          "en": "There is the sea outside the window.",
+          "ja": "窓の外に海があります。",
+          "ko": "창문 밖에 바다가 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "밖",
+        "meaning_en": "outside",
+        "meaning_ja": "外",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "パク",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "밖에"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__8a313559-1ace-4d01-b7c0-2c8258e0880e",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "8a313559-1ace-4d01-b7c0-2c8258e0880e",
+      "source_card": {
+        "example": {
+          "en": "There is the sea outside the window.",
+          "ja": "窓の外に海があります。",
+          "ko": "창문 밖에 바다가 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "바다",
+        "meaning_en": "sea",
+        "meaning_ja": "海",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "パダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "바다"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__d6106886-2286-4745-ae0b-e471a34a56e0",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "d6106886-2286-4745-ae0b-e471a34a56e0",
+      "source_card": {
+        "example": {
+          "en": "I really like the sea.",
+          "ja": "私は海が本当に好きです。",
+          "ko": "저는 바다를 진짜 좋아해요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "진짜",
+        "meaning_en": "really",
+        "meaning_ja": "本当に",
+        "needs_review": false,
+        "note_ja": "口語で「本当に・まじで」。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チンチャ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "진짜"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__497efa34-a034-4a6d-bfa8-4ae811f35416",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "497efa34-a034-4a6d-bfa8-4ae811f35416",
+      "source_card": {
+        "example": {
+          "en": "I really like the sea.",
+          "ja": "私は海が本当に好きです。",
+          "ko": "저는 바다를 진짜 좋아해요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "좋아하다",
+        "meaning_en": "to like",
+        "meaning_ja": "好きだ",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チョアハダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "좋아해요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__3e050f7e-ac5a-4cc5-a6d4-9cef4578d2ea",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "3e050f7e-ac5a-4cc5-a6d4-9cef4578d2ea",
+      "source_card": {
+        "example": {
+          "en": "I get off the bus.",
+          "ja": "バスから降ります。",
+          "ko": "버스에서 내려요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "내리다",
+        "meaning_en": "to get off; to go down",
+        "meaning_ja": "降りる",
+        "needs_review": false,
+        "note_ja": "乗り物を降りる時と、飛行機などが下りる時の両方に登場。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ネリダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "내려요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__7099a295-052b-4759-ac38-f5debf37b8f6",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "7099a295-052b-4759-ac38-f5debf37b8f6",
+      "source_card": {
+        "example": {
+          "en": "Now I take out my suitcase.",
+          "ja": "今、スーツケースを取り出します。",
+          "ko": "이제 캐리어를 꺼내요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "캐리어",
+        "meaning_en": "suitcase",
+        "meaning_ja": "スーツケース",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ケリオ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "캐리어"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__415c58e5-59c5-4a15-b004-0b48a5fa479f",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "415c58e5-59c5-4a15-b004-0b48a5fa479f",
+      "source_card": {
+        "example": {
+          "en": "Now I take out my suitcase.",
+          "ja": "今、スーツケースを取り出します。",
+          "ko": "이제 캐리어를 꺼내요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "꺼내다",
+        "meaning_en": "to take out",
+        "meaning_ja": "取り出す",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "コネダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "꺼내요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__00e150d2-a18e-4820-8808-3ef69266bcc3",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "00e150d2-a18e-4820-8808-3ef69266bcc3",
+      "source_card": {
+        "example": {
+          "en": "This is the airport.",
+          "ja": "ここは空港です。",
+          "ko": "여기는 공항이에요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "공항",
+        "meaning_en": "airport",
+        "meaning_ja": "空港",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "コンハン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "공항"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__88248872-a89e-4635-a3ba-04d94059fd80",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "88248872-a89e-4635-a3ba-04d94059fd80",
+      "source_card": {
+        "example": {
+          "en": "I go into the airport.",
+          "ja": "空港へ入ります。",
+          "ko": "공항으로 들어가요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "들어가다",
+        "meaning_en": "to enter, to go in",
+        "meaning_ja": "入る",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "トゥロガダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "들어가요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__5d7e31ee-0afd-47c7-a4e7-1610318eaf83",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "5d7e31ee-0afd-47c7-a4e7-1610318eaf83",
+      "source_card": {
+        "example": {
+          "en": "I organize my bag here.",
+          "ja": "ここでかばんを整理します。",
+          "ko": "여기서 가방을 정리해요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "정리하다",
+        "meaning_en": "to organize, to tidy",
+        "meaning_ja": "整理する",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "정니하다",
+        "pronunciation_note_ja": null,
+        "reading_kana": "チョンニハダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "정리해요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__49182f34-424a-4eda-8dac-de8325e88eae",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "49182f34-424a-4eda-8dac-de8325e88eae",
+      "source_card": {
+        "example": {
+          "en": "I weigh my bag.",
+          "ja": "かばんの重さを量ります。",
+          "ko": "가방 무게를 재요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "무게",
+        "meaning_en": "weight",
+        "meaning_ja": "重さ",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ムゲ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "무게"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__2cc7bef3-e8fd-4678-b02c-ad7d3c51a3d7",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "2cc7bef3-e8fd-4678-b02c-ad7d3c51a3d7",
+      "source_card": {
+        "example": {
+          "en": "I weigh my bag.",
+          "ja": "かばんの重さを量ります。",
+          "ko": "가방 무게를 재요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "재다",
+        "meaning_en": "to measure, to weigh",
+        "meaning_ja": "量る、測る",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チェダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "재요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__59b2b3ef-37d2-4c56-ace9-5929575563ca",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "59b2b3ef-37d2-4c56-ace9-5929575563ca",
+      "source_card": {
+        "example": {
+          "en": "I put the bag up.",
+          "ja": "かばんを乗せます。",
+          "ko": "가방을 올려요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "올리다",
+        "meaning_en": "to put up, to lift onto",
+        "meaning_ja": "乗せる、上げる",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "オルリダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "올려요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__7d137484-1fec-472d-b801-a4a911db9ab3",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "7d137484-1fec-472d-b801-a4a911db9ab3",
+      "source_card": {
+        "example": {
+          "en": "I'm nervous.",
+          "ja": "私は緊張します。",
+          "ko": "저는 긴장돼요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "긴장되다",
+        "meaning_en": "to be nervous",
+        "meaning_ja": "緊張する",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "キンジャンデダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "긴장돼요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__e34b12c2-35d0-47f0-95b0-ca876b015f93",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "e34b12c2-35d0-47f0-95b0-ca876b015f93",
+      "source_card": {
+        "example": {
+          "en": "The weight is just right.",
+          "ja": "重さがちょうどいいです。",
+          "ko": "무게가 딱 좋아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "딱",
+        "meaning_en": "exactly, just right",
+        "meaning_ja": "ぴったり、ちょうど",
+        "needs_review": false,
+        "note_ja": "딱 좋아요で「ちょうどいい」。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "タク",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "딱"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__50c13a15-f0a8-4f31-83d7-d43cbb80ef37",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "50c13a15-f0a8-4f31-83d7-d43cbb80ef37",
+      "source_card": {
+        "example": {
+          "en": "I check the flight time.",
+          "ja": "飛行機の時間を確認します。",
+          "ko": "비행기 시간을 확인해요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "시간",
+        "meaning_en": "time",
+        "meaning_ja": "時間",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "シガン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "시간"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__aa013835-3faf-4318-97e8-2f7eb51b38b1",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "aa013835-3faf-4318-97e8-2f7eb51b38b1",
+      "source_card": {
+        "example": {
+          "en": "I check the time.",
+          "ja": "時間を確認します。",
+          "ko": "시간을 확인해요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "확인하다",
+        "meaning_en": "to check, to confirm",
+        "meaning_ja": "確認する",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ファギンハダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "확인해요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__be344bfb-7208-4942-85ad-1c6eadc4bb2b",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "be344bfb-7208-4942-85ad-1c6eadc4bb2b",
+      "source_card": {
+        "example": {
+          "en": "I check in at the airport.",
+          "ja": "空港でチェックインします。",
+          "ko": "공항에서 체크인해요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "체크인하다",
+        "meaning_en": "to check in",
+        "meaning_ja": "チェックインする",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チェクインハダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "체크인해요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__6ea8568d-7532-4157-8644-f17482c0aa25",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "6ea8568d-7532-4157-8644-f17482c0aa25",
+      "source_card": {
+        "example": {
+          "en": "I check my suitcase.",
+          "ja": "スーツケースを預けます。",
+          "ko": "캐리어를 부쳐요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "부치다",
+        "meaning_en": "to check (luggage)",
+        "meaning_ja": "（荷物を）預ける",
+        "needs_review": false,
+        "note_ja": "ここでは荷物を預ける意味。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "プチダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "부쳐요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__c403ceb7-8e8f-4504-b1f0-9f5150ca521d",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "c403ceb7-8e8f-4504-b1f0-9f5150ca521d",
+      "source_card": {
+        "example": {
+          "en": "There is a king at the airport.",
+          "ja": "空港に王様がいます。",
+          "ko": "공항에 왕이 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "왕",
+        "meaning_en": "king",
+        "meaning_ja": "王様",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ワン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "왕"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__3a581764-2bd0-4af7-aad7-58d5127fde29",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "3a581764-2bd0-4af7-aad7-58d5127fde29",
+      "source_card": {
+        "example": {
+          "en": "It's really wonderful.",
+          "ja": "本当に素敵です。",
+          "ko": "진짜 멋져요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "멋지다",
+        "meaning_en": "cool, wonderful",
+        "meaning_ja": "素敵だ、かっこいい",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "멋찌다",
+        "pronunciation_note_ja": null,
+        "reading_kana": "モッチダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "멋져요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__de0f0ccc-5336-4ae9-a8fd-58575dd8b2c8",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "de0f0ccc-5336-4ae9-a8fd-58575dd8b2c8",
+      "source_card": {
+        "example": {
+          "en": "I greet the king.",
+          "ja": "王様に挨拶します。",
+          "ko": "왕에게 인사해요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "인사하다",
+        "meaning_en": "to greet",
+        "meaning_ja": "挨拶する",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "インサハダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "인사해요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__83a3f438-8c6f-46a3-8edc-c33e5c621ee2",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "83a3f438-8c6f-46a3-8edc-c33e5c621ee2",
+      "source_card": {
+        "example": {
+          "en": "I make a tiger keyring.",
+          "ja": "虎のキーリングを作ります。",
+          "ko": "호랑이 키링을 만들어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "키링",
+        "meaning_en": "keyring",
+        "meaning_ja": "キーリング",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "キリン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "키링"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__c6633135-946a-4a2c-a55c-c76c6cee5839",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "c6633135-946a-4a2c-a55c-c76c6cee5839",
+      "source_card": {
+        "example": {
+          "en": "I make a keyring here.",
+          "ja": "ここでキーリングを作ります。",
+          "ko": "여기서 키링을 만들어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "만들다",
+        "meaning_en": "to make",
+        "meaning_ja": "作る",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "マンドゥルダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "만들어요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__f6336fe4-37f4-4b52-bba7-150712b2e6be",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "f6336fe4-37f4-4b52-bba7-150712b2e6be",
+      "source_card": {
+        "example": {
+          "en": "I make a tiger keyring.",
+          "ja": "虎のキーリングを作ります。",
+          "ko": "호랑이 키링을 만들어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "호랑이",
+        "meaning_en": "tiger",
+        "meaning_ja": "虎",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ホランイ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "호랑이"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__9493d23c-c13d-4aa0-bc09-cdc6cca09c7c",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "9493d23c-c13d-4aa0-bc09-cdc6cca09c7c",
+      "source_card": {
+        "example": {
+          "en": "I make a new friend.",
+          "ja": "新しい友達を作ります。",
+          "ko": "새로운 친구를 만들어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "새롭다",
+        "meaning_en": "new",
+        "meaning_ja": "新しい",
+        "needs_review": false,
+        "note_ja": "名詞を修飾する形は새로운。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "セロプタ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "새로운"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__ac5784fb-1b77-4807-86b0-0afeb97b552f",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "ac5784fb-1b77-4807-86b0-0afeb97b552f",
+      "source_card": {
+        "example": {
+          "en": "I meet a friend.",
+          "ja": "友達に会います。",
+          "ko": "친구를 만나요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "친구",
+        "meaning_en": "friend",
+        "meaning_ja": "友達",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チング",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "친구"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__f1cb7273-fc5b-4e84-93db-365a9b5a8cf1",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "f1cb7273-fc5b-4e84-93db-365a9b5a8cf1",
+      "source_card": {
+        "example": {
+          "en": "There is a restaurant at the airport.",
+          "ja": "空港に飲食店があります。",
+          "ko": "공항에 음식점이 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "음식점",
+        "meaning_en": "restaurant",
+        "meaning_ja": "飲食店",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "음식쩜",
+        "pronunciation_note_ja": null,
+        "reading_kana": "ウムシクチョム",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "음식점"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__0bb961da-f313-44df-94ef-470a4c922cb8",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "0bb961da-f313-44df-94ef-470a4c922cb8",
+      "source_card": {
+        "example": {
+          "en": "This is kimbap.",
+          "ja": "これはキンパです。",
+          "ko": "이건 김밥이에요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "김밥",
+        "meaning_en": "kimbap (seaweed rice roll)",
+        "meaning_ja": "キンパ",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "キムバプ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "김밥"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__a3bc6b6c-5542-424a-bdde-c3acf2db191a",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "a3bc6b6c-5542-424a-bdde-c3acf2db191a",
+      "source_card": {
+        "example": {
+          "en": "I go to the convenience store.",
+          "ja": "私はコンビニに行きます。",
+          "ko": "저는 편의점에 가요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "편의점",
+        "meaning_en": "convenience store",
+        "meaning_ja": "コンビニ",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ピョンイジョム",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "편의점"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__3ffdfeca-a26a-4f0d-a435-cf4ca6339c53",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "3ffdfeca-a26a-4f0d-a435-cf4ca6339c53",
+      "source_card": {
+        "example": {
+          "en": "First I buy water.",
+          "ja": "まず水を買います。",
+          "ko": "먼저 물을 사요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "먼저",
+        "meaning_en": "first",
+        "meaning_ja": "まず",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "モンジョ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "먼저"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__e7bd4a27-a784-432b-8e66-93d8fe73970d",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "e7bd4a27-a784-432b-8e66-93d8fe73970d",
+      "source_card": {
+        "example": {
+          "en": "First I buy water.",
+          "ja": "まず水を買います。",
+          "ko": "먼저 물을 사요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "사다",
+        "meaning_en": "to buy",
+        "meaning_ja": "買う",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "サダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "사요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__b752775c-5a6b-49ca-baf9-d53e47eaf0fc",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "b752775c-5a6b-49ca-baf9-d53e47eaf0fc",
+      "source_card": {
+        "example": {
+          "en": "First I buy water.",
+          "ja": "まず水を買います。",
+          "ko": "먼저 물을 사요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "물",
+        "meaning_en": "water",
+        "meaning_ja": "水",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ムル",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "물"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__e475dbdc-cf54-444c-86ff-f785ae33b596",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "e475dbdc-cf54-444c-86ff-f785ae33b596",
+      "source_card": {
+        "example": {
+          "en": "I buy banana milk.",
+          "ja": "バナナ牛乳を買います。",
+          "ko": "바나나 우유를 사요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "바나나 우유",
+        "meaning_en": "banana milk",
+        "meaning_ja": "バナナ牛乳",
+        "needs_review": false,
+        "note_ja": "韓国のコンビニの定番ドリンク。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "パナナ ウユ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "바나나 우유"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__23376725-6551-4058-857f-e347662887ca",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "23376725-6551-4058-857f-e347662887ca",
+      "source_card": {
+        "example": {
+          "en": "There is so much banana milk.",
+          "ja": "バナナ牛乳がすごくたくさんあります。",
+          "ko": "바나나 우유가 엄청 많아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "엄청",
+        "meaning_en": "extremely, a lot",
+        "meaning_ja": "とても、すごく",
+        "needs_review": false,
+        "note_ja": "口語の強調表現。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "オムチョン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "엄청"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__2410d478-8202-46ce-be76-f2b15afa4d1a",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "2410d478-8202-46ce-be76-f2b15afa4d1a",
+      "source_card": {
+        "example": {
+          "en": "There is bread at the convenience store.",
+          "ja": "コンビニにパンがあります。",
+          "ko": "편의점에 빵이 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "빵",
+        "meaning_en": "bread",
+        "meaning_ja": "パン",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "パン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "빵"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__8ffdb946-341d-4e13-944c-478b9f9e99ed",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "8ffdb946-341d-4e13-944c-478b9f9e99ed",
+      "source_card": {
+        "example": {
+          "en": "There is milk too.",
+          "ja": "牛乳もあります。",
+          "ko": "우유도 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "우유",
+        "meaning_en": "milk",
+        "meaning_ja": "牛乳",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ウユ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "우유"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__1fb59e64-e4cd-4976-9686-e0390823a795",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "1fb59e64-e4cd-4976-9686-e0390823a795",
+      "source_card": {
+        "example": {
+          "en": "I buy snacks.",
+          "ja": "おやつを買います。",
+          "ko": "간식을 사요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "간식",
+        "meaning_en": "snack",
+        "meaning_ja": "おやつ、間食",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "カンシク",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "간식"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__a68f136c-f38c-4a65-b8e1-2c75e5179ced",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "a68f136c-f38c-4a65-b8e1-2c75e5179ced",
+      "source_card": {
+        "example": {
+          "en": "I buy a triangle kimbap.",
+          "ja": "三角キンパを買います。",
+          "ko": "삼각김밥을 사요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "삼각김밥",
+        "meaning_en": "triangle kimbap",
+        "meaning_ja": "三角キンパ",
+        "needs_review": false,
+        "note_ja": "日本のおにぎりに似たコンビニ食品。",
+        "pronunciation_hangul": "삼각낌밥",
+        "pronunciation_note_ja": null,
+        "reading_kana": "サムガッキムバプ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "삼각김밥"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__9577a429-3e2e-4233-9c57-da23751e1c03",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "9577a429-3e2e-4233-9c57-da23751e1c03",
+      "source_card": {
+        "example": {
+          "en": "There is a penguin.",
+          "ja": "ペンギンがいます。",
+          "ko": "펭귄이 있어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "펭귄",
+        "meaning_en": "penguin",
+        "meaning_ja": "ペンギン",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ペングィン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "펭귄"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__eb569ebb-e555-488a-bc17-efdf5c7dbb5e",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "eb569ebb-e555-488a-bc17-efdf5c7dbb5e",
+      "source_card": {
+        "example": {
+          "en": "Is Pororo cute?",
+          "ja": "ポロロ、可愛いですか？",
+          "ko": "뽀로로 귀여워요?",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "귀엽다",
+        "meaning_en": "cute",
+        "meaning_ja": "可愛い",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "クィヨプタ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "귀여워요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__a8e25728-6c9c-402d-a6e2-f9822c5ff7a7",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "a8e25728-6c9c-402d-a6e2-f9822c5ff7a7",
+      "source_card": {
+        "example": {
+          "en": "I like the aisle seat.",
+          "ja": "通路側の席が好きです。",
+          "ko": "복도 자리가 좋아요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "복도",
+        "meaning_en": "aisle",
+        "meaning_ja": "通路",
+        "needs_review": false,
+        "note_ja": "복도 자리で「通路側の席」。",
+        "pronunciation_hangul": "복또",
+        "pronunciation_note_ja": null,
+        "reading_kana": "ポクト",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "복도"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__e0c2db1c-dbcd-431a-a81b-5fdea393fd74",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "e0c2db1c-dbcd-431a-a81b-5fdea393fd74",
+      "source_card": {
+        "example": {
+          "en": "I sit in a window seat.",
+          "ja": "窓側の席に座ります。",
+          "ko": "창가 자리에 앉아요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "창가",
+        "meaning_en": "window side",
+        "meaning_ja": "窓側",
+        "needs_review": false,
+        "note_ja": "창가 자리で「窓側の席」。",
+        "pronunciation_hangul": "창까",
+        "pronunciation_note_ja": null,
+        "reading_kana": "チャンカ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "창가"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__6b0abdd2-ce64-4af7-808f-f42d38220a99",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "6b0abdd2-ce64-4af7-808f-f42d38220a99",
+      "source_card": {
+        "example": {
+          "en": "I like window seats better.",
+          "ja": "私は窓側の席の方が好きです。",
+          "ko": "저는 창가 자리가 더 좋아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "자리",
+        "meaning_en": "seat; place",
+        "meaning_ja": "席、場所",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チャリ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "자리"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__562f3d9a-82a2-4231-bb13-33915cc67143",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "562f3d9a-82a2-4231-bb13-33915cc67143",
+      "source_card": {
+        "example": {
+          "en": "I like window seats better.",
+          "ja": "私は窓側の席の方が好きです。",
+          "ko": "저는 창가 자리가 더 좋아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "더",
+        "meaning_en": "more",
+        "meaning_ja": "もっと",
+        "needs_review": false,
+        "note_ja": "比較に使う。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ト",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "더"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__c14936ee-a3fa-4fd7-a023-990c4ebd8409",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "c14936ee-a3fa-4fd7-a023-990c4ebd8409",
+      "source_card": {
+        "example": {
+          "en": "I close the window.",
+          "ja": "窓を閉めます。",
+          "ko": "창문을 닫아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "닫다",
+        "meaning_en": "to close",
+        "meaning_ja": "閉める",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "닫따",
+        "pronunciation_note_ja": null,
+        "reading_kana": "タッタ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "닫아요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__8f801ea7-8749-4d08-8ab8-2c026f7c1c99",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "8f801ea7-8749-4d08-8ab8-2c026f7c1c99",
+      "source_card": {
+        "example": {
+          "en": "The plane goes up.",
+          "ja": "飛行機が上がります。",
+          "ko": "비행기가 올라가요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "올라가다",
+        "meaning_en": "to go up",
+        "meaning_ja": "上がっていく",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "オルラガダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "올라가요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__f4ad710a-dcab-42bd-ba81-aa91cdf9e896",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "f4ad710a-dcab-42bd-ba81-aa91cdf9e896",
+      "source_card": {
+        "example": {
+          "en": "Mountains are visible from the plane.",
+          "ja": "飛行機から山が見えます。",
+          "ko": "비행기에서 산이 보여요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "산",
+        "meaning_en": "mountain",
+        "meaning_ja": "山",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "サン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "산"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__ae05c76c-ba70-48f0-909b-37da66ce0ad1",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "ae05c76c-ba70-48f0-909b-37da66ce0ad1",
+      "source_card": {
+        "example": {
+          "en": "Mountains are visible from the plane.",
+          "ja": "飛行機から山が見えます。",
+          "ko": "비행기에서 산이 보여요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "보이다",
+        "meaning_en": "to be visible",
+        "meaning_ja": "見える",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ボイダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "보여요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__966516e9-af88-4f9b-90a1-c08c61732841",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "966516e9-af88-4f9b-90a1-c08c61732841",
+      "source_card": {
+        "example": {
+          "en": "The sky is visible from the plane.",
+          "ja": "飛行機から空が見えます。",
+          "ko": "비행기에서 하늘이 보여요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "하늘",
+        "meaning_en": "sky",
+        "meaning_ja": "空",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ハヌル",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "하늘"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__54d6fbf1-f8d3-4124-8177-48d166fbfab6",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "54d6fbf1-f8d3-4124-8177-48d166fbfab6",
+      "source_card": {
+        "example": {
+          "en": "The sea and islands are visible.",
+          "ja": "海と島が見えます。",
+          "ko": "바다랑 섬이 보여요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "섬",
+        "meaning_en": "island",
+        "meaning_ja": "島",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ソム",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "섬"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__67706351-948e-47a1-8b2f-e25dd2bd6a66",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "67706351-948e-47a1-8b2f-e25dd2bd6a66",
+      "source_card": {
+        "example": {
+          "en": "Between mountains and the sea, which do you like better?",
+          "ja": "山と海のうち、どちらがもっと好きですか？",
+          "ko": "산, 바다 중에 뭐가 더 좋아요?",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "phrase",
+        "korean": "중에",
+        "meaning_en": "among, between",
+        "meaning_ja": "〜の中で",
+        "needs_review": false,
+        "note_ja": "〜중에で選択肢の中から比べる表現。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チュンエ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "중에"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__dae06b0a-8729-44a0-b200-1c55be49da3e",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "dae06b0a-8729-44a0-b200-1c55be49da3e",
+      "source_card": {
+        "example": {
+          "en": "I eat snacks on the plane.",
+          "ja": "飛行機でお菓子を食べます。",
+          "ko": "비행기에서 과자 먹어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "과자",
+        "meaning_en": "snacks, sweets",
+        "meaning_ja": "お菓子",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "クァジャ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "과자"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__4e2ab64c-d957-46f1-a983-0c12e96b73ac",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "4e2ab64c-d957-46f1-a983-0c12e96b73ac",
+      "source_card": {
+        "example": {
+          "en": "I eat popcorn.",
+          "ja": "ポップコーンを食べます。",
+          "ko": "팝콘 먹어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "팝콘",
+        "meaning_en": "popcorn",
+        "meaning_ja": "ポップコーン",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "パプコン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "팝콘"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__21a8a58a-5463-4aa0-9c60-b2f441083429",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "21a8a58a-5463-4aa0-9c60-b2f441083429",
+      "source_card": {
+        "example": {
+          "en": "I read a magazine on the plane.",
+          "ja": "飛行機で雑誌を見ます。",
+          "ko": "비행기에서 잡지 봐요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "잡지",
+        "meaning_en": "magazine",
+        "meaning_ja": "雑誌",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チャプチ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "잡지"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__fba294e8-2ab7-4d8d-8b5d-cb4f5b236e2d",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "fba294e8-2ab7-4d8d-8b5d-cb4f5b236e2d",
+      "source_card": {
+        "example": {
+          "en": "I arrived at a Japanese airport.",
+          "ja": "日本の空港に到着しました。",
+          "ko": "일본 공항에 도착했어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "도착하다",
+        "meaning_en": "to arrive",
+        "meaning_ja": "到着する",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "도차카다",
+        "pronunciation_note_ja": null,
+        "reading_kana": "トチャカダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "도착했어요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__914236eb-9942-4a55-88a5-8ac5eb7ebffa",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "914236eb-9942-4a55-88a5-8ac5eb7ebffa",
+      "source_card": {
+        "example": {
+          "en": "Now I take the subway.",
+          "ja": "今、地下鉄に乗ります。",
+          "ko": "이제 지하철을 타요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "지하철",
+        "meaning_en": "subway",
+        "meaning_ja": "地下鉄",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チハチョル",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "지하철"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__e6dfff3f-86d5-4434-bac4-ef5cba685e74",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "e6dfff3f-86d5-4434-bac4-ef5cba685e74",
+      "source_card": {
+        "example": {
+          "en": "I buy a subway ticket.",
+          "ja": "地下鉄の切符を買います。",
+          "ko": "지하철 표를 사요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "표",
+        "meaning_en": "ticket",
+        "meaning_ja": "切符、チケット",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ピョ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "표"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__9974477f-a75b-443b-abad-4b428c82b74d",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "9974477f-a75b-443b-abad-4b428c82b74d",
+      "source_card": {
+        "example": {
+          "en": "I have coins.",
+          "ja": "硬貨があります。",
+          "ko": "동전이 있어요.",
+          "origin": "generated"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "동전",
+        "meaning_en": "coin",
+        "meaning_ja": "硬貨",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "トンジョン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "동전"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__95bdb9f7-f2d2-418b-8147-8a4ce2509bbd",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "95bdb9f7-f2d2-418b-8147-8a4ce2509bbd",
+      "source_card": {
+        "example": {
+          "en": "Where are we now?",
+          "ja": "今どこですか？",
+          "ko": "지금 어디예요?",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "어디",
+        "meaning_en": "where",
+        "meaning_ja": "どこ",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "オディ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "어디예요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__1d410dbc-550e-44f1-83f2-fbd34261db89",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "1d410dbc-550e-44f1-83f2-fbd34261db89",
+      "source_card": {
+        "example": {
+          "en": "I'm on the subway now.",
+          "ja": "今、地下鉄です。",
+          "ko": "지금 지하철이에요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "지금",
+        "meaning_en": "now",
+        "meaning_ja": "今",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チグム",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "지금"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__68431f2a-0db4-4a0b-bcbd-60dcfd4df8a1",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "68431f2a-0db4-4a0b-bcbd-60dcfd4df8a1",
+      "source_card": {
+        "example": {
+          "en": "I watch the sunset from the subway.",
+          "ja": "地下鉄から夕焼けを見ます。",
+          "ko": "지하철에서 노을 봐요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "노을",
+        "meaning_en": "sunset glow",
+        "meaning_ja": "夕焼け",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ノウル",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "노을"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__c05fa8bd-37cf-47b6-b282-2de8e48c85c9",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "c05fa8bd-37cf-47b6-b282-2de8e48c85c9",
+      "source_card": {
+        "example": {
+          "en": "I eat ramen.",
+          "ja": "ラーメンを食べます。",
+          "ko": "라멘을 먹어요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "라멘",
+        "meaning_en": "ramen",
+        "meaning_ja": "ラーメン",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ラメン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "라멘"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__5b042d2a-15fa-4f9a-b102-648638820693",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "5b042d2a-15fa-4f9a-b102-648638820693",
+      "source_card": {
+        "example": {
+          "en": "I receive a gift.",
+          "ja": "プレゼントをもらいます。",
+          "ko": "선물을 받아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "선물",
+        "meaning_en": "gift, present",
+        "meaning_ja": "プレゼント",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ソンムル",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "선물"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__6ea3fd55-1acf-47ac-a989-7d147ecfc73e",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "6ea3fd55-1acf-47ac-a989-7d147ecfc73e",
+      "source_card": {
+        "example": {
+          "en": "I give a gift.",
+          "ja": "プレゼントをあげます。",
+          "ko": "선물을 줘요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "주다",
+        "meaning_en": "to give",
+        "meaning_ja": "あげる",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "チュダ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "줘요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__712f1724-0a8c-4049-91ac-d5adb30e29a2",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "712f1724-0a8c-4049-91ac-d5adb30e29a2",
+      "source_card": {
+        "example": {
+          "en": "I receive a gift.",
+          "ja": "プレゼントをもらいます。",
+          "ko": "선물을 받아요.",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "받다",
+        "meaning_en": "to receive",
+        "meaning_ja": "もらう、受け取る",
+        "needs_review": false,
+        "note_ja": null,
+        "pronunciation_hangul": "받따",
+        "pronunciation_note_ja": null,
+        "reading_kana": "パッタ",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "받아요"
+      }
+    },
+    {
+      "id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8__61720069-3690-4f66-bf7f-4c5461e10fc3",
+      "deck_id": "d08ed147-6d3d-43a8-955e-b70d78c0bee8",
+      "card_id": "61720069-3690-4f66-bf7f-4c5461e10fc3",
+      "source_card": {
+        "example": {
+          "en": "Everyone, do you like the sea?",
+          "ja": "皆さん、海は好きですか？",
+          "ko": "여러분, 바다 좋아해요?",
+          "origin": "source"
+        },
+        "ipa": null,
+        "kind": "word",
+        "korean": "여러분",
+        "meaning_en": "everyone",
+        "meaning_ja": "皆さん",
+        "needs_review": false,
+        "note_ja": "視聴者への呼びかけに使う。",
+        "pronunciation_hangul": null,
+        "pronunciation_note_ja": null,
+        "reading_kana": "ヨロブン",
+        "review_note_ja": null,
+        "romanization": null,
+        "surface_form": "여러분"
       }
     }
   ]
