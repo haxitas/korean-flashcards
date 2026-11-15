@@ -1,3 +1,4 @@
+import {renderHangulGuide} from './hangul-guide.js';
 // Kana spelling comparison only. Do not erase phonetic distinctions or guess alternatives.
 export function normalizeReading(value){
  return value.normalize('NFKC').replace(/[\u3041-\u3096]/g,c=>String.fromCharCode(c.charCodeAt(0)+0x60)).replace(/\s/gu,'');
@@ -20,10 +21,15 @@ export function createReadingView(root,speak,now=()=>performance.now(),cancel=()
  const doc=root.ownerDocument,session=createReadingSession(now),$=id=>root.querySelector('#'+id);
  let composing=false,endedAt=-Infinity,blockedEnter=false;
  function clearIME(){composing=false;endedAt=-Infinity;blockedEnter=false;}
+ function resetGuides(){for(const [button,panel] of [['readingHint','readingHintPanel'],['readingExplain','readingExplainPanel']]){$(button).setAttribute('aria-expanded','false');$(panel).hidden=true;$(panel).replaceChildren();}}
+ for(const [button,panel,first] of [['readingHint','readingHintPanel',true],['readingExplain','readingExplainPanel',false]]){
+  $(button).onclick=()=>{if(!session.card)return;const open=$(panel).hidden;if(open)renderHangulGuide($(panel),session.card.content.korean,first);else $(panel).replaceChildren();$(panel).hidden=!open;$(button).setAttribute('aria-expanded',String(open));};
+ }
  function paint(){
   const card=session.card,result=session.result;
   $('readingQuestion').textContent=card?.content.korean||'';
   $('readingPosition').textContent=card?`${session.index+1} / ${session.total}`:'0 / 0';
+  $('readingGuideActions').hidden=!card;for(const id of ['readingHint','readingExplain'])$(id).disabled=!card;
   $('readingForm').hidden=!card;$('readingResult').replaceChildren();$('readingFeedback').textContent='';
   $('readingAnswer').disabled=!!result;$('readingSubmit').disabled=!!result;
   $('readingSpeak').hidden=!result;$('readingNext').hidden=!result||session.index>=session.total-1;
@@ -42,8 +48,8 @@ export function createReadingView(root,speak,now=()=>performance.now(),cancel=()
   if(!normalizeReading($('readingAnswer').value)){$('readingFeedback').textContent='読みを入力してください。';return;}
   if(session.submit($('readingAnswer').value)){paint();($('readingNext').hidden?$('readingRestart'):$('readingNext')).focus();}
  });
- $('readingNext').onclick=()=>{if(session.next()){cancel();clearIME();$('readingAnswer').value='';paint();$('readingAnswer').focus();}};
- $('readingRestart').onclick=()=>{cancel();session.restart();clearIME();$('readingAnswer').value='';paint();$('readingAnswer').focus();};
+ $('readingNext').onclick=()=>{if(session.next()){cancel();resetGuides();clearIME();$('readingAnswer').value='';paint();$('readingAnswer').focus();}};
+ $('readingRestart').onclick=()=>{cancel();session.restart();resetGuides();clearIME();$('readingAnswer').value='';paint();$('readingAnswer').focus();};
  $('readingSpeak').onclick=()=>{if(session.result&&session.card)speak(session.card.content.korean);};
- return {setCards(rows){session.setCards(rows);clearIME();$('readingAnswer').value='';$('readingExcluded').textContent=`出題 ${session.total}枚 · 読み未登録・要確認のため除外 ${rows.length-session.total}枚`;$('readingEmpty').hidden=!!session.total;paint();}};
+ return {setCards(rows){session.setCards(rows);resetGuides();clearIME();$('readingAnswer').value='';$('readingExcluded').textContent=`出題 ${session.total}枚 · 読み未登録・要確認のため除外 ${rows.length-session.total}枚`;$('readingEmpty').hidden=!!session.total;paint();}};
 }
