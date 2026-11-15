@@ -39,7 +39,7 @@
 python -m http.server 8000 --bind 127.0.0.1 --directory docs
 ```
 
-ブラウザテストは `/tests/run-tests.html`。管理環境では `node tools/run-tests.mjs`、教材検証は `node tools/catalog.mjs validate --catalog docs/data/catalog.json`。Nodeで70項目、ブラウザでDOM検証を加えた87項目の回帰テストを含みます。iPhone/iPad実機・音声品質は未確認です。
+ブラウザテストは `/tests/run-tests.html`。管理環境では `node tools/run-tests.mjs`、教材検証は `node tools/catalog.mjs validate --catalog docs/data/catalog.json`。Nodeで72項目、ブラウザでDOM検証を加えた91項目の回帰テストを含みます。iPhone/iPad実機・音声品質は未確認です。
 
 Pagesはmainブランチの `/docs` を配信し、`.nojekyll` を配置しています。管理用ファイルは配信フォルダ外です。教材生成用プロンプトは [CARD_GENERATION_PROMPT.txt](CARD_GENERATION_PROMPT.txt) を利用してください。
 
@@ -61,8 +61,13 @@ Pagesはmainブランチの `/docs` を配信し、`.nojekyll` を配置して�
 
 分解は[Unicode 16 §3.12](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-3/)の現代ハングル算法に基づき、NFCで合成できる分解済み文字も扱います。単独字母・古いハングル・数字・句読点・空白などは推測せず原文のまま表示します。現代ハングルがない場合は対象外と案内します。カナ正解や意味はヒント・解説からは表示しません。
 
-構成図の追加テストはNode8件（全11172現代文字の初声・母音・パッチム有無のNFD照合を含む）、DOM6件。ローマ字読みの追加検証はNode4件・DOM3件。全体はNode70件・ブラウザ87件です。
+構成図の追加テストはNode8件（全11172現代文字の初声・母音・パッチム有無のNFD照合を含む）、DOM6件。ローマ字読みの追加検証はNode4件・DOM3件。入門表示の追加検証はNode2件・DOM2件。全体はNode72件・ブラウザ91件です。
 
 ### 字母のローマ字読み
 構成図の各字母に、音の目安を併記します。「子音・母音・パッチムの読み方一覧」で出題語の字母、子音19・母音21、7つの基本終声音、二重パッチム11字を確認できます。入力を保ち、次問や再設定で閉じます。
 [国立国語院のRR](https://www.korean.go.kr/front_eng/roman/roman_01.do)と[標準発音法第8〜14項](https://www.korean.go.kr/kornorms/regltn/regltnView.do?regltn_code=0002)を基準に、初声/母音/終声を別表で管理します。初声ㅇは無音、終声ㅇはng、ㄹは初声r/終声l。終声は語末の基本音で、ㅎや二重パッチムには文脈依存の注記を付けます。これは単語全体の自動ローマ字変換ではなく、連音・同化・単語別例外を計算しません。複合母音は全体の読みをキャプションに表示し、図の位置部品の読みと区別します。
+
+### 入門向けの解説と表
+参考動画：[アンニョン韓国語教室「ハングル完全攻略」](https://www.youtube.com/watch?v=8c76RtymHtA)。確認した5:24の字母の組合せ、23:02の「部屋」、51:08の追加母音の見せ方を参考に、独自の文章・図で構成→音の目安→組合せを案内します。動画画像・字幕の転載はありません。
+学習用の発音目安（ㄱ k/g・ㄷ t/d・ㅂ p/b・ㅈ ch/j）とRR（g/d/b/j）を別関数・別表示に分け、採点基準は変更しません。「2文字目以降は必ず濁る」「二重パッチムは字母順で読む」「ㅇの前では常に移動」といった万能規則は採用しません。初声ㅇ/終声ㅇ、ㄹのr/l、濃音ㅉのjjは維持します。
+子音は基本10/激音4/濃音5、母音は入門用の基本10/追加11に整理（音声学的分類とは別）。基本を先に見せ、追加字母・二重パッチム・RR比較・出典はnative details/summaryで開閉できます。音節ごとの表は部屋/字母/目安の3列です。終声7音に短い口の動きの説明を付け、連音の固定例「옷＋이→오시」は[国立国語院・標準発音法第13項の解説](https://korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&pageIndex=1&qna_seq=315088&searchCondition=&searchKeyword=)で確認しました。発音の自動変換は追加していません。
