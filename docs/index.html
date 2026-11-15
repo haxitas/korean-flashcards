@@ -12,9 +12,10 @@
 <p class="muted">読み未登録・要確認のカードは出題しません。練習結果は保存せず、「覚えた」などの学習状態も変更しません。</p>
 <p id="readingExcluded"></p><p id="readingEmpty">出題できるカードがありません。デッキや絞り込みを変更してください。</p>
 <p id="readingPosition"></p><p id="readingQuestion" class="reading-question" lang="ko"></p>
-<div class="reading-actions" id="readingGuideActions"><button id="readingHint" type="button" aria-expanded="false" aria-controls="readingHintPanel">ヒント（先頭1文字）</button><button id="readingExplain" type="button" aria-expanded="false" aria-controls="readingExplainPanel">解説（全ての文字）</button></div>
+<div class="reading-actions" id="readingGuideActions"><button id="readingHint" type="button" aria-expanded="false" aria-controls="readingHintPanel">ヒント（先頭1文字）</button><button id="readingExplain" type="button" aria-expanded="false" aria-controls="readingExplainPanel">解説（全ての文字）</button><button id="readingReference" type="button" aria-expanded="false" aria-controls="readingReferencePanel">子音・母音・パッチムの読み方一覧</button></div>
 <section id="readingHintPanel" class="hangul-guide" aria-label="先頭1文字のヒント" hidden></section>
 <section id="readingExplainPanel" class="hangul-guide" aria-label="ハングルの構成解説" hidden></section>
+<section id="readingReferencePanel" class="hangul-guide" aria-label="子音・母音・パッチムの読み方一覧" hidden></section>
 <form id="readingForm" autocomplete="off"><label for="readingAnswer">日本語の読み</label><input id="readingAnswer" type="text" lang="ja" inputmode="text" enterkeyhint="done" autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="500" aria-describedby="readingInputHelp"><p id="readingInputHelp" class="muted">長音・促音・小さい文字は区別します。変換を確定してから「答え合わせ」を押してください。</p><button id="readingSubmit" class="primary" type="submit">答え合わせ</button></form>
 <p id="readingFeedback" role="status" aria-live="polite"></p><div id="readingResult"></div>
 <div class="reading-actions"><button id="readingSpeak" type="button" hidden>▶ 韓国語の発音を聴く</button><button id="readingNext" type="button" hidden>次の問題 →</button><button id="readingRestart" type="button" hidden>もう一度練習</button></div>
