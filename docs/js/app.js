@@ -1,3 +1,4 @@
+import {readingMode,createReadingView} from './reading.js';
 import {STORAGE_KEY,loadLibrary} from './model.js';
 import {LOCAL_KEY,BACKUP_LIMIT,emptyLocal,loadLocal,saveLocal,mergeCatalog,validateCatalog,makeBackup,parseBackup,restoreBackup,restoreCounts,migrateLegacy,setStudy,selectCards,shuffle,useLatestCatalog} from './library.js';
 import {createSpeech} from './speech.js';
@@ -8,21 +9,24 @@ function message(text,error=false){$('message').textContent=text;$('message').cl
 function commit(next){if(blocked)throw new Error('保存データの確認が必要です');const raw=saveLocal(localStorage,next,baseline);local=next;baseline=raw;}
 let voice='';try{voice=localStorage.getItem('kohaku-korean-voice-v1')||'';}catch{}
 const speech=createSpeech($('voice'),$('speechStatus'),()=>local.settings.speech_rate,v=>{try{localStorage.setItem('kohaku-korean-voice-v1',v);}catch{message('音声の選択を保存できませんでした。',true);}},voice);
+const reading=createReadingView($('readingPanel'),text=>speech.speak(text),()=>performance.now(),()=>speech.cancel());
+$('studyMode').value=readingMode(location.search)?'reading':'cards';
 function paragraph(parent,text,lang){if(!text)return;const p=document.createElement('p');p.textContent=text;if(lang)p.lang=lang;parent.append(p);}
 function list(id,items){$(id).replaceChildren();for(const text of items){const li=document.createElement('li');li.textContent=text;$(id).append(li);}}
 function option(select,value,text){const o=document.createElement('option');o.value=value;o.textContent=text;select.append(o);}
 function refreshDecks(){const selected=$('deckSelect').value;$('deckSelect').replaceChildren();option($('deckSelect'),'','すべての単語');for(const d of local.library.decks)option($('deckSelect'),d.id,d.meta.title);if(local.library.decks.some(d=>d.id===selected))$('deckSelect').value=selected;renderDeckLibrary($('deckCards'),local.library,id=>chooseDeck(id,true),location.href);refreshRows();}
 function chooseDeck(id,focus=false){$('deckSelect').value=id;$('search').value='';$('filter').value='';history.replaceState(null,'',deckUrl(location.href,id));refreshRows();if(focus){$('studyHeading').focus();$('studyHeading').scrollIntoView({block:'start'});}}
-function readDeckRoute(){const route=resolveDeck(location.search,local.library.decks);$('deckSelect').value=route.id;refreshRows();if(route.missing)message('指定された単語帳が見つかりません。「すべての単語」を表示しています。単語帳一覧から選んでください。',true);}
-function refreshRows(){speech.cancel();rows=selectCards(local.library,{deckId:$('deckSelect').value,query:$('search').value,status:$('filter').value});if($('shuffle').checked)rows=shuffle(rows);index=0;back=false;$('aids').open=false;render();}
+function readDeckRoute(){$('studyMode').value=readingMode(location.search)?'reading':'cards';const route=resolveDeck(location.search,local.library.decks);$('deckSelect').value=route.id;refreshRows();if(route.missing)message('指定された単語帳が見つかりません。「すべての単語」を表示しています。単語帳一覧から選んでください。',true);}
+function refreshRows(){speech.cancel();rows=selectCards(local.library,{deckId:$('deckSelect').value,query:$('search').value,status:$('filter').value});if($('shuffle').checked)rows=shuffle(rows);index=0;back=false;$('aids').open=false;reading.setCards(rows);render();}
 function render(){
  const card=rows[index],c=card?.content,deckId=$('deckSelect').value;
- $('empty').hidden=!!c;$('studyContent').hidden=!c;$('count').textContent=`${rows.length}枚 / 全${local.library.cards.length}枚`;
+ const practicing=$('studyMode').value==='reading';
+ $('readingPanel').hidden=!practicing;$('empty').hidden=practicing||!!c;$('studyContent').hidden=practicing||!c;$('count').textContent=`${rows.length}枚 / 全${local.library.cards.length}枚`;
  const d=local.library.decks.find(d=>d.id===deckId);
  $('studyHeading').textContent=d?d.meta.title:'すべての単語';$('selectedSource').replaceChildren();
  if(d){paragraph($('selectedSource'),d.meta.source_title);const link=sourceLink(document,d.meta);if(link)$('selectedSource').append(link);}
- list('warnings',d?d.warnings:local.library.decks.flatMap(d=>d.warnings.map(w=>d.meta.title+'：'+w)));$('warningsBox').hidden=!$('warnings').childElementCount;
- $('cardSources').replaceChildren();if(!c)return;
+ list('warnings',d?d.warnings:local.library.decks.flatMap(d=>d.warnings.map(w=>d.meta.title+'：'+w)));$('warningsBox').hidden=practicing||!$('warnings').childElementCount;
+ $('cardSources').replaceChildren();if(practicing){for(const id of ['primary','secondary','aidText','notes','review','warnings'])$(id).replaceChildren();return;}if(!c)return;
  for(const origin of deckSources(local.library,card.id,deckId)){const item=document.createElement('div');paragraph(item,'このカードの由来：'+origin.meta.title);const link=sourceLink(document,origin.meta);if(link)item.append(link);$('cardSources').append(item);}
  $('source').textContent=d?.meta.source_title||'すべての単語：同じカードは1枚にまとめて表示';
  $('side').textContent=back?'MEANING · 裏':'KOREAN · 表';$('primary').textContent=back?c.meaning_ja:c.korean;$('primary').lang=back?'ja':'ko';
@@ -45,6 +49,7 @@ function render(){
  $('position').textContent=`${index+1} / ${rows.length}`;$('prev').disabled=index===0;$('next').disabled=index>=rows.length-1;
 }
 function settingsUI(){for(const [id,key]of [['kana','show_kana'],['romanization','show_romanization'],['ipa','show_ipa']])$(id).checked=local.settings[key];$('rate').value=local.settings.speech_rate;$('rateValue').textContent=local.settings.speech_rate;}
+$('studyMode').onchange=()=>{const url=new URL(location.href);if($('studyMode').value==='reading')url.searchParams.set('mode','reading');else url.searchParams.delete('mode');history.replaceState(null,'',url);refreshDecks();};
 $('deckSelect').onchange=()=>chooseDeck($('deckSelect').value);for(const id of ['filter','shuffle'])$(id).onchange=refreshRows;$('search').oninput=refreshRows;
 function move(delta){speech.cancel();index+=delta;back=false;$('aids').open=false;render();}
 $('prev').onclick=()=>move(-1);$('next').onclick=()=>move(1);$('card').onclick=()=>{back=!back;render();};$('speak').onclick=()=>{if(rows[index])speech.speak(rows[index].content.korean);};

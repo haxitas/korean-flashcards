@@ -39,6 +39,16 @@
 python -m http.server 8000 --bind 127.0.0.1 --directory docs
 ```
 
-ブラウザテストは `/tests/run-tests.html`。管理環境では `node tools/run-tests.mjs`、教材検証は `node tools/catalog.mjs validate --catalog docs/data/catalog.json`。Nodeで48項目、ブラウザでDOM検証を加えた50項目の回帰テストを含みます。iPhone/iPad実機・音声品質は未確認です。
+ブラウザテストは `/tests/run-tests.html`。管理環境では `node tools/run-tests.mjs`、教材検証は `node tools/catalog.mjs validate --catalog docs/data/catalog.json`。Nodeで58項目、ブラウザでDOM検証を加えた66項目の回帰テストを含みます。iPhone/iPad実機・音声品質は未確認です。
 
 Pagesはmainブランチの `/docs` を配信し、`.nojekyll` を配置しています。管理用ファイルは配信フォルダ外です。教材生成用プロンプトは [CARD_GENERATION_PROMPT.txt](CARD_GENERATION_PROMPT.txt) を利用してください。
+
+## 読み方練習
+
+学習モードを「読み方練習」にすると、選んだデッキ・検索・学習状態に合うカードからハングルを出題します。`?mode=reading` または `?deck=UUID&mode=reading` で直接開けます。
+
+日本語の読みを入力して答え合わせすると、正誤・登録カナ・日英訳・回答時間を表示し、韓国語音声を聴けます。ひらがな、カタカナ、半角カナはNFKCとひらがな→カタカナ変換で統一し、空白を除いて照合します。長音・促音・小書き・濁音・句読点は削除しません。別解の自動推測はありません。登録カナとの照合であり、実際の韓国語発音の良否の判定ではありません。
+
+読み欠損・空白だけの読み・needs_reviewのカードは除外して枚数を表示します。未確認の読みは補完しません。空回答は採点せず、IME変換中と確定直後のEnter送信を抑止します。デッキ・検索・絞込・シャッフル・モード変更は練習を最初からやり直します。結果・時間は保存せず、既存の学習状態やバックアップ形式も変更しません。回答時間は問題表示からの経過時間で、入力・離席時間も含む目安です。
+
+追加検証：読み方ロジック10件、ブラウザDOM6件。合計Node58件・ブラウザ66件。IMEイベントは自動テストでも検証しますが、iPhone/iPad実機キーボード・音声品質は別途確認が必要です。

@@ -1,0 +1,28 @@
+import {normalizeReading,readingEligible,readingMode,createReadingSession,createReadingView} from '../js/reading.js';
+const card=(reading='コンブ',review=false)=>({id:'fixture',content:{korean:'공부',reading_kana:reading,meaning_ja:'勉強',meaning_en:'study',needs_review:review},study:{status:'known'}});
+function runner(){const lines=[];let passed=0,failed=0;return {assert(v){if(!v)throw new Error('assertion failed');},test(name,fn){try{fn();passed++;lines.push('PASS '+name);}catch(e){failed++;lines.push('FAIL '+name+': '+e.message);}},finish(label){return [...lines,`${passed} ${label} passed / ${failed} failed`];}};}
+export function runReadingTests(){
+ const r=runner(),a=r.assert;
+ r.test('読み正規化：ひらがな・半角濁点・全角空白・改行',()=>{for(const value of ['こんぶ','ｺﾝﾌﾞ',' コン　ブ\n','こ\u3099'])a(normalizeReading(value)===(value==='こ\u3099'?'ゴ':'コンブ'));});
+ r.test('誤読を一致させない：長音・促音・小書き・濁音・音節',()=>{for(const [x,y]of [['コー','コ'],['カッタ','カタ'],['キャ','キヤ'],['ガ','カ'],['コンブ','コンプ'],['カーナ','カアナ'],['バ','ヴァ']])a(normalizeReading(x)!==normalizeReading(y));});
+ r.test('空白だけを空回答扱い・句読点は消さない',()=>{a(normalizeReading(' \n　')==='');a(normalizeReading('コンブ。')!=='コンブ');});
+ r.test('読み欠損・要確認を除外し未確認の補完なし',()=>{for(const c of [card(null),card(''),card('　'),card('コンブ',true)])a(!readingEligible(c));a(readingEligible(card()));});
+ r.test('正解・不正解・空回答・重複送信',()=>{const s=createReadingSession(()=>0);s.setCards([card()]);a(s.submit('　')===null&&!s.result);a(s.submit('こんぶ').correct);a(s.submit('違う')===null&&s.result.correct);s.restart();a(!s.submit('コンプ').correct);});
+ r.test('回答時間を計測し次の問題でリセット',()=>{let t=100;const s=createReadingSession(()=>t);s.setCards([card(),card()]);t=1350;a(s.submit('コンブ').seconds===1.25);a(s.next()&&!s.result&&s.index===1);t=1600;a(s.submit('コンブ').seconds===.25);a(!s.next());});
+ r.test('デッキ・モード・絞込による再設定で回答と位置を初期化',()=>{const s=createReadingSession(()=>0);s.setCards([card(),card()]);s.submit('コンブ');s.next();s.submit('コンブ');s.setCards([card('ペ')]);a(s.index===0&&!s.result&&s.total===1);a(s.submit('ぺ').correct);});
+ r.test('出題ゼロ・回答前のnext・最終問題・再練習',()=>{const s=createReadingSession(()=>0);s.setCards([]);a(!s.card&&!s.next()&&s.submit('カ')===null);s.setCards([card()]);a(!s.next());s.submit('コンブ');a(!s.next());s.restart();a(!s.result&&s.index===0);});
+ r.test('採点してもUUID・教材・既存knownを変更しない',()=>{const c=card(),before=JSON.stringify(c),s=createReadingSession(()=>0);s.setCards([c]);s.submit('コンブ');s.restart();a(JSON.stringify(c)===before);});
+ r.test('mode=readingだけを読み方モードとして解決',()=>{a(readingMode('?deck=x&mode=reading'));a(!readingMode('?mode=cards')&&!readingMode('?mode=invalid')&&!readingMode(''));});
+ return r.finish('reading');
+}
+export function runReadingDOMTests(template){
+ const r=runner(),a=r.assert;
+ function fixture(){const root=template.cloneNode(true);root.hidden=false;let t=0,spoken=0;const view=createReadingView(root,()=>spoken++,()=>t);view.setCards([card(),card()]);const get=id=>root.querySelector('#'+id);const submit=()=>get('readingForm').dispatchEvent(new Event('submit',{cancelable:true}));return {root,view,get,submit,time:v=>t=v,spoken:()=>spoken};}
+ r.test('回答前のDOMには正解・意味なし、音声なし',()=>{const f=fixture();a(!f.get('readingResult').textContent&&!f.get('readingFeedback').textContent);a(f.get('readingSpeak').hidden);f.get('readingSpeak').click();a(f.spoken()===0);});
+ r.test('フォーム空回答・正解表示・重複送信を防止',()=>{const f=fixture();f.submit();a(f.get('readingFeedback').textContent==='読みを入力してください。');f.get('readingAnswer').value='こんぶ';f.submit();a(f.get('readingResult').textContent.includes('勉強')&&f.get('readingResult').textContent.includes('study'));const text=f.get('readingFeedback').textContent;f.time(1000);f.submit();a(f.get('readingFeedback').textContent===text&&f.get('readingSubmit').disabled);f.get('readingSpeak').click();a(f.spoken()===1);});
+ r.test('IME変換中Enterとsubmit、変換確定直後のsubmitを拒否',()=>{const f=fixture(),input=f.get('readingAnswer');input.value='こんぶ';input.dispatchEvent(new Event('compositionstart'));const key=new KeyboardEvent('keydown',{key:'Enter',isComposing:true,cancelable:true});input.dispatchEvent(key);a(key.defaultPrevented);f.submit();a(!f.get('readingResult').textContent);input.dispatchEvent(new Event('compositionend'));input.dispatchEvent(new KeyboardEvent('keyup',{key:'Enter'}));f.submit();a(!f.get('readingResult').textContent);f.time(101);f.submit();a(f.get('readingResult').textContent.includes('コンブ'));});
+ r.test('Safari型keyCode229を拒否、通常Enterは妨げない',()=>{const f=fixture(),input=f.get('readingAnswer');const ime=new KeyboardEvent('keydown',{key:'Enter',keyCode:229,cancelable:true});input.dispatchEvent(ime);a(ime.defaultPrevented);input.dispatchEvent(new KeyboardEvent('keyup',{key:'Enter'}));const normal=new KeyboardEvent('keydown',{key:'Enter',cancelable:true});input.dispatchEvent(normal);a(!normal.defaultPrevented);});
+ r.test('次問・再設定で入力と結果を消し、音声も非表示',()=>{const f=fixture();f.get('readingAnswer').value='コンブ';f.submit();f.get('readingNext').click();a(!f.get('readingAnswer').value&&!f.get('readingResult').textContent&&f.get('readingSpeak').hidden);f.get('readingAnswer').value='コンブ';f.submit();f.view.setCards([card('ペ')]);a(!f.get('readingAnswer').disabled&&!f.get('readingResult').textContent&&f.get('readingPosition').textContent==='1 / 1');f.view.setCards([card(null)]);a(f.get('readingForm').hidden&&!f.get('readingEmpty').hidden);});
+ r.test('結果内のHTMLは文字列として表示',()=>{const f=fixture(),c=card();c.content.meaning_ja='<img src=x onerror=alert(1)>';f.view.setCards([c]);f.get('readingAnswer').value='コンブ';f.submit();a(!f.root.querySelector('img')&&f.get('readingResult').textContent.includes('<img'));});
+ return r.finish('reading DOM');
+}
