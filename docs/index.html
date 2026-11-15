@@ -4,10 +4,18 @@
 <p id="catalogStatus" class="muted" role="status">教材を読み込んでいます…</p><p id="message" role="status" aria-live="polite"></p>
 <details id="deckLibrary" open><summary>動画・教材から単語帳を選ぶ</summary><p class="muted">動画ごとのことばを予習してから、元の動画を見てみましょう。</p><div id="deckCards" class="deck-grid"></div></details>
 <details id="legacy" hidden><summary>以前のローカル教材について</summary><p id="legacyCount"></p><label class="inline"><input id="legacyAck" type="checkbox">旧データを保持して移行し、同じ語が重複する場合があることを確認しました</label><button id="migrate">Phase 0データをこの端末へ移行</button></details>
-<section aria-label="カード閲覧"><h2 id="studyHeading" tabindex="-1">すべての単語</h2><div id="selectedSource" class="source-panel"></div><div class="toolbar"><label>デッキ<select id="deckSelect"><option value="">すべての単語</option></select></label><span id="count">0枚</span></div>
+<section aria-label="カード閲覧"><label class="mode-select">学習モード<select id="studyMode"><option value="cards">フラッシュカード</option><option value="reading">読み方練習</option></select></label><h2 id="studyHeading" tabindex="-1">すべての単語</h2><div id="selectedSource" class="source-panel"></div><div class="toolbar"><label>デッキ<select id="deckSelect"><option value="">すべての単語</option></select></label><span id="count">0枚</span></div>
 <div class="filters"><label>ことばを検索<input type="search" id="search" placeholder="韓国語・日本語・英語"></label><label>学習状態<select id="filter"><option value="">すべて</option><option value="unseen">未学習</option><option value="review">要復習</option><option value="known">覚えた</option></select></label><label class="inline"><input id="shuffle" type="checkbox">シャッフル</label></div>
 <details id="warningsBox" hidden><summary>教材からのお知らせ</summary><ul id="warnings"></ul></details><p id="empty">表示するカードがありません。検索・絞り込み、教材の読み込み状態を確認してください。</p>
-<div id="studyContent" hidden><p id="source" class="muted"></p><div class="card-shell"><button id="card" class="card" aria-label="カードを裏返す"><span id="side" class="eyebrow"></span><span id="primary"></span><span id="secondary"></span><span id="flipHint"></span></button><button id="speak" class="audio">▶ 韓国語の発音を聴く</button></div>
+<section id="readingPanel" hidden aria-label="読み方練習">
+<p class="muted">登録されたカナ読みとの照合です。実際の韓国語発音を判定するものではありません。ひらがな・カタカナ・半角カナ・空白の違いは同じと扱います。</p>
+<p class="muted">読み未登録・要確認のカードは出題しません。練習結果は保存せず、「覚えた」などの学習状態も変更しません。</p>
+<p id="readingExcluded"></p><p id="readingEmpty">出題できるカードがありません。デッキや絞り込みを変更してください。</p>
+<p id="readingPosition"></p><p id="readingQuestion" class="reading-question" lang="ko"></p>
+<form id="readingForm" autocomplete="off"><label for="readingAnswer">日本語の読み</label><input id="readingAnswer" type="text" lang="ja" inputmode="text" enterkeyhint="done" autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="500" aria-describedby="readingInputHelp"><p id="readingInputHelp" class="muted">長音・促音・小さい文字は区別します。変換を確定してから「答え合わせ」を押してください。</p><button id="readingSubmit" class="primary" type="submit">答え合わせ</button></form>
+<p id="readingFeedback" role="status" aria-live="polite"></p><div id="readingResult"></div>
+<div class="reading-actions"><button id="readingSpeak" type="button" hidden>▶ 韓国語の発音を聴く</button><button id="readingNext" type="button" hidden>次の問題 →</button><button id="readingRestart" type="button" hidden>もう一度練習</button></div>
+</section><div id="studyContent" hidden><p id="source" class="muted"></p><div class="card-shell"><button id="card" class="card" aria-label="カードを裏返す"><span id="side" class="eyebrow"></span><span id="primary"></span><span id="secondary"></span><span id="flipHint"></span></button><button id="speak" class="audio">▶ 韓国語の発音を聴く</button></div>
 <p id="review" class="review"></p><details id="aids"><summary>読みの補助・発音メモ</summary><div id="aidText"></div></details><div id="notes" hidden></div>
 <div id="cardSources" class="source-panel" aria-label="このカードの由来"></div>
 <div class="study-actions" aria-label="このカードの学習状態"><button id="unseen" aria-pressed="false">未学習</button><button id="reviewState" aria-pressed="false">要復習</button><button id="known" aria-pressed="false">覚えた</button></div>
