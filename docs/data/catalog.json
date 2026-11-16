@@ -5734,6 +5734,1830 @@
         "romanization": null,
         "surface_form": "여러분"
       }
+    },
+    {
+      "id": "996e20bc-15b8-48d1-b563-7dc9ce06dcd1",
+      "content": {
+        "kind": "word",
+        "korean": "아이",
+        "reading_kana": "アイ",
+        "meaning_ja": "子供",
+        "meaning_en": "child",
+        "surface_form": "아이",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 06:02。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "84f21d58-7f60-46c2-9414-30aba3fd95c2",
+      "content": {
+        "kind": "word",
+        "korean": "오이",
+        "reading_kana": "オイ",
+        "meaning_ja": "きゅうり",
+        "meaning_en": "cucumber",
+        "surface_form": "오이",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 06:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "f43960d4-a0a5-4180-b96a-168a48fa8007",
+      "content": {
+        "kind": "word",
+        "korean": "여유",
+        "reading_kana": "ヨユ",
+        "meaning_ja": "余裕",
+        "meaning_en": "leeway; spare time",
+        "surface_form": "여유",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 06:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "8eebfc52-84b8-41f3-8eaf-71245aab1801",
+      "content": {
+        "kind": "word",
+        "korean": "가구",
+        "reading_kana": "カグ",
+        "meaning_ja": "家具",
+        "meaning_en": "furniture",
+        "surface_form": "가구",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "77e0c3cc-7da2-426c-992e-a56952b4f657",
+      "content": {
+        "kind": "word",
+        "korean": "고기",
+        "reading_kana": "コギ",
+        "meaning_ja": "肉",
+        "meaning_en": "meat",
+        "surface_form": "고기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "6086ed97-92fd-4fcc-823d-cd21d9ebd833",
+      "content": {
+        "kind": "word",
+        "korean": "불고기",
+        "reading_kana": "プルゴギ",
+        "meaning_ja": "プルコギ",
+        "meaning_en": "bulgogi; marinated grilled beef",
+        "surface_form": "불고기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:18。例語고기の横にある写真ラベルから採録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "dc8999f2-9eac-456c-9117-655819d3de82",
+      "content": {
+        "kind": "word",
+        "korean": "야구",
+        "reading_kana": "ヤグ",
+        "meaning_ja": "野球",
+        "meaning_en": "baseball",
+        "surface_form": "야구",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "e55b39e8-85e7-46e7-a2dd-e0e1a5ae86de",
+      "content": {
+        "kind": "word",
+        "korean": "누구",
+        "reading_kana": "ヌグ",
+        "meaning_ja": "だれ",
+        "meaning_en": "who",
+        "surface_form": "누구",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "04897fc3-57d9-4720-a561-74f3878a41f7",
+      "content": {
+        "kind": "phrase",
+        "korean": "나가요",
+        "reading_kana": "ナガヨ",
+        "meaning_ja": "出かけます",
+        "meaning_en": "go out (polite)",
+        "surface_form": "나가요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:48。動画の丁寧形を保持。辞書形は나가다。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "5befed8e-eb64-41e9-bb85-19ea97a091a7",
+      "content": {
+        "kind": "word",
+        "korean": "누나",
+        "reading_kana": "ヌナ",
+        "meaning_ja": "姉・お姉さん（男性から）",
+        "meaning_en": "older sister (said by a male)",
+        "surface_form": "누나",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:53。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "f601f476-34c4-4dd9-b99f-3c16c11b39c8",
+      "content": {
+        "kind": "word",
+        "korean": "구두",
+        "reading_kana": "クドゥ",
+        "meaning_ja": "靴（革靴など）",
+        "meaning_en": "shoes; dress shoes",
+        "surface_form": "구두",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 08:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "50869142-79d9-407d-a636-7f7c1996e73c",
+      "content": {
+        "kind": "word",
+        "korean": "우리",
+        "reading_kana": "ウリ",
+        "meaning_ja": "私たち・我々",
+        "meaning_en": "we; us; our",
+        "surface_form": "우리",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 08:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "3e7b1502-6632-4328-b4a3-02ecc00ef73c",
+      "content": {
+        "kind": "word",
+        "korean": "나라",
+        "reading_kana": "ナラ",
+        "meaning_ja": "国",
+        "meaning_en": "country",
+        "surface_form": "나라",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 08:43。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "be28f51f-0230-494d-a6b3-b07992889059",
+      "content": {
+        "kind": "phrase",
+        "korean": "우리 나라",
+        "reading_kana": "ウリナラ",
+        "meaning_ja": "私たちの国",
+        "meaning_en": "our country",
+        "surface_form": "우리 나라",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 08:53。動画の分かち書きを保持。通常の見出し表記は우리나라。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "09275ef4-071c-498d-8afe-43550e12fc68",
+      "content": {
+        "kind": "word",
+        "korean": "도로",
+        "reading_kana": "トロ",
+        "meaning_ja": "道路",
+        "meaning_en": "road",
+        "surface_form": "도로",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 09:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "c04c1215-2ed3-40d0-a87b-a473af0833f8",
+      "content": {
+        "kind": "word",
+        "korean": "운동",
+        "reading_kana": "ウンドン",
+        "meaning_ja": "運動",
+        "meaning_en": "exercise",
+        "surface_form": "운동",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 09:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "75fd20fe-02a2-4b8b-bad2-d317949079e1",
+      "content": {
+        "kind": "word",
+        "korean": "계산",
+        "reading_kana": "ケサン",
+        "meaning_ja": "計算",
+        "meaning_en": "calculation",
+        "surface_form": "계산",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ここでは日常的なケサンに近い読みを採用。계にはケ／キェに近い読みがある。",
+        "note_ja": "動画画面確認 09:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "faa7102b-660f-469b-88dd-8073cbd41550",
+      "content": {
+        "kind": "word",
+        "korean": "나무",
+        "reading_kana": "ナム",
+        "meaning_ja": "木",
+        "meaning_en": "tree",
+        "surface_form": "나무",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 09:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "62b119bd-29db-4626-bf69-760549c604e7",
+      "content": {
+        "kind": "word",
+        "korean": "어머니",
+        "reading_kana": "オモニ",
+        "meaning_ja": "お母さん",
+        "meaning_en": "mother",
+        "surface_form": "어머니",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 09:43。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "e5927dcf-7b6b-4bb2-9501-2ccd356a2d6b",
+      "content": {
+        "kind": "word",
+        "korean": "고구마",
+        "reading_kana": "コグマ",
+        "meaning_ja": "さつまいも",
+        "meaning_en": "sweet potato",
+        "surface_form": "고구마",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 09:53。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "e3db4eec-6343-41e1-894e-da429b74ede8",
+      "content": {
+        "kind": "word",
+        "korean": "두부",
+        "reading_kana": "トゥブ",
+        "meaning_ja": "豆腐",
+        "meaning_en": "tofu",
+        "surface_form": "두부",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "71ef99ea-b23e-4c34-8bea-542437525dea",
+      "content": {
+        "kind": "word",
+        "korean": "나비",
+        "reading_kana": "ナビ",
+        "meaning_ja": "蝶",
+        "meaning_en": "butterfly",
+        "surface_form": "나비",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "33637cf3-607e-4d32-81c9-f2052c8938e8",
+      "content": {
+        "kind": "word",
+        "korean": "소",
+        "reading_kana": "ソ",
+        "meaning_ja": "牛",
+        "meaning_en": "cow; cattle",
+        "surface_form": "소",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "1c7731a5-d59e-4b2d-b91a-322c4c45c1eb",
+      "content": {
+        "kind": "word",
+        "korean": "스시",
+        "reading_kana": "スシ",
+        "meaning_ja": "寿司",
+        "meaning_en": "sushi",
+        "surface_form": "스시",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "81a7a010-97e3-4036-82b5-cc89fb20a9c4",
+      "content": {
+        "kind": "word",
+        "korean": "가수",
+        "reading_kana": "カス",
+        "meaning_ja": "歌手",
+        "meaning_en": "singer",
+        "surface_form": "가수",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "1a6ff524-aaa5-4c17-bbae-fd0881db2ad4",
+      "content": {
+        "kind": "word",
+        "korean": "여자",
+        "reading_kana": "ヨジャ",
+        "meaning_ja": "女性",
+        "meaning_en": "woman",
+        "surface_form": "여자",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:43。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "9433d850-7cef-429b-9be3-3cf955c3c5f6",
+      "content": {
+        "kind": "word",
+        "korean": "아버지",
+        "reading_kana": "アボジ",
+        "meaning_ja": "お父さん",
+        "meaning_en": "father",
+        "surface_form": "아버지",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "f28d56df-c94c-4d29-b553-a9d68cecfafb",
+      "content": {
+        "kind": "word",
+        "korean": "저고리",
+        "reading_kana": "チョゴリ",
+        "meaning_ja": "チョゴリ（韓服の上着）",
+        "meaning_en": "jeogori; upper garment of hanbok",
+        "surface_form": "저고리",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "3be95a0b-3bc3-47de-a95e-ada6a8d2ddfe",
+      "content": {
+        "kind": "word",
+        "korean": "허리",
+        "reading_kana": "ホリ",
+        "meaning_ja": "腰",
+        "meaning_en": "waist; lower back",
+        "surface_form": "허리",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 11:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "633c8e69-79f9-4e38-8b64-3419a1e91e91",
+      "content": {
+        "kind": "word",
+        "korean": "휴지",
+        "reading_kana": "ヒュジ",
+        "meaning_ja": "トイレットペーパー",
+        "meaning_en": "toilet paper",
+        "surface_form": "휴지",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 11:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "01b0e549-bf7b-4580-8a84-d7dfac3de427",
+      "content": {
+        "kind": "word",
+        "korean": "오후",
+        "reading_kana": "オフ",
+        "meaning_ja": "午後",
+        "meaning_en": "afternoon",
+        "surface_form": "오후",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 11:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "61118e1e-486f-43e0-97ae-04c5dcf67821",
+      "content": {
+        "kind": "word",
+        "korean": "고추",
+        "reading_kana": "コチュ",
+        "meaning_ja": "唐辛子",
+        "meaning_en": "chili pepper",
+        "surface_form": "고추",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "7f7d0333-4a5b-4672-9046-f4344857e183",
+      "content": {
+        "kind": "word",
+        "korean": "기차",
+        "reading_kana": "キチャ",
+        "meaning_ja": "汽車・列車",
+        "meaning_en": "train",
+        "surface_form": "기차",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "9e8fbc2b-3f5e-416e-acde-a4f5d6d70ac6",
+      "content": {
+        "kind": "word",
+        "korean": "치마",
+        "reading_kana": "チマ",
+        "meaning_ja": "スカート",
+        "meaning_en": "skirt",
+        "surface_form": "치마",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "82d2d47e-2508-4665-b5a2-7a97ce4e1516",
+      "content": {
+        "kind": "word",
+        "korean": "쿠키",
+        "reading_kana": "クキ",
+        "meaning_ja": "クッキー",
+        "meaning_en": "cookie",
+        "surface_form": "쿠키",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "bc054ea6-eec1-49a9-a848-df52f69f643f",
+      "content": {
+        "kind": "word",
+        "korean": "카지노",
+        "reading_kana": "カジノ",
+        "meaning_ja": "カジノ",
+        "meaning_en": "casino",
+        "surface_form": "카지노",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "127f5a6c-bc2c-4048-bd5c-8def20d0c447",
+      "content": {
+        "kind": "word",
+        "korean": "오쿠보",
+        "reading_kana": "オクボ",
+        "meaning_ja": "大久保（地名）",
+        "meaning_en": "Okubo (place name)",
+        "surface_form": "오쿠보",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "35a67bb8-5a25-443e-ab63-b18de8b96172",
+      "content": {
+        "kind": "word",
+        "korean": "도토리",
+        "reading_kana": "トトリ",
+        "meaning_ja": "どんぐり",
+        "meaning_en": "acorn",
+        "surface_form": "도토리",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:53。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "42410b64-b390-4933-99e7-d010fe012ebf",
+      "content": {
+        "kind": "word",
+        "korean": "토스트",
+        "reading_kana": "トストゥ",
+        "meaning_ja": "トースト",
+        "meaning_en": "toast",
+        "surface_form": "토스트",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "bc893b71-a233-4d0a-9b9f-749afd42c04f",
+      "content": {
+        "kind": "word",
+        "korean": "투수",
+        "reading_kana": "トゥス",
+        "meaning_ja": "投手",
+        "meaning_en": "pitcher",
+        "surface_form": "투수",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 14:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "9b599ac3-ec26-4fb5-ac56-fe784aad2746",
+      "content": {
+        "kind": "word",
+        "korean": "피자",
+        "reading_kana": "ピジャ",
+        "meaning_ja": "ピザ",
+        "meaning_en": "pizza",
+        "surface_form": "피자",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 14:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "81f6e79d-86b3-414b-bb4b-8c61d8444fd9",
+      "content": {
+        "kind": "word",
+        "korean": "커피",
+        "reading_kana": "コピ",
+        "meaning_ja": "コーヒー",
+        "meaning_en": "coffee",
+        "surface_form": "커피",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 14:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "b5e9151c-b712-4773-9fef-f939a4b3a6f5",
+      "content": {
+        "kind": "word",
+        "korean": "아파트",
+        "reading_kana": "アパトゥ",
+        "meaning_ja": "マンション・集合住宅",
+        "meaning_en": "apartment building",
+        "surface_form": "아파트",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 14:38。動画の日本語表示は「アパート」。韓国語では主にマンション型の集合住宅を指す。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "ff39a135-0c35-4700-a9e9-5e54af5dbf07",
+      "content": {
+        "kind": "word",
+        "korean": "꼬리",
+        "reading_kana": "ッコリ",
+        "meaning_ja": "尻尾",
+        "meaning_en": "tail",
+        "surface_form": "꼬리",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 17:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "25de854e-4471-40da-a1a6-3f3dddaa8c3a",
+      "content": {
+        "kind": "word",
+        "korean": "끄다",
+        "reading_kana": "ックダ",
+        "meaning_ja": "消す（火・電気など）",
+        "meaning_en": "to turn off; to extinguish",
+        "surface_form": "끄다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 17:53。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "474cfeb7-b0a3-4b42-9c97-1c0e3adcdc22",
+      "content": {
+        "kind": "word",
+        "korean": "아까",
+        "reading_kana": "アッカ",
+        "meaning_ja": "さっき",
+        "meaning_en": "a little while ago",
+        "surface_form": "아까",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "fd067d8f-783d-4eb3-a64c-b0483160f3db",
+      "content": {
+        "kind": "word",
+        "korean": "또",
+        "reading_kana": "ット",
+        "meaning_ja": "また",
+        "meaning_en": "again",
+        "surface_form": "또",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d20125cb-56b9-427f-8c19-56054f548c79",
+      "content": {
+        "kind": "word",
+        "korean": "소띠",
+        "reading_kana": "ソッティ",
+        "meaning_ja": "丑年生まれ",
+        "meaning_en": "born in the Year of the Ox",
+        "surface_form": "소띠",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d3e87433-cab7-4ff9-bf6f-c11ab54df304",
+      "content": {
+        "kind": "word",
+        "korean": "따르다",
+        "reading_kana": "ッタルダ",
+        "meaning_ja": "従う",
+        "meaning_en": "to follow; to obey",
+        "surface_form": "따르다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:48。動画では「従う、懐く」を併記。語義を分けて登録。「注ぐ」の따르다とは別語義。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "51e36d3c-90f5-469e-a797-66fab9751a36",
+      "content": {
+        "kind": "word",
+        "korean": "따르다",
+        "reading_kana": "ッタルダ",
+        "meaning_ja": "懐く",
+        "meaning_en": "to be attached to someone",
+        "surface_form": "따르다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:48。動画では「従う、懐く」を併記。語義を分けて登録。「注ぐ」の따르다とは別語義。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "c62377e2-3dbe-47b0-bda9-52fd029bfa86",
+      "content": {
+        "kind": "word",
+        "korean": "오빠",
+        "reading_kana": "オッパ",
+        "meaning_ja": "兄・お兄さん（女性から）",
+        "meaning_en": "older brother (said by a female)",
+        "surface_form": "오빠",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:53。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "c33c6cfc-1f39-4276-ae76-1ea5d5e6c3a5",
+      "content": {
+        "kind": "phrase",
+        "korean": "바빠요",
+        "reading_kana": "パッパヨ",
+        "meaning_ja": "忙しいです",
+        "meaning_en": "be busy (polite)",
+        "surface_form": "바빠요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:03。動画の丁寧形を保持。辞書形は바쁘다。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "97fc6a32-2c66-4704-97b4-18e7b5e5b445",
+      "content": {
+        "kind": "word",
+        "korean": "쓰다",
+        "reading_kana": "ッスダ",
+        "meaning_ja": "使う",
+        "meaning_en": "to use",
+        "surface_form": "쓰다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:08。動画では「使う、書く、かぶる」を併記。語義を分けて登録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "06cf2115-e2cf-4a2a-9e1f-f75544504fe8",
+      "content": {
+        "kind": "word",
+        "korean": "쓰다",
+        "reading_kana": "ッスダ",
+        "meaning_ja": "書く",
+        "meaning_en": "to write",
+        "surface_form": "쓰다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:08。動画では「使う、書く、かぶる」を併記。語義を分けて登録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d0a908ae-4932-4a65-af84-27fe33f2b098",
+      "content": {
+        "kind": "word",
+        "korean": "쓰다",
+        "reading_kana": "ッスダ",
+        "meaning_ja": "かぶる（帽子など）",
+        "meaning_en": "to wear (a hat)",
+        "surface_form": "쓰다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:08。動画では「使う、書く、かぶる」を併記。語義を分けて登録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "ab5d6fca-c285-4952-b35a-8ee64abf0b51",
+      "content": {
+        "kind": "phrase",
+        "korean": "비싸요",
+        "reading_kana": "ピッサヨ",
+        "meaning_ja": "値段が高いです",
+        "meaning_en": "be expensive (polite)",
+        "surface_form": "비싸요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:13。動画の丁寧形を保持。辞書形は비싸다。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "96919469-63b8-40a3-bca5-2472dda22c61",
+      "content": {
+        "kind": "word",
+        "korean": "짜다",
+        "reading_kana": "ッチャダ",
+        "meaning_ja": "塩辛い",
+        "meaning_en": "to be salty",
+        "surface_form": "짜다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "a0b64108-64f3-47e1-920d-e5ad9089e55d",
+      "content": {
+        "kind": "word",
+        "korean": "쭈그리다",
+        "reading_kana": "ッチュグリダ",
+        "meaning_ja": "しゃがむ",
+        "meaning_en": "to crouch; to squat",
+        "surface_form": "쭈그리다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "1f5b35be-d00d-4bf4-a12f-acd9476920f6",
+      "content": {
+        "kind": "word",
+        "korean": "받침",
+        "reading_kana": "パッチム",
+        "meaning_ja": "敷物・台（下で支えるもの）",
+        "meaning_en": "support; rest placed underneath",
+        "surface_form": "받침",
+        "pronunciation_hangul": "받침",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄷの後のㅊに合わせて発音する。カナは目安。",
+        "note_ja": "動画画面確認 22:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d8c54261-a745-4531-9a13-da4f22726128",
+      "content": {
+        "kind": "word",
+        "korean": "냄비",
+        "reading_kana": "ネンビ",
+        "meaning_ja": "鍋",
+        "meaning_en": "pot; saucepan",
+        "surface_form": "냄비",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 22:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "3300e4cb-dbad-41cb-acca-c5d0e407317d",
+      "content": {
+        "kind": "word",
+        "korean": "냄비받침",
+        "reading_kana": "ネンビバッチム",
+        "meaning_ja": "鍋敷き",
+        "meaning_en": "trivet; pot stand",
+        "surface_form": "냄비받침",
+        "pronunciation_hangul": "냄비받침",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "終わりのㅁは唇を閉じる。",
+        "note_ja": "動画画面確認 22:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "5ae38aa5-a1e0-4155-9d47-7a534cbee223",
+      "content": {
+        "kind": "word",
+        "korean": "책",
+        "reading_kana": "チェク",
+        "meaning_ja": "本",
+        "meaning_en": "book",
+        "surface_form": "책",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 22:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "ef404080-113c-49f6-9a0c-83194cda132d",
+      "content": {
+        "kind": "word",
+        "korean": "책받침",
+        "reading_kana": "チェクパッチム",
+        "meaning_ja": "下敷き（筆記用）",
+        "meaning_en": "writing board placed under paper",
+        "surface_form": "책받침",
+        "pronunciation_hangul": "책빧침",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄱの後のㅂは濃音。国立国語院の韓国語基礎辞典の発音を参照。",
+        "note_ja": "動画画面確認 22:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d3c5713d-5f93-42b7-b36e-bc56a4ecd32f",
+      "content": {
+        "kind": "word",
+        "korean": "입",
+        "reading_kana": "イプ",
+        "meaning_ja": "口",
+        "meaning_en": "mouth",
+        "surface_form": "입",
+        "pronunciation_hangul": "입",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "最後のㅂは唇を閉じて止め、「プ」の母音を足さない。",
+        "note_ja": "動画画面確認 32:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "cff88053-5390-4b5e-90a1-9fef8e1f920a",
+      "content": {
+        "kind": "word",
+        "korean": "잎",
+        "reading_kana": "イプ",
+        "meaning_ja": "葉",
+        "meaning_en": "leaf",
+        "surface_form": "잎",
+        "pronunciation_hangul": "입",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "語末のㅍはㅂと同じく唇を閉じて止める。",
+        "note_ja": "動画画面確認 32:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "16c8c890-ac13-49ac-9a26-f2ddd7285f37",
+      "content": {
+        "kind": "word",
+        "korean": "일",
+        "reading_kana": "イル",
+        "meaning_ja": "日（漢字の「日」）",
+        "meaning_en": "day (Sino-Korean)",
+        "surface_form": "일",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 32:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d2cfe4a4-9c70-4e8f-95c9-ab92b80c157e",
+      "content": {
+        "kind": "word",
+        "korean": "술",
+        "reading_kana": "スル",
+        "meaning_ja": "酒",
+        "meaning_en": "alcoholic drink",
+        "surface_form": "술",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 32:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "6912e5d1-517a-4e4d-86ce-cd6ff5d0eabb",
+      "content": {
+        "kind": "word",
+        "korean": "국",
+        "reading_kana": "クク",
+        "meaning_ja": "国（漢字語の構成要素）",
+        "meaning_en": "country; nation (Sino-Korean element)",
+        "surface_form": "국",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 34:38。動画では「国」。スープの국とは別語義。主に한국などの漢字語を構成する。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "62ba8a2f-ec20-4bcc-bc6b-cb4b0becdbad",
+      "content": {
+        "kind": "word",
+        "korean": "학",
+        "reading_kana": "ハク",
+        "meaning_ja": "学（漢字語の構成要素）",
+        "meaning_en": "learning; study (Sino-Korean element)",
+        "surface_form": "학",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 34:43。動画では「学／鶴」を併記。語義を分けて登録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "08504a2e-ce62-4135-b577-1f2e47769d74",
+      "content": {
+        "kind": "word",
+        "korean": "학",
+        "reading_kana": "ハク",
+        "meaning_ja": "鶴",
+        "meaning_en": "crane (bird)",
+        "surface_form": "학",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 34:43。動画では「学／鶴」を併記。語義を分けて登録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "909d47cc-3dd9-482a-a1a2-a92ef3428e64",
+      "content": {
+        "kind": "word",
+        "korean": "눈",
+        "reading_kana": "ヌン",
+        "meaning_ja": "目",
+        "meaning_en": "eye",
+        "surface_form": "눈",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 34:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "46fa6e4d-7989-4d4f-8ba7-4c9963ab266e",
+      "content": {
+        "kind": "word",
+        "korean": "인사",
+        "reading_kana": "インサ",
+        "meaning_ja": "挨拶",
+        "meaning_en": "greeting",
+        "surface_form": "인사",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 35:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "e6b5bfdb-d6ed-4166-b514-772d7ef6356f",
+      "content": {
+        "kind": "word",
+        "korean": "봄",
+        "reading_kana": "ポム",
+        "meaning_ja": "春",
+        "meaning_en": "spring",
+        "surface_form": "봄",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 35:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "abb7de68-c9d0-4f7e-b75c-a5d60979301d",
+      "content": {
+        "kind": "word",
+        "korean": "김치",
+        "reading_kana": "キムチ",
+        "meaning_ja": "キムチ",
+        "meaning_en": "kimchi",
+        "surface_form": "김치",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 35:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "586ca296-813e-417a-ac7f-60c279317f62",
+      "content": {
+        "kind": "word",
+        "korean": "식당",
+        "reading_kana": "シクタン",
+        "meaning_ja": "食堂",
+        "meaning_en": "restaurant; dining hall",
+        "surface_form": "식당",
+        "pronunciation_hangul": "식땅",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄱの後のㄷが濃音になる。カナの「ク」は母音を足さず止める。",
+        "note_ja": "動画画面確認 35:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "000f1b83-d20d-4e2a-a3c0-5d46b0c4e4c1",
+      "content": {
+        "kind": "word",
+        "korean": "형",
+        "reading_kana": "ヒョン",
+        "meaning_ja": "兄・お兄さん（男性から）",
+        "meaning_en": "older brother (said by a male)",
+        "surface_form": "형",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 35:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "c0be56ad-5335-441e-8b7c-e0942f221441",
+      "content": {
+        "kind": "word",
+        "korean": "밥",
+        "reading_kana": "パプ",
+        "meaning_ja": "ご飯",
+        "meaning_en": "cooked rice; meal",
+        "surface_form": "밥",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 36:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "20b53360-a837-46a7-8a37-0b26fb68f655",
+      "content": {
+        "kind": "word",
+        "korean": "접시",
+        "reading_kana": "チョプシ",
+        "meaning_ja": "皿",
+        "meaning_en": "plate",
+        "surface_form": "접시",
+        "pronunciation_hangul": "접씨",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅂの後のㅅが濃音になる。カナの「プ」は母音を足さず止める。",
+        "note_ja": "動画画面確認 36:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "5e73e2c4-4cc8-406b-bd6b-e4579f8afdee",
+      "content": {
+        "kind": "word",
+        "korean": "서울",
+        "reading_kana": "ソウル",
+        "meaning_ja": "ソウル",
+        "meaning_en": "Seoul",
+        "surface_form": "서울",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 36:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "4093464a-d55b-49f4-82ae-46805e42f81b",
+      "content": {
+        "kind": "word",
+        "korean": "일본",
+        "reading_kana": "イルボン",
+        "meaning_ja": "日本",
+        "meaning_en": "Japan",
+        "surface_form": "일본",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 36:43。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "343b2d71-a3ba-4fe9-95fd-ad4872165b89",
+      "content": {
+        "kind": "word",
+        "korean": "옷",
+        "reading_kana": "オッ",
+        "meaning_ja": "服",
+        "meaning_en": "clothes",
+        "surface_form": "옷",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 36:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "69e2a6b0-0611-480b-98a2-f0a09d3b4560",
+      "content": {
+        "kind": "word",
+        "korean": "한국어",
+        "reading_kana": "ハングゴ",
+        "meaning_ja": "韓国語",
+        "meaning_en": "Korean language",
+        "surface_form": "한국어",
+        "pronunciation_hangul": "한구거",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "국のㄱが次の어につながる。",
+        "note_ja": "動画画面確認 38:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "d962ee34-2764-4066-bbfa-b7b1cc9b715a",
+      "content": {
+        "kind": "word",
+        "korean": "떡볶이",
+        "reading_kana": "ットッポッキ",
+        "meaning_ja": "トッポギ",
+        "meaning_en": "tteokbokki; spicy rice cakes",
+        "surface_form": "떡볶이",
+        "pronunciation_hangul": "떡뽀끼",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄱの後のㅂは濃音、볶のㄲは次の이につながる。",
+        "note_ja": "動画画面確認 39:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "31ed29ca-2262-44c0-b5b0-d5767d3db9d0",
+      "content": {
+        "kind": "phrase",
+        "korean": "맛있어요",
+        "reading_kana": "マシッソヨ",
+        "meaning_ja": "おいしいです",
+        "meaning_en": "be delicious (polite)",
+        "surface_form": "맛있어요",
+        "pronunciation_hangul": "마시써요",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "この練習では動画で示されたマシッソヨの読みを採用。",
+        "note_ja": "動画画面確認 42:18。動画の丁寧形を保持。辞書形は맛있다。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "39c87bc3-83ec-46ca-93f5-173718d582de",
+      "content": {
+        "kind": "phrase",
+        "korean": "읽어요",
+        "reading_kana": "イルゴヨ",
+        "meaning_ja": "読みます",
+        "meaning_en": "read (polite)",
+        "surface_form": "읽어요",
+        "pronunciation_hangul": "일거요",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄺのㄹを残し、ㄱを次の어につなげる。",
+        "note_ja": "動画画面確認 43:18。動画の丁寧形を保持。辞書形읽다とは別の出題。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "af4201c2-e7ac-4c63-930c-9ed4f9c3ca54",
+      "content": {
+        "kind": "phrase",
+        "korean": "앉아요",
+        "reading_kana": "アンジャヨ",
+        "meaning_ja": "座ります",
+        "meaning_en": "sit (polite)",
+        "surface_form": "앉아요",
+        "pronunciation_hangul": "안자요",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄵのㄴを残し、ㅈを次の아につなげる。",
+        "note_ja": "動画画面確認 43:28。動画の丁寧形を保持。辞書形앉다とは別の出題。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "689c5f3e-8c4b-4a01-ab9d-748a115509f7",
+      "content": {
+        "kind": "word",
+        "korean": "읽다",
+        "reading_kana": "イクッタ",
+        "meaning_ja": "読む",
+        "meaning_en": "to read",
+        "surface_form": "읽다",
+        "pronunciation_hangul": "익따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "읽다ではㄺをㄱとして読み、後ろのㄷは濃音になる。",
+        "note_ja": "動画画面確認 43:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "af60debd-2b48-4973-a82e-e49020425bb1",
+      "content": {
+        "kind": "word",
+        "korean": "앉다",
+        "reading_kana": "アンッタ",
+        "meaning_ja": "座る",
+        "meaning_en": "to sit",
+        "surface_form": "앉다",
+        "pronunciation_hangul": "안따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄵは子音の前でㄴが残り、後ろのㄷは濃音になる。",
+        "note_ja": "動画画面確認 45:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "f5b496f2-e8e7-4603-8f28-ac3e23ccddd9",
+      "content": {
+        "kind": "word",
+        "korean": "애기",
+        "reading_kana": "エギ",
+        "meaning_ja": "赤ちゃん（非標準の口語表記）",
+        "meaning_en": "baby (nonstandard colloquial form)",
+        "surface_form": "애기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 53:38。動画の表記を保持。標準語の아기に対する非標準の口語表記で、標準的な作文では아기を使う。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "e9ce594b-078e-47de-a088-5949e2cacd93",
+      "content": {
+        "kind": "word",
+        "korean": "얘기",
+        "reading_kana": "イェギ",
+        "meaning_ja": "話",
+        "meaning_en": "story; talk",
+        "surface_form": "얘기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 53:48。이야기（話）の縮約形。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "103d0334-f7bd-41d1-944d-d8536801c167",
+      "content": {
+        "kind": "phrase",
+        "korean": "주세요",
+        "reading_kana": "チュセヨ",
+        "meaning_ja": "ください",
+        "meaning_en": "please give me",
+        "surface_form": "주세요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 53:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "1fb4cdf9-e45d-436e-a3b3-1b8c79d63eaf",
+      "content": {
+        "kind": "word",
+        "korean": "회사",
+        "reading_kana": "フェサ",
+        "meaning_ja": "会社",
+        "meaning_en": "company",
+        "surface_form": "회사",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 54:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "c44beb04-76c5-427a-b96b-768b1aae62c0",
+      "content": {
+        "kind": "word",
+        "korean": "의사",
+        "reading_kana": "ウィサ",
+        "meaning_ja": "医者",
+        "meaning_en": "doctor",
+        "surface_form": "의사",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "語頭の의は으から이へ滑らせる二重母音。カナのウィは近似。",
+        "note_ja": "動画画面確認 54:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "3566f226-595a-49ca-8db2-effbe55817e5",
+      "content": {
+        "kind": "word",
+        "korean": "김치찌개",
+        "reading_kana": "キムチッチゲ",
+        "meaning_ja": "キムチチゲ",
+        "meaning_en": "kimchi stew",
+        "surface_form": "김치찌개",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 55:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "5384236c-8642-4276-b97f-4be48a6ab7ea",
+      "content": {
+        "kind": "word",
+        "korean": "삼겹살",
+        "reading_kana": "サムギョプサル",
+        "meaning_ja": "サムギョプサル・豚の三枚肉",
+        "meaning_en": "pork belly; grilled pork belly",
+        "surface_form": "삼겹살",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 55:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "56e02c48-7aa4-4e0e-9b0e-809f5f8cd96e",
+      "content": {
+        "kind": "word",
+        "korean": "닭한마리",
+        "reading_kana": "タカンマリ",
+        "meaning_ja": "タッカンマリ（丸鶏の鍋料理）",
+        "meaning_en": "dak han mari; whole-chicken hot pot",
+        "surface_form": "닭한마리",
+        "pronunciation_hangul": "다칸마리",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "닭のㄱと한のㅎが合わさりㅋになる。",
+        "note_ja": "動画画面確認 55:40。動画の料理名表記を保持。単なる「鶏一羽」ではなく鍋料理の名前。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
     }
   ],
   "decks": [
@@ -5815,6 +7639,20 @@
         "字幕表記「여행가요」は「여행 가요（旅行に行きます）」として扱い、見出しは여행にしました。2:43の感嘆詞아싸（やった！）はカード化していません。",
         "分割字幕をつないだり、助詞や表記を整えたりした短い例文はすべてorigin=generatedです。逐語引用sourceとしては扱いません。",
         "主要語と日常表現を抽出しました。全単語を網羅したものではありません。"
+      ]
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "meta": {
+        "title": "ハングル完全攻略：動画の単語と読み方",
+        "source_title": "【300万再生】ハングル完全攻略【永久保存版】 — アンニョン韓国語教室",
+        "source_url": "https://www.youtube.com/watch?v=8c76RtymHtA",
+        "description_ja": "動画画面で確認した単語・表現を、フラッシュカードと読み方練習にまとめました。基本子音、激音・濃音、パッチム、連音化、合成母音の例を収録。各出典メモに確認時刻を記載。"
+      },
+      "warnings": [
+        "動画の表示ハングルと意味を確認して採録。音声そのものの照合は未実施。カナは発音の近似で、発音変化に必要な補足を加えています。",
+        "字母だけの練習、意味のない音節練習、宣伝は除外。動画を全フレーム確認した完全な語彙一覧ではありません。",
+        "애기は動画に出る非標準の口語表記を保持。쓰다・따르다・학は動画に示された語義ごとに分けています。"
       ]
     }
   ],
@@ -12715,6 +14553,2127 @@
         "review_note_ja": null,
         "romanization": null,
         "surface_form": "여러분"
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__996e20bc-15b8-48d1-b563-7dc9ce06dcd1",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "996e20bc-15b8-48d1-b563-7dc9ce06dcd1",
+      "source_card": {
+        "kind": "word",
+        "korean": "아이",
+        "reading_kana": "アイ",
+        "meaning_ja": "子供",
+        "meaning_en": "child",
+        "surface_form": "아이",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 06:02。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__84f21d58-7f60-46c2-9414-30aba3fd95c2",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "84f21d58-7f60-46c2-9414-30aba3fd95c2",
+      "source_card": {
+        "kind": "word",
+        "korean": "오이",
+        "reading_kana": "オイ",
+        "meaning_ja": "きゅうり",
+        "meaning_en": "cucumber",
+        "surface_form": "오이",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 06:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__f43960d4-a0a5-4180-b96a-168a48fa8007",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "f43960d4-a0a5-4180-b96a-168a48fa8007",
+      "source_card": {
+        "kind": "word",
+        "korean": "여유",
+        "reading_kana": "ヨユ",
+        "meaning_ja": "余裕",
+        "meaning_en": "leeway; spare time",
+        "surface_form": "여유",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 06:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__8eebfc52-84b8-41f3-8eaf-71245aab1801",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "8eebfc52-84b8-41f3-8eaf-71245aab1801",
+      "source_card": {
+        "kind": "word",
+        "korean": "가구",
+        "reading_kana": "カグ",
+        "meaning_ja": "家具",
+        "meaning_en": "furniture",
+        "surface_form": "가구",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__77e0c3cc-7da2-426c-992e-a56952b4f657",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "77e0c3cc-7da2-426c-992e-a56952b4f657",
+      "source_card": {
+        "kind": "word",
+        "korean": "고기",
+        "reading_kana": "コギ",
+        "meaning_ja": "肉",
+        "meaning_en": "meat",
+        "surface_form": "고기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__6086ed97-92fd-4fcc-823d-cd21d9ebd833",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "6086ed97-92fd-4fcc-823d-cd21d9ebd833",
+      "source_card": {
+        "kind": "word",
+        "korean": "불고기",
+        "reading_kana": "プルゴギ",
+        "meaning_ja": "プルコギ",
+        "meaning_en": "bulgogi; marinated grilled beef",
+        "surface_form": "불고기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:18。例語고기の横にある写真ラベルから採録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__dc8999f2-9eac-456c-9117-655819d3de82",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "dc8999f2-9eac-456c-9117-655819d3de82",
+      "source_card": {
+        "kind": "word",
+        "korean": "야구",
+        "reading_kana": "ヤグ",
+        "meaning_ja": "野球",
+        "meaning_en": "baseball",
+        "surface_form": "야구",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__e55b39e8-85e7-46e7-a2dd-e0e1a5ae86de",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "e55b39e8-85e7-46e7-a2dd-e0e1a5ae86de",
+      "source_card": {
+        "kind": "word",
+        "korean": "누구",
+        "reading_kana": "ヌグ",
+        "meaning_ja": "だれ",
+        "meaning_en": "who",
+        "surface_form": "누구",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__04897fc3-57d9-4720-a561-74f3878a41f7",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "04897fc3-57d9-4720-a561-74f3878a41f7",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "나가요",
+        "reading_kana": "ナガヨ",
+        "meaning_ja": "出かけます",
+        "meaning_en": "go out (polite)",
+        "surface_form": "나가요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:48。動画の丁寧形を保持。辞書形は나가다。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__5befed8e-eb64-41e9-bb85-19ea97a091a7",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "5befed8e-eb64-41e9-bb85-19ea97a091a7",
+      "source_card": {
+        "kind": "word",
+        "korean": "누나",
+        "reading_kana": "ヌナ",
+        "meaning_ja": "姉・お姉さん（男性から）",
+        "meaning_en": "older sister (said by a male)",
+        "surface_form": "누나",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 07:53。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__cfa220c5-3875-4df4-a85e-9483989fdf29",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "cfa220c5-3875-4df4-a85e-9483989fdf29",
+      "source_card": {
+        "kind": "word",
+        "korean": "가다",
+        "reading_kana": "カダ",
+        "meaning_ja": "行く",
+        "meaning_en": "to go",
+        "surface_form": "가다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 08:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__95bdb9f7-f2d2-418b-8147-8a4ce2509bbd",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "95bdb9f7-f2d2-418b-8147-8a4ce2509bbd",
+      "source_card": {
+        "kind": "word",
+        "korean": "어디",
+        "reading_kana": "オディ",
+        "meaning_ja": "どこ",
+        "meaning_en": "where",
+        "surface_form": "어디",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 08:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__f601f476-34c4-4dd9-b99f-3c16c11b39c8",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "f601f476-34c4-4dd9-b99f-3c16c11b39c8",
+      "source_card": {
+        "kind": "word",
+        "korean": "구두",
+        "reading_kana": "クドゥ",
+        "meaning_ja": "靴（革靴など）",
+        "meaning_en": "shoes; dress shoes",
+        "surface_form": "구두",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 08:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__50869142-79d9-407d-a636-7f7c1996e73c",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "50869142-79d9-407d-a636-7f7c1996e73c",
+      "source_card": {
+        "kind": "word",
+        "korean": "우리",
+        "reading_kana": "ウリ",
+        "meaning_ja": "私たち・我々",
+        "meaning_en": "we; us; our",
+        "surface_form": "우리",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 08:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__3e7b1502-6632-4328-b4a3-02ecc00ef73c",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "3e7b1502-6632-4328-b4a3-02ecc00ef73c",
+      "source_card": {
+        "kind": "word",
+        "korean": "나라",
+        "reading_kana": "ナラ",
+        "meaning_ja": "国",
+        "meaning_en": "country",
+        "surface_form": "나라",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 08:43。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__be28f51f-0230-494d-a6b3-b07992889059",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "be28f51f-0230-494d-a6b3-b07992889059",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "우리 나라",
+        "reading_kana": "ウリナラ",
+        "meaning_ja": "私たちの国",
+        "meaning_en": "our country",
+        "surface_form": "우리 나라",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 08:53。動画の分かち書きを保持。通常の見出し表記は우리나라。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__09275ef4-071c-498d-8afe-43550e12fc68",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "09275ef4-071c-498d-8afe-43550e12fc68",
+      "source_card": {
+        "kind": "word",
+        "korean": "도로",
+        "reading_kana": "トロ",
+        "meaning_ja": "道路",
+        "meaning_en": "road",
+        "surface_form": "도로",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 09:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__c04c1215-2ed3-40d0-a87b-a473af0833f8",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "c04c1215-2ed3-40d0-a87b-a473af0833f8",
+      "source_card": {
+        "kind": "word",
+        "korean": "운동",
+        "reading_kana": "ウンドン",
+        "meaning_ja": "運動",
+        "meaning_en": "exercise",
+        "surface_form": "운동",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 09:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__75fd20fe-02a2-4b8b-bad2-d317949079e1",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "75fd20fe-02a2-4b8b-bad2-d317949079e1",
+      "source_card": {
+        "kind": "word",
+        "korean": "계산",
+        "reading_kana": "ケサン",
+        "meaning_ja": "計算",
+        "meaning_en": "calculation",
+        "surface_form": "계산",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ここでは日常的なケサンに近い読みを採用。계にはケ／キェに近い読みがある。",
+        "note_ja": "動画画面確認 09:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__faa7102b-660f-469b-88dd-8073cbd41550",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "faa7102b-660f-469b-88dd-8073cbd41550",
+      "source_card": {
+        "kind": "word",
+        "korean": "나무",
+        "reading_kana": "ナム",
+        "meaning_ja": "木",
+        "meaning_en": "tree",
+        "surface_form": "나무",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 09:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__62b119bd-29db-4626-bf69-760549c604e7",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "62b119bd-29db-4626-bf69-760549c604e7",
+      "source_card": {
+        "kind": "word",
+        "korean": "어머니",
+        "reading_kana": "オモニ",
+        "meaning_ja": "お母さん",
+        "meaning_en": "mother",
+        "surface_form": "어머니",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 09:43。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__e5927dcf-7b6b-4bb2-9501-2ccd356a2d6b",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "e5927dcf-7b6b-4bb2-9501-2ccd356a2d6b",
+      "source_card": {
+        "kind": "word",
+        "korean": "고구마",
+        "reading_kana": "コグマ",
+        "meaning_ja": "さつまいも",
+        "meaning_en": "sweet potato",
+        "surface_form": "고구마",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 09:53。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__e3db4eec-6343-41e1-894e-da429b74ede8",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "e3db4eec-6343-41e1-894e-da429b74ede8",
+      "source_card": {
+        "kind": "word",
+        "korean": "두부",
+        "reading_kana": "トゥブ",
+        "meaning_ja": "豆腐",
+        "meaning_en": "tofu",
+        "surface_form": "두부",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__71ef99ea-b23e-4c34-8bea-542437525dea",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "71ef99ea-b23e-4c34-8bea-542437525dea",
+      "source_card": {
+        "kind": "word",
+        "korean": "나비",
+        "reading_kana": "ナビ",
+        "meaning_ja": "蝶",
+        "meaning_en": "butterfly",
+        "surface_form": "나비",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__8a313559-1ace-4d01-b7c0-2c8258e0880e",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "8a313559-1ace-4d01-b7c0-2c8258e0880e",
+      "source_card": {
+        "kind": "word",
+        "korean": "바다",
+        "reading_kana": "パダ",
+        "meaning_ja": "海",
+        "meaning_en": "sea",
+        "surface_form": "바다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__33637cf3-607e-4d32-81c9-f2052c8938e8",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "33637cf3-607e-4d32-81c9-f2052c8938e8",
+      "source_card": {
+        "kind": "word",
+        "korean": "소",
+        "reading_kana": "ソ",
+        "meaning_ja": "牛",
+        "meaning_en": "cow; cattle",
+        "surface_form": "소",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__1c7731a5-d59e-4b2d-b91a-322c4c45c1eb",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "1c7731a5-d59e-4b2d-b91a-322c4c45c1eb",
+      "source_card": {
+        "kind": "word",
+        "korean": "스시",
+        "reading_kana": "スシ",
+        "meaning_ja": "寿司",
+        "meaning_en": "sushi",
+        "surface_form": "스시",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__81a7a010-97e3-4036-82b5-cc89fb20a9c4",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "81a7a010-97e3-4036-82b5-cc89fb20a9c4",
+      "source_card": {
+        "kind": "word",
+        "korean": "가수",
+        "reading_kana": "カス",
+        "meaning_ja": "歌手",
+        "meaning_en": "singer",
+        "surface_form": "가수",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__1a6ff524-aaa5-4c17-bbae-fd0881db2ad4",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "1a6ff524-aaa5-4c17-bbae-fd0881db2ad4",
+      "source_card": {
+        "kind": "word",
+        "korean": "여자",
+        "reading_kana": "ヨジャ",
+        "meaning_ja": "女性",
+        "meaning_en": "woman",
+        "surface_form": "여자",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:43。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__9433d850-7cef-429b-9be3-3cf955c3c5f6",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "9433d850-7cef-429b-9be3-3cf955c3c5f6",
+      "source_card": {
+        "kind": "word",
+        "korean": "아버지",
+        "reading_kana": "アボジ",
+        "meaning_ja": "お父さん",
+        "meaning_en": "father",
+        "surface_form": "아버지",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__f28d56df-c94c-4d29-b553-a9d68cecfafb",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "f28d56df-c94c-4d29-b553-a9d68cecfafb",
+      "source_card": {
+        "kind": "word",
+        "korean": "저고리",
+        "reading_kana": "チョゴリ",
+        "meaning_ja": "チョゴリ（韓服の上着）",
+        "meaning_en": "jeogori; upper garment of hanbok",
+        "surface_form": "저고리",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 10:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__3be95a0b-3bc3-47de-a95e-ada6a8d2ddfe",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "3be95a0b-3bc3-47de-a95e-ada6a8d2ddfe",
+      "source_card": {
+        "kind": "word",
+        "korean": "허리",
+        "reading_kana": "ホリ",
+        "meaning_ja": "腰",
+        "meaning_en": "waist; lower back",
+        "surface_form": "허리",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 11:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__633c8e69-79f9-4e38-8b64-3419a1e91e91",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "633c8e69-79f9-4e38-8b64-3419a1e91e91",
+      "source_card": {
+        "kind": "word",
+        "korean": "휴지",
+        "reading_kana": "ヒュジ",
+        "meaning_ja": "トイレットペーパー",
+        "meaning_en": "toilet paper",
+        "surface_form": "휴지",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 11:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__01b0e549-bf7b-4580-8a84-d7dfac3de427",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "01b0e549-bf7b-4580-8a84-d7dfac3de427",
+      "source_card": {
+        "kind": "word",
+        "korean": "오후",
+        "reading_kana": "オフ",
+        "meaning_ja": "午後",
+        "meaning_en": "afternoon",
+        "surface_form": "오후",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 11:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__61118e1e-486f-43e0-97ae-04c5dcf67821",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "61118e1e-486f-43e0-97ae-04c5dcf67821",
+      "source_card": {
+        "kind": "word",
+        "korean": "고추",
+        "reading_kana": "コチュ",
+        "meaning_ja": "唐辛子",
+        "meaning_en": "chili pepper",
+        "surface_form": "고추",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__7f7d0333-4a5b-4672-9046-f4344857e183",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "7f7d0333-4a5b-4672-9046-f4344857e183",
+      "source_card": {
+        "kind": "word",
+        "korean": "기차",
+        "reading_kana": "キチャ",
+        "meaning_ja": "汽車・列車",
+        "meaning_en": "train",
+        "surface_form": "기차",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__9e8fbc2b-3f5e-416e-acde-a4f5d6d70ac6",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "9e8fbc2b-3f5e-416e-acde-a4f5d6d70ac6",
+      "source_card": {
+        "kind": "word",
+        "korean": "치마",
+        "reading_kana": "チマ",
+        "meaning_ja": "スカート",
+        "meaning_en": "skirt",
+        "surface_form": "치마",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__82d2d47e-2508-4665-b5a2-7a97ce4e1516",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "82d2d47e-2508-4665-b5a2-7a97ce4e1516",
+      "source_card": {
+        "kind": "word",
+        "korean": "쿠키",
+        "reading_kana": "クキ",
+        "meaning_ja": "クッキー",
+        "meaning_en": "cookie",
+        "surface_form": "쿠키",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__bc054ea6-eec1-49a9-a848-df52f69f643f",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "bc054ea6-eec1-49a9-a848-df52f69f643f",
+      "source_card": {
+        "kind": "word",
+        "korean": "카지노",
+        "reading_kana": "カジノ",
+        "meaning_ja": "カジノ",
+        "meaning_en": "casino",
+        "surface_form": "카지노",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__127f5a6c-bc2c-4048-bd5c-8def20d0c447",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "127f5a6c-bc2c-4048-bd5c-8def20d0c447",
+      "source_card": {
+        "kind": "word",
+        "korean": "오쿠보",
+        "reading_kana": "オクボ",
+        "meaning_ja": "大久保（地名）",
+        "meaning_en": "Okubo (place name)",
+        "surface_form": "오쿠보",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__35a67bb8-5a25-443e-ab63-b18de8b96172",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "35a67bb8-5a25-443e-ab63-b18de8b96172",
+      "source_card": {
+        "kind": "word",
+        "korean": "도토리",
+        "reading_kana": "トトリ",
+        "meaning_ja": "どんぐり",
+        "meaning_en": "acorn",
+        "surface_form": "도토리",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:53。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__42410b64-b390-4933-99e7-d010fe012ebf",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "42410b64-b390-4933-99e7-d010fe012ebf",
+      "source_card": {
+        "kind": "word",
+        "korean": "토스트",
+        "reading_kana": "トストゥ",
+        "meaning_ja": "トースト",
+        "meaning_en": "toast",
+        "surface_form": "토스트",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 13:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__bc893b71-a233-4d0a-9b9f-749afd42c04f",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "bc893b71-a233-4d0a-9b9f-749afd42c04f",
+      "source_card": {
+        "kind": "word",
+        "korean": "투수",
+        "reading_kana": "トゥス",
+        "meaning_ja": "投手",
+        "meaning_en": "pitcher",
+        "surface_form": "투수",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 14:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__9b599ac3-ec26-4fb5-ac56-fe784aad2746",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "9b599ac3-ec26-4fb5-ac56-fe784aad2746",
+      "source_card": {
+        "kind": "word",
+        "korean": "피자",
+        "reading_kana": "ピジャ",
+        "meaning_ja": "ピザ",
+        "meaning_en": "pizza",
+        "surface_form": "피자",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 14:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__81f6e79d-86b3-414b-bb4b-8c61d8444fd9",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "81f6e79d-86b3-414b-bb4b-8c61d8444fd9",
+      "source_card": {
+        "kind": "word",
+        "korean": "커피",
+        "reading_kana": "コピ",
+        "meaning_ja": "コーヒー",
+        "meaning_en": "coffee",
+        "surface_form": "커피",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 14:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__b5e9151c-b712-4773-9fef-f939a4b3a6f5",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "b5e9151c-b712-4773-9fef-f939a4b3a6f5",
+      "source_card": {
+        "kind": "word",
+        "korean": "아파트",
+        "reading_kana": "アパトゥ",
+        "meaning_ja": "マンション・集合住宅",
+        "meaning_en": "apartment building",
+        "surface_form": "아파트",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 14:38。動画の日本語表示は「アパート」。韓国語では主にマンション型の集合住宅を指す。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__ff39a135-0c35-4700-a9e9-5e54af5dbf07",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "ff39a135-0c35-4700-a9e9-5e54af5dbf07",
+      "source_card": {
+        "kind": "word",
+        "korean": "꼬리",
+        "reading_kana": "ッコリ",
+        "meaning_ja": "尻尾",
+        "meaning_en": "tail",
+        "surface_form": "꼬리",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 17:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__25de854e-4471-40da-a1a6-3f3dddaa8c3a",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "25de854e-4471-40da-a1a6-3f3dddaa8c3a",
+      "source_card": {
+        "kind": "word",
+        "korean": "끄다",
+        "reading_kana": "ックダ",
+        "meaning_ja": "消す（火・電気など）",
+        "meaning_en": "to turn off; to extinguish",
+        "surface_form": "끄다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 17:53。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__474cfeb7-b0a3-4b42-9c97-1c0e3adcdc22",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "474cfeb7-b0a3-4b42-9c97-1c0e3adcdc22",
+      "source_card": {
+        "kind": "word",
+        "korean": "아까",
+        "reading_kana": "アッカ",
+        "meaning_ja": "さっき",
+        "meaning_en": "a little while ago",
+        "surface_form": "아까",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__fd067d8f-783d-4eb3-a64c-b0483160f3db",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "fd067d8f-783d-4eb3-a64c-b0483160f3db",
+      "source_card": {
+        "kind": "word",
+        "korean": "또",
+        "reading_kana": "ット",
+        "meaning_ja": "また",
+        "meaning_en": "again",
+        "surface_form": "또",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__d20125cb-56b9-427f-8c19-56054f548c79",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "d20125cb-56b9-427f-8c19-56054f548c79",
+      "source_card": {
+        "kind": "word",
+        "korean": "소띠",
+        "reading_kana": "ソッティ",
+        "meaning_ja": "丑年生まれ",
+        "meaning_en": "born in the Year of the Ox",
+        "surface_form": "소띠",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__d3e87433-cab7-4ff9-bf6f-c11ab54df304",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "d3e87433-cab7-4ff9-bf6f-c11ab54df304",
+      "source_card": {
+        "kind": "word",
+        "korean": "따르다",
+        "reading_kana": "ッタルダ",
+        "meaning_ja": "従う",
+        "meaning_en": "to follow; to obey",
+        "surface_form": "따르다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:48。動画では「従う、懐く」を併記。語義を分けて登録。「注ぐ」の따르다とは別語義。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__51e36d3c-90f5-469e-a797-66fab9751a36",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "51e36d3c-90f5-469e-a797-66fab9751a36",
+      "source_card": {
+        "kind": "word",
+        "korean": "따르다",
+        "reading_kana": "ッタルダ",
+        "meaning_ja": "懐く",
+        "meaning_en": "to be attached to someone",
+        "surface_form": "따르다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:48。動画では「従う、懐く」を併記。語義を分けて登録。「注ぐ」の따르다とは別語義。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__c62377e2-3dbe-47b0-bda9-52fd029bfa86",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "c62377e2-3dbe-47b0-bda9-52fd029bfa86",
+      "source_card": {
+        "kind": "word",
+        "korean": "오빠",
+        "reading_kana": "オッパ",
+        "meaning_ja": "兄・お兄さん（女性から）",
+        "meaning_en": "older brother (said by a female)",
+        "surface_form": "오빠",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 18:53。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__c33c6cfc-1f39-4276-ae76-1ea5d5e6c3a5",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "c33c6cfc-1f39-4276-ae76-1ea5d5e6c3a5",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "바빠요",
+        "reading_kana": "パッパヨ",
+        "meaning_ja": "忙しいです",
+        "meaning_en": "be busy (polite)",
+        "surface_form": "바빠요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:03。動画の丁寧形を保持。辞書形は바쁘다。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__97fc6a32-2c66-4704-97b4-18e7b5e5b445",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "97fc6a32-2c66-4704-97b4-18e7b5e5b445",
+      "source_card": {
+        "kind": "word",
+        "korean": "쓰다",
+        "reading_kana": "ッスダ",
+        "meaning_ja": "使う",
+        "meaning_en": "to use",
+        "surface_form": "쓰다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:08。動画では「使う、書く、かぶる」を併記。語義を分けて登録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__06cf2115-e2cf-4a2a-9e1f-f75544504fe8",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "06cf2115-e2cf-4a2a-9e1f-f75544504fe8",
+      "source_card": {
+        "kind": "word",
+        "korean": "쓰다",
+        "reading_kana": "ッスダ",
+        "meaning_ja": "書く",
+        "meaning_en": "to write",
+        "surface_form": "쓰다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:08。動画では「使う、書く、かぶる」を併記。語義を分けて登録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__d0a908ae-4932-4a65-af84-27fe33f2b098",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "d0a908ae-4932-4a65-af84-27fe33f2b098",
+      "source_card": {
+        "kind": "word",
+        "korean": "쓰다",
+        "reading_kana": "ッスダ",
+        "meaning_ja": "かぶる（帽子など）",
+        "meaning_en": "to wear (a hat)",
+        "surface_form": "쓰다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:08。動画では「使う、書く、かぶる」を併記。語義を分けて登録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__ab5d6fca-c285-4952-b35a-8ee64abf0b51",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "ab5d6fca-c285-4952-b35a-8ee64abf0b51",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "비싸요",
+        "reading_kana": "ピッサヨ",
+        "meaning_ja": "値段が高いです",
+        "meaning_en": "be expensive (polite)",
+        "surface_form": "비싸요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:13。動画の丁寧形を保持。辞書形は비싸다。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__96919469-63b8-40a3-bca5-2472dda22c61",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "96919469-63b8-40a3-bca5-2472dda22c61",
+      "source_card": {
+        "kind": "word",
+        "korean": "짜다",
+        "reading_kana": "ッチャダ",
+        "meaning_ja": "塩辛い",
+        "meaning_en": "to be salty",
+        "surface_form": "짜다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__a0b64108-64f3-47e1-920d-e5ad9089e55d",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "a0b64108-64f3-47e1-920d-e5ad9089e55d",
+      "source_card": {
+        "kind": "word",
+        "korean": "쭈그리다",
+        "reading_kana": "ッチュグリダ",
+        "meaning_ja": "しゃがむ",
+        "meaning_en": "to crouch; to squat",
+        "surface_form": "쭈그리다",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 19:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__1f5b35be-d00d-4bf4-a12f-acd9476920f6",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "1f5b35be-d00d-4bf4-a12f-acd9476920f6",
+      "source_card": {
+        "kind": "word",
+        "korean": "받침",
+        "reading_kana": "パッチム",
+        "meaning_ja": "敷物・台（下で支えるもの）",
+        "meaning_en": "support; rest placed underneath",
+        "surface_form": "받침",
+        "pronunciation_hangul": "받침",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄷの後のㅊに合わせて発音する。カナは目安。",
+        "note_ja": "動画画面確認 22:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__d8c54261-a745-4531-9a13-da4f22726128",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "d8c54261-a745-4531-9a13-da4f22726128",
+      "source_card": {
+        "kind": "word",
+        "korean": "냄비",
+        "reading_kana": "ネンビ",
+        "meaning_ja": "鍋",
+        "meaning_en": "pot; saucepan",
+        "surface_form": "냄비",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 22:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__3300e4cb-dbad-41cb-acca-c5d0e407317d",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "3300e4cb-dbad-41cb-acca-c5d0e407317d",
+      "source_card": {
+        "kind": "word",
+        "korean": "냄비받침",
+        "reading_kana": "ネンビバッチム",
+        "meaning_ja": "鍋敷き",
+        "meaning_en": "trivet; pot stand",
+        "surface_form": "냄비받침",
+        "pronunciation_hangul": "냄비받침",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "終わりのㅁは唇を閉じる。",
+        "note_ja": "動画画面確認 22:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__5ae38aa5-a1e0-4155-9d47-7a534cbee223",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "5ae38aa5-a1e0-4155-9d47-7a534cbee223",
+      "source_card": {
+        "kind": "word",
+        "korean": "책",
+        "reading_kana": "チェク",
+        "meaning_ja": "本",
+        "meaning_en": "book",
+        "surface_form": "책",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 22:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__ef404080-113c-49f6-9a0c-83194cda132d",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "ef404080-113c-49f6-9a0c-83194cda132d",
+      "source_card": {
+        "kind": "word",
+        "korean": "책받침",
+        "reading_kana": "チェクパッチム",
+        "meaning_ja": "下敷き（筆記用）",
+        "meaning_en": "writing board placed under paper",
+        "surface_form": "책받침",
+        "pronunciation_hangul": "책빧침",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄱの後のㅂは濃音。国立国語院の韓国語基礎辞典の発音を参照。",
+        "note_ja": "動画画面確認 22:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__d3c5713d-5f93-42b7-b36e-bc56a4ecd32f",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "d3c5713d-5f93-42b7-b36e-bc56a4ecd32f",
+      "source_card": {
+        "kind": "word",
+        "korean": "입",
+        "reading_kana": "イプ",
+        "meaning_ja": "口",
+        "meaning_en": "mouth",
+        "surface_form": "입",
+        "pronunciation_hangul": "입",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "最後のㅂは唇を閉じて止め、「プ」の母音を足さない。",
+        "note_ja": "動画画面確認 32:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__cff88053-5390-4b5e-90a1-9fef8e1f920a",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "cff88053-5390-4b5e-90a1-9fef8e1f920a",
+      "source_card": {
+        "kind": "word",
+        "korean": "잎",
+        "reading_kana": "イプ",
+        "meaning_ja": "葉",
+        "meaning_en": "leaf",
+        "surface_form": "잎",
+        "pronunciation_hangul": "입",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "語末のㅍはㅂと同じく唇を閉じて止める。",
+        "note_ja": "動画画面確認 32:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__16c8c890-ac13-49ac-9a26-f2ddd7285f37",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "16c8c890-ac13-49ac-9a26-f2ddd7285f37",
+      "source_card": {
+        "kind": "word",
+        "korean": "일",
+        "reading_kana": "イル",
+        "meaning_ja": "日（漢字の「日」）",
+        "meaning_en": "day (Sino-Korean)",
+        "surface_form": "일",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 32:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__d2cfe4a4-9c70-4e8f-95c9-ab92b80c157e",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "d2cfe4a4-9c70-4e8f-95c9-ab92b80c157e",
+      "source_card": {
+        "kind": "word",
+        "korean": "술",
+        "reading_kana": "スル",
+        "meaning_ja": "酒",
+        "meaning_en": "alcoholic drink",
+        "surface_form": "술",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 32:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__6912e5d1-517a-4e4d-86ce-cd6ff5d0eabb",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "6912e5d1-517a-4e4d-86ce-cd6ff5d0eabb",
+      "source_card": {
+        "kind": "word",
+        "korean": "국",
+        "reading_kana": "クク",
+        "meaning_ja": "国（漢字語の構成要素）",
+        "meaning_en": "country; nation (Sino-Korean element)",
+        "surface_form": "국",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 34:38。動画では「国」。スープの국とは別語義。主に한국などの漢字語を構成する。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__62ba8a2f-ec20-4bcc-bc6b-cb4b0becdbad",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "62ba8a2f-ec20-4bcc-bc6b-cb4b0becdbad",
+      "source_card": {
+        "kind": "word",
+        "korean": "학",
+        "reading_kana": "ハク",
+        "meaning_ja": "学（漢字語の構成要素）",
+        "meaning_en": "learning; study (Sino-Korean element)",
+        "surface_form": "학",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 34:43。動画では「学／鶴」を併記。語義を分けて登録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__08504a2e-ce62-4135-b577-1f2e47769d74",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "08504a2e-ce62-4135-b577-1f2e47769d74",
+      "source_card": {
+        "kind": "word",
+        "korean": "학",
+        "reading_kana": "ハク",
+        "meaning_ja": "鶴",
+        "meaning_en": "crane (bird)",
+        "surface_form": "학",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 34:43。動画では「学／鶴」を併記。語義を分けて登録。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__909d47cc-3dd9-482a-a1a2-a92ef3428e64",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "909d47cc-3dd9-482a-a1a2-a92ef3428e64",
+      "source_card": {
+        "kind": "word",
+        "korean": "눈",
+        "reading_kana": "ヌン",
+        "meaning_ja": "目",
+        "meaning_en": "eye",
+        "surface_form": "눈",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 34:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__46fa6e4d-7989-4d4f-8ba7-4c9963ab266e",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "46fa6e4d-7989-4d4f-8ba7-4c9963ab266e",
+      "source_card": {
+        "kind": "word",
+        "korean": "인사",
+        "reading_kana": "インサ",
+        "meaning_ja": "挨拶",
+        "meaning_en": "greeting",
+        "surface_form": "인사",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 35:03。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__e6b5bfdb-d6ed-4166-b514-772d7ef6356f",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "e6b5bfdb-d6ed-4166-b514-772d7ef6356f",
+      "source_card": {
+        "kind": "word",
+        "korean": "봄",
+        "reading_kana": "ポム",
+        "meaning_ja": "春",
+        "meaning_en": "spring",
+        "surface_form": "봄",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 35:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__abb7de68-c9d0-4f7e-b75c-a5d60979301d",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "abb7de68-c9d0-4f7e-b75c-a5d60979301d",
+      "source_card": {
+        "kind": "word",
+        "korean": "김치",
+        "reading_kana": "キムチ",
+        "meaning_ja": "キムチ",
+        "meaning_en": "kimchi",
+        "surface_form": "김치",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 35:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__586ca296-813e-417a-ac7f-60c279317f62",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "586ca296-813e-417a-ac7f-60c279317f62",
+      "source_card": {
+        "kind": "word",
+        "korean": "식당",
+        "reading_kana": "シクタン",
+        "meaning_ja": "食堂",
+        "meaning_en": "restaurant; dining hall",
+        "surface_form": "식당",
+        "pronunciation_hangul": "식땅",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄱの後のㄷが濃音になる。カナの「ク」は母音を足さず止める。",
+        "note_ja": "動画画面確認 35:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__000f1b83-d20d-4e2a-a3c0-5d46b0c4e4c1",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "000f1b83-d20d-4e2a-a3c0-5d46b0c4e4c1",
+      "source_card": {
+        "kind": "word",
+        "korean": "형",
+        "reading_kana": "ヒョン",
+        "meaning_ja": "兄・お兄さん（男性から）",
+        "meaning_en": "older brother (said by a male)",
+        "surface_form": "형",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 35:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__c0be56ad-5335-441e-8b7c-e0942f221441",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "c0be56ad-5335-441e-8b7c-e0942f221441",
+      "source_card": {
+        "kind": "word",
+        "korean": "밥",
+        "reading_kana": "パプ",
+        "meaning_ja": "ご飯",
+        "meaning_en": "cooked rice; meal",
+        "surface_form": "밥",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 36:13。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__20b53360-a837-46a7-8a37-0b26fb68f655",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "20b53360-a837-46a7-8a37-0b26fb68f655",
+      "source_card": {
+        "kind": "word",
+        "korean": "접시",
+        "reading_kana": "チョプシ",
+        "meaning_ja": "皿",
+        "meaning_en": "plate",
+        "surface_form": "접시",
+        "pronunciation_hangul": "접씨",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㅂの後のㅅが濃音になる。カナの「プ」は母音を足さず止める。",
+        "note_ja": "動画画面確認 36:23。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__5e73e2c4-4cc8-406b-bd6b-e4579f8afdee",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "5e73e2c4-4cc8-406b-bd6b-e4579f8afdee",
+      "source_card": {
+        "kind": "word",
+        "korean": "서울",
+        "reading_kana": "ソウル",
+        "meaning_ja": "ソウル",
+        "meaning_en": "Seoul",
+        "surface_form": "서울",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 36:33。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__4093464a-d55b-49f4-82ae-46805e42f81b",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "4093464a-d55b-49f4-82ae-46805e42f81b",
+      "source_card": {
+        "kind": "word",
+        "korean": "일본",
+        "reading_kana": "イルボン",
+        "meaning_ja": "日本",
+        "meaning_en": "Japan",
+        "surface_form": "일본",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 36:43。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__343b2d71-a3ba-4fe9-95fd-ad4872165b89",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "343b2d71-a3ba-4fe9-95fd-ad4872165b89",
+      "source_card": {
+        "kind": "word",
+        "korean": "옷",
+        "reading_kana": "オッ",
+        "meaning_ja": "服",
+        "meaning_en": "clothes",
+        "surface_form": "옷",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 36:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__d164735a-cf6d-47b1-911e-8cbce5a22ed5",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "d164735a-cf6d-47b1-911e-8cbce5a22ed5",
+      "source_card": {
+        "kind": "word",
+        "korean": "맛",
+        "reading_kana": "マッ",
+        "meaning_ja": "味",
+        "meaning_en": "taste; flavor",
+        "surface_form": "맛",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 37:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__69e2a6b0-0611-480b-98a2-f0a09d3b4560",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "69e2a6b0-0611-480b-98a2-f0a09d3b4560",
+      "source_card": {
+        "kind": "word",
+        "korean": "한국어",
+        "reading_kana": "ハングゴ",
+        "meaning_ja": "韓国語",
+        "meaning_en": "Korean language",
+        "surface_form": "한국어",
+        "pronunciation_hangul": "한구거",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "국のㄱが次の어につながる。",
+        "note_ja": "動画画面確認 38:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__d962ee34-2764-4066-bbfa-b7b1cc9b715a",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "d962ee34-2764-4066-bbfa-b7b1cc9b715a",
+      "source_card": {
+        "kind": "word",
+        "korean": "떡볶이",
+        "reading_kana": "ットッポッキ",
+        "meaning_ja": "トッポギ",
+        "meaning_en": "tteokbokki; spicy rice cakes",
+        "surface_form": "떡볶이",
+        "pronunciation_hangul": "떡뽀끼",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄱの後のㅂは濃音、볶のㄲは次の이につながる。",
+        "note_ja": "動画画面確認 39:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__31ed29ca-2262-44c0-b5b0-d5767d3db9d0",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "31ed29ca-2262-44c0-b5b0-d5767d3db9d0",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "맛있어요",
+        "reading_kana": "マシッソヨ",
+        "meaning_ja": "おいしいです",
+        "meaning_en": "be delicious (polite)",
+        "surface_form": "맛있어요",
+        "pronunciation_hangul": "마시써요",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "この練習では動画で示されたマシッソヨの読みを採用。",
+        "note_ja": "動画画面確認 42:18。動画の丁寧形を保持。辞書形は맛있다。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__39c87bc3-83ec-46ca-93f5-173718d582de",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "39c87bc3-83ec-46ca-93f5-173718d582de",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "읽어요",
+        "reading_kana": "イルゴヨ",
+        "meaning_ja": "読みます",
+        "meaning_en": "read (polite)",
+        "surface_form": "읽어요",
+        "pronunciation_hangul": "일거요",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄺのㄹを残し、ㄱを次の어につなげる。",
+        "note_ja": "動画画面確認 43:18。動画の丁寧形を保持。辞書形읽다とは別の出題。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__af4201c2-e7ac-4c63-930c-9ed4f9c3ca54",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "af4201c2-e7ac-4c63-930c-9ed4f9c3ca54",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "앉아요",
+        "reading_kana": "アンジャヨ",
+        "meaning_ja": "座ります",
+        "meaning_en": "sit (polite)",
+        "surface_form": "앉아요",
+        "pronunciation_hangul": "안자요",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄵのㄴを残し、ㅈを次の아につなげる。",
+        "note_ja": "動画画面確認 43:28。動画の丁寧形を保持。辞書形앉다とは別の出題。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__689c5f3e-8c4b-4a01-ab9d-748a115509f7",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "689c5f3e-8c4b-4a01-ab9d-748a115509f7",
+      "source_card": {
+        "kind": "word",
+        "korean": "읽다",
+        "reading_kana": "イクッタ",
+        "meaning_ja": "読む",
+        "meaning_en": "to read",
+        "surface_form": "읽다",
+        "pronunciation_hangul": "익따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "읽다ではㄺをㄱとして読み、後ろのㄷは濃音になる。",
+        "note_ja": "動画画面確認 43:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__af60debd-2b48-4973-a82e-e49020425bb1",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "af60debd-2b48-4973-a82e-e49020425bb1",
+      "source_card": {
+        "kind": "word",
+        "korean": "앉다",
+        "reading_kana": "アンッタ",
+        "meaning_ja": "座る",
+        "meaning_en": "to sit",
+        "surface_form": "앉다",
+        "pronunciation_hangul": "안따",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "ㄵは子音の前でㄴが残り、後ろのㄷは濃音になる。",
+        "note_ja": "動画画面確認 45:48。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__f5b496f2-e8e7-4603-8f28-ac3e23ccddd9",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "f5b496f2-e8e7-4603-8f28-ac3e23ccddd9",
+      "source_card": {
+        "kind": "word",
+        "korean": "애기",
+        "reading_kana": "エギ",
+        "meaning_ja": "赤ちゃん（非標準の口語表記）",
+        "meaning_en": "baby (nonstandard colloquial form)",
+        "surface_form": "애기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 53:38。動画の表記を保持。標準語の아기に対する非標準の口語表記で、標準的な作文では아기を使う。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__e9ce594b-078e-47de-a088-5949e2cacd93",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "e9ce594b-078e-47de-a088-5949e2cacd93",
+      "source_card": {
+        "kind": "word",
+        "korean": "얘기",
+        "reading_kana": "イェギ",
+        "meaning_ja": "話",
+        "meaning_en": "story; talk",
+        "surface_form": "얘기",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 53:48。이야기（話）の縮約形。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__103d0334-f7bd-41d1-944d-d8536801c167",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "103d0334-f7bd-41d1-944d-d8536801c167",
+      "source_card": {
+        "kind": "phrase",
+        "korean": "주세요",
+        "reading_kana": "チュセヨ",
+        "meaning_ja": "ください",
+        "meaning_en": "please give me",
+        "surface_form": "주세요",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 53:58。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__39d59822-d99f-4788-92fe-3d6be15aebc2",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "39d59822-d99f-4788-92fe-3d6be15aebc2",
+      "source_card": {
+        "kind": "word",
+        "korean": "사과",
+        "reading_kana": "サグァ",
+        "meaning_ja": "りんご",
+        "meaning_en": "apple",
+        "surface_form": "사과",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 54:08。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__1fb4cdf9-e45d-436e-a3b3-1b8c79d63eaf",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "1fb4cdf9-e45d-436e-a3b3-1b8c79d63eaf",
+      "source_card": {
+        "kind": "word",
+        "korean": "회사",
+        "reading_kana": "フェサ",
+        "meaning_ja": "会社",
+        "meaning_en": "company",
+        "surface_form": "회사",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 54:18。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__c44beb04-76c5-427a-b96b-768b1aae62c0",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "c44beb04-76c5-427a-b96b-768b1aae62c0",
+      "source_card": {
+        "kind": "word",
+        "korean": "의사",
+        "reading_kana": "ウィサ",
+        "meaning_ja": "医者",
+        "meaning_en": "doctor",
+        "surface_form": "의사",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "語頭の의は으から이へ滑らせる二重母音。カナのウィは近似。",
+        "note_ja": "動画画面確認 54:28。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__3566f226-595a-49ca-8db2-effbe55817e5",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "3566f226-595a-49ca-8db2-effbe55817e5",
+      "source_card": {
+        "kind": "word",
+        "korean": "김치찌개",
+        "reading_kana": "キムチッチゲ",
+        "meaning_ja": "キムチチゲ",
+        "meaning_en": "kimchi stew",
+        "surface_form": "김치찌개",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 55:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__5384236c-8642-4276-b97f-4be48a6ab7ea",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "5384236c-8642-4276-b97f-4be48a6ab7ea",
+      "source_card": {
+        "kind": "word",
+        "korean": "삼겹살",
+        "reading_kana": "サムギョプサル",
+        "meaning_ja": "サムギョプサル・豚の三枚肉",
+        "meaning_en": "pork belly; grilled pork belly",
+        "surface_form": "삼겹살",
+        "pronunciation_hangul": null,
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": null,
+        "note_ja": "動画画面確認 55:38。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
+      }
+    },
+    {
+      "id": "87596e44-c9a4-41c8-9ef4-c1abe072959e__56e02c48-7aa4-4e0e-9b0e-809f5f8cd96e",
+      "deck_id": "87596e44-c9a4-41c8-9ef4-c1abe072959e",
+      "card_id": "56e02c48-7aa4-4e0e-9b0e-809f5f8cd96e",
+      "source_card": {
+        "kind": "word",
+        "korean": "닭한마리",
+        "reading_kana": "タカンマリ",
+        "meaning_ja": "タッカンマリ（丸鶏の鍋料理）",
+        "meaning_en": "dak han mari; whole-chicken hot pot",
+        "surface_form": "닭한마리",
+        "pronunciation_hangul": "다칸마리",
+        "romanization": null,
+        "ipa": null,
+        "pronunciation_note_ja": "닭のㄱと한のㅎが合わさりㅋになる。",
+        "note_ja": "動画画面確認 55:40。動画の料理名表記を保持。単なる「鶏一羽」ではなく鍋料理の名前。",
+        "needs_review": false,
+        "review_note_ja": null,
+        "example": null
       }
     }
   ]
